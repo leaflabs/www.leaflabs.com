@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<html><head>
+    {% block head %}
+    <title>{% block title %}leaflabs.com{% endblock title %}</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" type="text/css" href="/theme/reset.css">
+<link rel="stylesheet" type="text/css" href="/theme/default.css">
+<link rel="icon" href="http://static.leaflabs.net/style/favicon.png">
+<link rel="alternate" type="application/rss+xml" title="Leaflabs » home Comments Feed" href="http://leaflabs.com/feed/">
+<link rel="stylesheet" id="openid-css" href="/theme/openid.css" type="text/css" media="all">
+<script type="text/javascript" src="/theme/jquery.js"></script><style type="text/css"></style>
+<script type="text/javascript" src="/theme/openid.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://leaflabs.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://leaflabs.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Leaflabs" href="http://leaflabs.com/">
+<meta name="generator" content="WordPress 2.9.2">
+<link rel="canonical" href="http://leaflabs.com/">
+        {% if FEED_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+        {% endif %}
+        {% if FEED_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+        {% endif %}
+        {% endblock head %}
+</head>
+<body>
+<div id="container">
+<div id="header">
+<div class="linkcontainer">
+<ul>
+  <li><a href="/devices/">devices</a>
+  </li><li><a href="/store/">store</a>
+  </li><li><a href="http://forums.leaflabs.com/">forum</a>
+  </li><li><a href="/docs/">docs</a>
+  </li><li><a href="/blog/">blog</a>
+  </li><li><a href="/about/">about</a>
+</li></ul>
+<form method="get" class="searchform" action="https://duckduckgo.com/">
+  <div>
+  <input type="text" class="searchinput" value="To search, type and hit enter" name="s" id="s" onfocus="if (this.value == &#39;To search, type and hit enter&#39;) {this.value = &#39;&#39;;}" onblur="if (this.value == &#39;&#39;) {this.value = &#39;To search, type and hit enter&#39;;}">
+  <input type="hidden" id="searchsubmit" value="Search">
+  </div>
+</form>
+</div>
+<a href="/"><img id="sitelogo" src="/theme/img/round_logo_60x60.png" alt="logo"></a>
+<a href="/"><span id="sitetitle">LeafLabs</span></a>
+<a href="/"><span id="sitesubtitle">open source electronics</span></a>
+</div>
+<div id="wrapper">
+<div id="content">
+        {% block content %}
+        {% endblock %}
+<br>
+<div id="bottomleft">
+<p style="text-align: center;">
+ <a href="/about/"><strong>About</strong></a>&nbsp;&nbsp;&nbsp;
+ <a href="/contact/"><strong>Contact</strong></a>&nbsp;&nbsp;&nbsp;
+ <a href="/community/"><strong>Community</strong></a>&nbsp;&nbsp;&nbsp;
+ <a href="/distributors/"><strong>Distributors</strong></a>&nbsp;&nbsp;&nbsp;
+ <a href="/licensing/"><strong>Licensing</strong></a>&nbsp;&nbsp;&nbsp;
+ <a href="/feeds/"><strong>Feeds</strong></a>&nbsp;&nbsp;&nbsp;
+ <a href="/search/"><strong>Search</strong></a>
+<br>
+<br>
+</p><p><strong><a href="/devices/">Devices:</a></strong>
+    <a href="/maple/">Maple</a>
+</p><p><strong><a href="/software/">Software:</a></strong> 
+    <a href="/docs/maple-ide/">Maple IDE</a>, 
+    <a href="/docs/libmaple/">libmaple</a>, 
+    <a href="/docs/maple-bootloader/">bootloader</a>
+</p><p><strong><a href="/docs/">Docs:</a></strong> 
+    <a href="/docs/maple/">Maple</a>, 
+    <a href="/docs/maple-ide/">Maple IDE</a>, 
+    <a href="/docs/libmaple/">libmaple</a>, 
+    <a href="/docs/maple-bootloader/">bootloader</a>
+</p></div>
+<div id="bottomright">
+<p>Contact <a href="mailto:webmaster@leaflabs.com">webmaster@leaflabs.com</a> 
+with website issues
+</p><p>Powered by WordPress, nginx, Linux, vim, and coffee.
+</p><p>This site intended to be valid HTML 4.01 Strict. Best viewed with any 
+standards-compliant browser.
+</p><p>Copyright LeafLabs LLC, 2009-2010.
+<br><i>Unless otherwise noted all content on this website is released under the
+Creative Commons Attribution Licence 3.0</i>
+</p><p>Hello Anonymous! <a href="http://leaflabs.com/wp-login.php">Login</a>?
+</p></div>
+</div>
+</div>
+</body>
+</html>

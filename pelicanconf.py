@@ -28,9 +28,15 @@ TAG_SAVE_AS = False
 PATH = '.'
 ARTICLE_DIR = ('posts')
 PAGE_DIR = ('pages')
+#FILES_TO_COPY = (('style', 'style'), )
 STATIC_PATHS = ['style']
+
+#DIRECT_TEMPLATES = ('archives')
 
 FEED_ALL_RSS = 'main.xml'
 FEED_MAX_ITEMS = '20'
+
+THEME = "leaflabs_theme"
+THEME_STATIC_PATHS = ['style', ]
 
 MARKUP = ('rst', 'md', 'html')
