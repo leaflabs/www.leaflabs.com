@@ -4,14 +4,23 @@ Author: Jessb
 Category: Uncategorized
 
 <!-- Google Code for Purchase Conversion Page -->
-
-<p>
 <script type="text/javascript">
-</p>
-/\* \*/\</p\>\<p\>var google\_conversion\_id = 977330924;\</p\>\<p\>var
-google\_conversion\_language = "en";\</p\>\<p\>var
-google\_conversion\_format = "3";\</p\>\<p\>var
-google\_conversion\_color = "ffffff";\</p\>\<p\>var
-google\_conversion\_label = "QmKbCPyNzAIQ7MWD0gM";\</p\>\<p\>var
-google\_conversion\_value = 0;\</p\>\<p\>if (\$50.00) {\</p\>\<p\>
-google\_conversion\_value = \$50.00;\</p\>\<p\>}\</p\>\<p\>/\* \</p\>
+/* <![CDATA[ */
+var google_conversion_id = 977330924;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "QmKbCPyNzAIQ7MWD0gM";
+var google_conversion_value = 0;
+if ($50.00) {
+  google_conversion_value = $50.00;
+}
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/977330924/?value=$50.00&amp;label=QmKbCPyNzAIQ7MWD0gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>

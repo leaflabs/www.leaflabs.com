@@ -2,6 +2,7 @@ Title: About LeafLabs
 Date: 2011-01-28 00:00
 Author: Admin
 Category: Uncategorized
+Slug: about
 
 LeafLabs was founded on the premise that science should not be confined
 to expensive labs filled with shiny equipment, but found on cluttered
@@ -20,22 +21,11 @@ the DIY/hacker hardware [community][], or read our [blog][].
 the team
 --------
 
-</p>
-
-<div style="text-align: center; width: 100%;">
-LeafLabs is comprised of recent MIT alumni and current students.
-
-</p>
-
-![marti][] ![aj][] ![jess][]
-
-![drew][] ![LeafLabs logo][] ![perry][]
-
-![hadley][] ![okie][] ![barry][]
-
-<p>
+<div style="text-align: center; width: 100%;">LeafLabs is comprised of recent MIT alumni and current students.</p>
+<p><img class="alignnone" title="marti" src="http://leaflabs.com/wp-content/uploads/2010/02/martisdljhfpdsklfjs.jpg" alt="marti" width="112" height="112" /> <img class="alignnone" title="aj" src="http://leaflabs.com/wp-content/uploads/2010/02/AJ4now.jpg" alt="aj" width="112" height="112" /> <img class="alignnone" title="jess" src="http://leaflabs.com/wp-content/uploads/2010/02/Jess.jpg" alt="jess" width="112" height="112" /></p>
+<p><img class="alignnone" title="drew" src="http://leaflabs.com/wp-content/uploads/2010/02/Drew3.jpg" alt="drew" width="112" height="112" /> <img class="alignnone" title="LeafLabs" src="http://static.leaflabs.net/img/leaflogo.png" alt="LeafLabs logo" width="112" height="112" /> <img class="alignnone" title="perry" src="http://leaflabs.com/wp-content/uploads/2010/02/n707184_32123242_3056.jpg" alt="perry" width="112" height="112" /></p>
+<p><img class="alignnone" title="hadley" src="http://leaflabs.com/wp-content/uploads/2010/02/hadley.jpg" alt="hadley" width="112" height="112" /> <img class="alignnone" title="okie" src="http://leaflabs.com/wp-content/uploads/2010/02/okie-pcb-150x150.jpg" alt="okie" width="112" height="112" /> <img class="alignnone" title="barry" src="http://leaflabs.com/wp-content/uploads/2010/02/Barry.jpg" alt="barry" width="112" height="112" /> </p>
 </div>
-</p>
 
 FAQ
 ---

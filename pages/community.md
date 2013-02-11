@@ -3,42 +3,41 @@ Date: 2010-05-09 04:08
 Author: Bnewbold
 Category: Uncategorized
 
-*Check out our [Open Source Licensing Policies][]!*
-
-### Talk to us!
-
-</p>
-There are a variety of ways you can stay in touch with us at LeafLabs,
-ranging from passive to active. On the passive end, you can follow us on
-Twitter ([@leaflabs][]), or read our [blog][]. A great way to get
-started developing with Leaf, or to get to know the LeafLabs team, is to
-hang out on our IRC channel, which can be found at [\#leafblowers on
-irc.freenode.net][]. You can also find and share anything from projects
-to technical support on [our forum][]. Finally, any direct questions you
-may have can be emailed to [info@leaflabs.com][].
-
-<p>
+<em>Check out our <a href="/licensing/">Open Source Licensing Policies</a>!</em>
+<h3>Talk to us!</h3>
+There are a variety of ways you can stay in touch with us at LeafLabs, ranging from passive to active. On the passive end, you can follow us on Twitter (<a href="http://twitter.com/leaflabs">@leaflabs</a>), or read our <a href="http://leaflabs.com/blog/">blog</a>. A great way to get started developing with Leaf, or to get to know the LeafLabs team, is to hang out on our IRC channel, which can be found at <a href="http://webchat.freenode.net/">#leafblowers on irc.freenode.net</a>. You can also find and share anything from projects to technical support on <a href="http://forums.leaflabs.com">our forum</a>. Finally, any direct questions you may have can be emailed to <a href="mailto:info@leaflabs.com">info@leaflabs.com</a>.
 <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-</p>
-<p>
-<script type="text/javascript">
-// \</p\>\<p\>new TWTR.Widget({\</p\>\<p\> version: 2,\</p\>\<p\> type:
-'list',\</p\>\<p\> rpp: 30,\</p\>\<p\> interval: 6000,\</p\>\<p\> title:
-'ugh twitter ugh',\</p\>\<p\> subject: '',\</p\>\<p\> width:
-'auto',\</p\>\<p\> height: 200,\</p\>\<p\> theme: {\</p\>\<p\> shell:
-{\</p\>\<p\> background: '\#33941f',\</p\>\<p\> color:
-'\#ffffff'\</p\>\<p\> },\</p\>\<p\> tweets: {\</p\>\<p\> background:
-'\#ffffff',\</p\>\<p\> color: '\#444444',\</p\>\<p\> links:
-'\#397adb'\</p\>\<p\> }\</p\>\<p\> },\</p\>\<p\> features: {\</p\>\<p\>
-scrollbar: true,\</p\>\<p\> loop: false,\</p\>\<p\> live:
-false,\</p\>\<p\> hashtags: true,\</p\>\<p\> timestamp: true,\</p\>\<p\>
-avatars: true,\</p\>\<p\> behavior: 'all'\</p\>\<p\>
-}\</p\>\<p\>}).render().setList('leaflabs',
-'community').start();\</p\>\<p\>// \</p\>
+ <script type="text/javascript">// <![CDATA[
+new TWTR.Widget({
+  version: 2,
+  type: 'list',
+  rpp: 30,
+  interval: 6000,
+  title: 'ugh twitter ugh',
+  subject: '',
+  width: 'auto',
+  height: 200,
+  theme: {
+    shell: {
+      background: '#33941f',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#444444',
+      links: '#397adb'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: true,
+    behavior: 'all'
+  }
+}).render().setList('leaflabs', 'community').start();
+// ]]></script>
 
-  [Open Source Licensing Policies]: /licensing/
-  [@leaflabs]: http://twitter.com/leaflabs
-  [blog]: http://leaflabs.com/blog/
-  [\#leafblowers on irc.freenode.net]: http://webchat.freenode.net/
-  [our forum]: http://forums.leaflabs.com
-  [info@leaflabs.com]: mailto:info@leaflabs.com
+<script src="http://l.yimg.com/a/i/us/pps/listbadge_1.3.js">{"pipe_id":"6741f7b433b24f615b011aad478512d7","_btype":"list","width":"770","height":"400"}</script>

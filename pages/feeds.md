@@ -2,18 +2,12 @@ Title: RSS Feeds!
 Date: 2010-05-10 15:46
 Author: Bnewbold
 Category: Uncategorized
+Slug: feeds
 
 We've got your blog feeds, your comment feeds, your dev feeds, etc!
-
--   Github Feed: [All Public Activity][] (atom)
--   Blog Feed: [All Posts][]
--   [][]Twitter: [All @leaflabs tweets][]
--   [][All @leaflabs tweets]Flickr: [Photostream][]
-
-</p>
-
-  [All Public Activity]: http://github.com/leaflabs.atom
-  [All Posts]: http://leaflabs.com/blog/feed/
-  []: http://www.leaflabs.net/blog/feed/
-  [All @leaflabs tweets]: http://twitter.com/statuses/user_timeline/57240247.rss
-  [Photostream]: http://api.flickr.com/services/feeds/photos_public.gne?id=48069758@N08&lang=en-us&format=rss_200
+<ul>
+	<li>Github Feed: <a href="http://github.com/leaflabs.atom">All Public Activity</a> (atom)</li>
+	<li>Blog Feed: <a href="http://leaflabs.com/blog/feed/">All Posts</a></li>
+	<li><a href="http://www.leaflabs.net/blog/feed/"></a>Twitter: <a href="http://twitter.com/statuses/user_timeline/57240247.rss">All @leaflabs tweets</a></li>
+	<li><a href="http://twitter.com/statuses/user_timeline/57240247.rss"></a>Flickr: <a href="http://api.flickr.com/services/feeds/photos_public.gne?id=48069758@N08&amp;lang=en-us&amp;format=rss_200">Photostream</a></li>
+</ul>
