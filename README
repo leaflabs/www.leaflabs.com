@@ -13,3 +13,6 @@ deduced from the title of the page or from the 'slug' metadata attribute.
 The URL of a "post" (not a page) is based on both the date (specified in
 metadata) and the slug (based on the title, or overwritten in metadata).
 
+# Theme
+
+To edit the site-wide theme, check in `leaflabs_theme/templates/base.html`.
