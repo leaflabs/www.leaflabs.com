@@ -1,0 +1,9 @@
+*.o
+*.a
+*.pyc
+*~
+*.swp
+.*
+*.tmp
+*.old
+output
