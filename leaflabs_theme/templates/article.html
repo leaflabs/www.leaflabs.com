@@ -1,23 +1,26 @@
 {% extends "base.html" %}
 {% block content %}
-<section id="content" class="body">
-  <header>
-    <h2 class="entry-title">
-      <a href="{{ article.url }}" rel="bookmark"
-         title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
-  </header>
-  <footer class="post-info">
-    <abbr class="published" title="{{ article.date.isoformat() }}">
-      {{ article.locale_date }}
-    </abbr>
-    {% if article.author %}
-    <address class="vcard author">
-      By <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
-    </address>
-    {% endif %}
-  </footer><!-- /.post-info -->
-  <div class="entry-content">
-    {{ article.content }}
-  </div><!-- /.entry-content -->
-</section>
+<br>
+<br>
+<div class="blogtitle">
+<h3>
+<a href="{{ article.url }}" rel="bookmark"
+         title="Permalink to {{ article.title|striptags }}">blog / {{ article.title }}</a>
+</h3>
+</div>
+<br>
+<div class="entry">
+{{ article.content }}
+
+<br>
+
+<div class="blogpostinfo alt">
+<small>
+This entry was posted by {{ article.author }} on {{ article.locale_date }}.
+Ancient comments may be available at 
+<a href="http://web.archive.org/web/20130115024557/{{ article.url }}">archive.org</a>.
+</small>
+</div>
+</div>
+
 {% endblock %}

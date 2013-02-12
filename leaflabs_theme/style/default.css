@@ -274,7 +274,7 @@ div#frontheader a{
 }
 div.blogtitle {
     width: 100%;
-    border-bottom: 2px gray solid;
+    /* border-bottom: 2px gray solid; */
 }
 div.blogtitle a {
     font-size: 1.3em;
