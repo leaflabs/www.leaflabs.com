@@ -1,11 +1,20 @@
 {% extends "base.html" %}
 {% block content %}
-<h1>Archives for {{ SITENAME }}</h1>
+<br>
+<h1>Complete Blog Archives</h1>
+<br>
+<br>
 
-<dl>
+<center>
+<table style="border: none;">
 {% for article in dates %}
-    <dt>{{ article.locale_date }}</dt>
-    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+<tr>
+  <td style="font-weight: bold; text-align: right; border: none; padding: 4px;">
+    {{ article.locale_date }}</td>
+  <td style="border: none; padding: 4px;"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+</tr>
 {% endfor %}
-</dl>
+</table>
+</center>
+
 {% endblock %}

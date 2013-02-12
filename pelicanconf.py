@@ -21,6 +21,7 @@ PAGE_SAVE_AS = '{slug}/index.html'
 PAGE_LANG_URL = '{lang}/{slug}/'
 PAGE_LANG_SAVE_AS = '{lang}/{slug}/index.html'
 INDEX_SAVE_AS = 'blog/index.html'
+ARCHIVES_SAVE_AS = 'blog/archives/index.html'
 
 #AUTHOR_SAVE_AS = False
 #CATEGORY_SAVE_AS = False
