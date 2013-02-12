@@ -6,6 +6,7 @@ SITENAME = u'LeafLabs'
 SITEURL = 'http://leaflabs.com'
 
 TIMEZONE = 'UTC'
+DATE_FORMATS = { 'en': '%A, %B %d, %Y', }
 
 DEFAULT_LANG = u'en'
 

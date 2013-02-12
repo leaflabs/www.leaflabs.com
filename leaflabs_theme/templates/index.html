@@ -1,22 +1,33 @@
 {% extends "base.html" %}
 {% block content %}        
-<section id="content">
 {% block content_title %}
-<h2>All articles</h2>
+<center>
+<h2>Recent blog posts...</h2>
+</center>
 {% endblock %}
-
-<ol id="post-list">
-{% for article in articles_page.object_list %}        
-        <li><article class="hentry">    
-                <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title}}">{{ article.title }}</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.locale_date }} </abbr>
-                    {% if article.author %}<address class="vcard author">By <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a></address>{% endif %}
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
-        </article></li>
-{% endfor %}
-</ol><!-- /#posts-list -->
 {% include 'pagination.html' %}
-</section><!-- /#content -->
+
+{% for article in articles_page.object_list %}        
+<div class="blogtitle">
+<h3>
+<a href="{{ article.url }}" rel="bookmark"
+         title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+</h3>
+</div>
+<div class="entry">
+{{ article.content }}
+
+<br>
+
+<div class="blogpostinfo alt">
+<small>
+This entry was posted by {{ article.author }} on {{ article.locale_date }}.
+Discuss in the <a href="http://forums.leaflabs.com">forums</a>.
+Ancient comments may be available at 
+<a href="http://web.archive.org/web/20130115024557/http://leaflabs.com/{{ article.url }}">archive.org</a>.
+</small>
+</div>
+</div>
+{% endfor %}
+{% include 'pagination.html' %}
 {% endblock content %}
