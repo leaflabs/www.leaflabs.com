@@ -7,6 +7,8 @@ make serve
 
 # URLs
 
+The front page is './home.html'.
+
 The URL of a "page" (not a blog post) is based on it's "slug", which is either
 deduced from the title of the page or from the 'slug' metadata attribute.
 
