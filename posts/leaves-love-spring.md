@@ -9,8 +9,6 @@ and conversations; thanks for all your interest!
 
 [![maple rev3][]][]
 
-</p>
-
 On the top of our stack is the next batch of Maple boards, rev3. We've
 got a small production batch back for testing and will have boards for
 sale as soon as the full run comes back from assembly. We're toiling
@@ -53,8 +51,6 @@ reasonable audio-frequency waveforms. Okie has been working on a basic
 audio shield with nice active filters and other goodies.
 
 [![Basic Audio Shield Prototype][]][]
-
-</p>
 
 Of course a dedicated DAC could give much higher audio fidelity, and
 many microcontrollers can implement basic audio synthesis. We're

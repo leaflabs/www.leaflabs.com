@@ -3,166 +3,153 @@ Date: 2010-02-14 00:39
 Author: Jessb
 Category: Uncategorized
 
-<span style="font-size: small;">Hi everyone! As you can probably tell
+Hi everyone! As you can probably tell
 from Okie's awesome picture in the post below, we got back the
 prototypes for Maple Rev2 about a week ago. You may recall that the
 revisions were to fix two issues. The first is that the I/O has been
 relabeled in a format we think makes more sense for use with the STM32 –
 the pins are no longer divided into analog and digital banks,
-</span><span style="font-size: small;">although we've made sure the pins
+although we've made sure the pins
 in those locations have those capabilities to maintain Arduino
-compatibility. </span><span style="font-size: small;">Maple pins are now
+compatibility. Maple pins are now
 numbered from 0 to 43 have have labels on each pin indicating its
-capabilities </span><span style="font-size: small;">(don't worry, the
+capabilities (don't worry, the
 library will still support the numbering scheme from Rev1)
-</span><span style="font-size: small;">like PWM, AIN for analog input,
+like PWM, AIN for analog input,
 TX1, RX1 for Serial1 port (there are 3 total), and the pins in all the
-SPI and I2C buses.</span>
+SPI and I2C buses.
 
-</p>
+![][]
 
-<span style="font-size: small;">
+![][1]
 
-</span>
-
-[![][]][]
-
-</p>
-
-[![][1]][1]
-
-</p>
-
-</p>
-
-<span style="font-size: small;">The second
-</span><span style="font-size: small;">issue to fix in this
-revision</span><span style="font-size: small;"> was
-</span><span style="font-size: small;">slightly more
-serious</span><span style="font-size: small;">. We had encountered a
+The second issue to fix in this
+revision was
+slightly more
+serious. We had encountered a
 pretty significant voltage swing on
-</span><span style="font-size: small;">VCC</span><span style="font-size: small;">
+VCC
 – a sawtooth that was up to 1.5 V peak-to-peak, with no code running on
 the chip, depending on the power source used. The digital I/O worked
 fine even with the variation, but we shipped the Rev1 boards with a 10
 uF through-hole bypass cap that was intended to knock out the swing for
 those of you working on analog projects. Rev2 incorporated an extra 10
-uF bypass into the design.</span>
+uF bypass into the design.
 
-</p>
 
-<span style="font-size: small;">
 
-</span>
 
-<span style="font-size: small;">We got the boards back and the extra
+
+
+
+We got the boards back and the extra
 bypass seemed to do a pretty impressive job of knocking out the swing,
 dropping it down to baseline max 70 mV versus the aforementioned 1.5
 V.\* Still, it's just not quite as good as we would like.
-</span><span style="font-size: small;">We're still
-seeing</span><span style="font-size: small;"> spikes
-</span><span style="font-size: small;">on
-VCC</span><span style="font-size: small;"> of up to 300 mV when pulling
+We're still
+seeing spikes
+on
+VCC of up to 300 mV when pulling
 on some of the peripherals (especially USB). And the twelve-bit ADCs,
 which we've all been really excited about using, are losing up to six
-bits of resolution </span><span style="font-size: small;">with some
+bits of resolution with some
 combinations of peripherals turned
-on</span><span style="font-size: small;">.</span>
+on.
 
-</p>
 
-<span style="font-size: small;">
 
-</span>
 
-<span style="font-size: small;">This isn't totally unexpected -- several
+
+
+
+This isn't totally unexpected -- several
 of the other STM32 dev boards we tested are similarly noisy. Even so,
-</span><span style="font-size: small;">we're really just not satisfied
+we're really just not satisfied
 with these results, and after a lot of
-</span><span style="font-size: small;">experimenting and
-</span><span style="font-size: small;">deliberation, we realized we
+experimenting and
+deliberation, we realized we
 really just couldn't get the clean signals with
-</span><span style="font-size: small;">a two layer board. Because of
+a two layer board. Because of
 this, we've decided to switch to a four layer board. The next revision
 of Maple will have dedicated ground and power planes, which should (we
-hope!) solve all of our noise problems.</span>
+hope!) solve all of our noise problems.
 
-</p>
 
-<span style="font-size: small;">
 
-</span>
 
-<span style="font-size: small;">Of course (bet you saw this coming,
+
+
+
+Of course (bet you saw this coming,
 didn't you?), what this means for you is that the next revision of
 Maples will be shipping out about one to two weeks later than we hoped
 for. This means, ultra best case scenario, the new Maples will be
 shipping around March 10, and ultra worst case scenario, around December
 2040, considering what good luck we had with production last time. Okay,
 just kidding – medium worst case scenario would probably be sometime
-around March 31.</span>
+around March 31.
 
-</p>
 
-<span style="font-size: small;">
 
-</span>
 
-<span style="font-size: small;">Okie has been working tirelessly on the
+
+
+
+Okie has been working tirelessly on the
 new four layer design, and it is nearly finished, so we should have
 prototypes back within a week. Once those are back and tested, we will
 be sending them to production, and at that time (probably around
 February 23) we will once again be taking
-pre-orders</span><span style="font-size: small;">!</span>
+pre-orders!
 
-</p>
 
-<span style="font-size: small;">
 
-</span>
 
-<span style="font-size: small;">We've been getting a lot of really
+
+
+
+We've been getting a lot of really
 wonderful feedback on the Rev1 boards, and a lot of interest in Rev2.
 For those of you who have been waiting for a Rev2, we really are truly
 sorry for the added delay and inconvenience. We just hope you guys are
 willing to stick with us a little longer, and that you
-</span><span style="font-size: small;">understand our desire to avoid
+understand our desire to avoid
 sending out a product that's not 100% as sweet as it could be. Thanks
-for being so awesome, everyone.</span>
+for being so awesome, everyone.
 
-</p>
 
-<span style="font-size: small;">
 
-</span>
 
-</p>
 
-**<span style="font-size: small;">Maple is switching to a four layer
+
+
+
+
+**Maple is switching to a four layer
 board to solve some lingering noise issues, and so will be one or two
-weeks behind schedule – we're really sorry for the delay!</span>**
+weeks behind schedule – we're really sorry for the delay!**
 
-</p>
 
-<span style="font-size: small;">
 
-</span>
 
-</p>
 
-<span style="font-size: small;">\*OK, that isn't 100% true. I mean, it
+
+
+
+
+\*OK, that isn't 100% true. I mean, it
 is, but that's not what happened right away. Here's the entire sordid
 story for the interested, edited out above for clarity's sake: we got
 the boards back and were STILL seeing, baseline with no code on the
-board, a sawtooth of about 300 mV, despite the bypass. </span>
+board, a sawtooth of about 300 mV, despite the bypass. 
 
-</p>
+
 
 ![maple-r1-VCC-nocap][]![maple-r1-VCC-ceramic10uF][]
 
-</p>
 
-<span style="font-size: small;">We were like WTF? So we did a ridiculous
+
+We were like WTF? So we did a ridiculous
 amount of tests, and at some point we dumped ANOTHER bypass on the
 header (a la our impromptu fix for Rev1), and it was fixed. Again we
 were like WTF? So after lots of digging we eventually realized that the
@@ -171,27 +158,16 @@ equivalent series resistance. The bypass we'd added to the design was
 ceramic – very little ESR. The one we'd been putting in the header was
 aluminum electrolytic – plenty of ESR. OH. So we replaced the ceramic
 one with an electrolytic one and voila, the results detailed above.
-</span><span style="font-size: small;"> </span>
-
-</p>
+ 
 
 ![maple-r1-VCC-electrolytic10uF][]
 
-</p>
-
-<span style="font-size: small;">We share this story with you just in
+We share this story with you just in
 case you ever come across a similar problem and are like WTF?, you might
-learn from our travails.</span>
-
-</p>
-
-</p>
+learn from our travails.
 
   []: http://dl.dropbox.com/u/42394/maple-v25-front.png
   [1]: http://dl.dropbox.com/u/42394/maple-v25-back.png
-  [maple-r1-VCC-nocap]: http://blogs.leaflabs.com/wp-content/uploads/maple-r1-VCC-nocap-150x150.jpg
-    "maple-r1-VCC-nocap"
-  [maple-r1-VCC-ceramic10uF]: http://blogs.leaflabs.com/wp-content/uploads/maple-r1-VCC-ceramic10uF-150x150.jpg
-    "maple-r1-VCC-ceramic10uF"
-  [maple-r1-VCC-electrolytic10uF]: http://blogs.leaflabs.com/wp-content/uploads/maple-r1-VCC-electrolytic10uF-150x150.jpg
-    "maple-r1-VCC-electrolytic10uF"
+  [maple-r1-VCC-nocap]: http://blogs.leaflabs.com/wp-content/uploads/maple-r1-VCC-nocap-150x150.jpg "maple-r1-VCC-nocap"
+  [maple-r1-VCC-ceramic10uF]: http://blogs.leaflabs.com/wp-content/uploads/maple-r1-VCC-ceramic10uF-150x150.jpg "maple-r1-VCC-ceramic10uF"
+  [maple-r1-VCC-electrolytic10uF]: http://blogs.leaflabs.com/wp-content/uploads/maple-r1-VCC-electrolytic10uF-150x150.jpg "maple-r1-VCC-electrolytic10uF"

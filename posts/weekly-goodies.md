@@ -25,7 +25,7 @@ Unix command line; this setup makes it easier to track the most recent
 changes to libmaple and even contribute patches. As a bonus I also got
 [Code::Blocks][] working as an alternative to the Maple IDE:
 
-[![][2]][]
+![][2]]
 
 </p>
 We'll leave you with this kick ass project video from Okie; what kinds
@@ -50,6 +50,4 @@ of hackery have you been up to with your Maples?
   [contact form]: /contact/
   [quickstart]: /docs/libmaple/unix-toolchain/
   [Code::Blocks]: http://www.codeblocks.org/
-  [2]: http://leaflabs.com/wp-content/uploads/2010/06/codeblocks_build-300x241.png
-    "codeblocks_build"
-  [![][2]]: http://leaflabs.com/wp-content/uploads/2010/06/codeblocks_build.png
+  [2]: http://leaflabs.com/wp-content/uploads/2010/06/codeblocks_build-300x241.png "codeblocks_build"

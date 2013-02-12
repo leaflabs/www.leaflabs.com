@@ -3,34 +3,15 @@ Date: 2011-01-31 05:31
 Author: Mbolivar
 Category: News
 
-New Maple Mini and Maple Native prototypes are in!  So far, we've ported
-the [bootloader][] to each new board, and have completed the initial
-Maple Mini [libmaple][] port.
+New Maple Mini and Maple Native prototypes are in!  So far, we've ported the <a href="http://leaflabs.com/docs/bootloader.html">bootloader</a> to each new board, and have completed the initial Maple Mini <a href="http://leaflabs.com/docs/libmaple.html">libmaple</a> port.
 
-Maple Mini's silkscreen has been entirely redone, making it much easier
-to program without having to constantly refer to schematics or data
-sheet tables.  Here's the top view:
+Maple Mini's silkscreen has been entirely redone, making it much easier to program without having to constantly refer to schematics or data sheet tables.  Here's the top view:
 
-[![Maple Mini r2, top view][]][]
+<a href="http://leaflabs.com/wp-content/uploads/2011/01/mini-r2-top.png"><img class="aligncenter size-medium wp-image-1805" title="mini-r2-top" src="http://leaflabs.com/wp-content/uploads/2011/01/mini-r2-top-300x237.png" alt="Maple Mini r2, top view" width="300" height="237" /></a>
 
 The bottom view reveals where the components are:
 
-[![Maple Mini r2, bottom view][]][]
+<a href="http://leaflabs.com/wp-content/uploads/2011/01/mini-r2-bottom.png"><img class="aligncenter size-medium wp-image-1804" title="mini-r2-bottom" src="http://leaflabs.com/wp-content/uploads/2011/01/mini-r2-bottom-300x225.png" alt="Maple Mini r2, bottom view" width="300" height="225" /></a>
 
 Finally, a shot of Maple Native:
-
-[![Maple Native r2][]][]
-
-</p>
-
-  [bootloader]: http://leaflabs.com/docs/bootloader.html
-  [libmaple]: http://leaflabs.com/docs/libmaple.html
-  [Maple Mini r2, top view]: http://leaflabs.com/wp-content/uploads/2011/01/mini-r2-top-300x237.png
-    "mini-r2-top"
-  [![Maple Mini r2, top view][]]: http://leaflabs.com/wp-content/uploads/2011/01/mini-r2-top.png
-  [Maple Mini r2, bottom view]: http://leaflabs.com/wp-content/uploads/2011/01/mini-r2-bottom-300x225.png
-    "mini-r2-bottom"
-  [![Maple Mini r2, bottom view][]]: http://leaflabs.com/wp-content/uploads/2011/01/mini-r2-bottom.png
-  [Maple Native r2]: http://leaflabs.com/wp-content/uploads/2011/01/native-r2-300x166.jpg
-    "native-r2"
-  [![Maple Native r2][]]: http://leaflabs.com/wp-content/uploads/2011/01/native-r2.jpg
+<p style="text-align: left;"><a href="http://leaflabs.com/wp-content/uploads/2011/01/native-r2.jpg"><img class="aligncenter" title="native-r2" src="http://leaflabs.com/wp-content/uploads/2011/01/native-r2-300x166.jpg" alt="Maple Native r2" width="300" height="166" /></a></p>

@@ -5,9 +5,8 @@ Category: Projects
 
 We got our hands on a few [WIZ820io][]s:
 
-[![][]][]
+![][]
 
-</p>
 This nifty little beast lets you connect to your [Maple][] to the
 network. With one [SPI][] and three digital [IO][]s, you have the whole
 Internet in your hands.
@@ -30,7 +29,7 @@ The telnet interface offers a great balance between control and
 flexibility. Here's a screenshot of a telnet session with a [Maple
 Mini][]:
 
-[![][1]][]
+![][1]
 
 </p>
 Maybe the command line isn't your thing. Well, web servers are always
@@ -38,12 +37,12 @@ cool, with their buttons and text boxes. Here's an example web server
 (note: originally a different name was on top, but the legal department
 advised against it):
 
-[![][2]][]
+![][2]
 
 </p>
 Here's what happens when you press "search":
 
-[![][3]][]
+![][3]
 
 </p>
 There are many ways in which this design can be expanded, and it's a fun
@@ -57,14 +56,13 @@ websites everyone cooks up with this!
 
 Here's our Maple Mini web server:
 
-[![][4]][]
+![][4]
 
 </p>
 
   [WIZ820io]: http://www.wiznet.co.kr/Sub_Modules/kr/product/Product_Detail.asp?cate1=5&cate2=42&cate3=0&pid=1160
   []: http://www.wiznettechnology.com/Admin_Root/UpLoad_Files/ProductImgs/Dtl_1161_20110919151726.jpg
     "El dios de la internet"
-  [![][]]: http://www.wiznettechnology.com/Sub_Modules/en/product/Product_Detail.asp?cate1=&cate2=&cate3=&pid=1161
   [Maple]: http://leaflabs.com/docs/hardware/maple.html
   [SPI]: http://leaflabs.com/docs/spi.html
   [IO]: http://leaflabs.com/docs/gpio.html
@@ -74,17 +72,9 @@ Here's our Maple Mini web server:
   [Maple IDE]: http://leaflabs.com/docs/ide.html
   [command line toolchain]: http://leaflabs.com/docs/unix-toolchain.html
   [Maple Mini]: http://leaflabs.com/docs/hardware/maple-mini.html
-  [1]: http://leaflabs.com/wp-content/uploads/2011/10/telnet_session.png
-    "telnet_session"
-  [![][1]]: http://leaflabs.com/2011/10/wizzin-through-the-ether-net/telnet_session/
-  [2]: http://leaflabs.com/wp-content/uploads/2011/10/maple_search_start4-770x451.png
-    "maple_search_start"
-  [![][2]]: http://leaflabs.com/2011/10/wizzin-through-the-ether-net/maple_search_start-5/
-  [3]: http://leaflabs.com/wp-content/uploads/2011/10/maple_search_result4-770x451.png
-    "maple_search_result"
-  [![][3]]: http://leaflabs.com/2011/10/wizzin-through-the-ether-net/maple_search_result-5/
+  [1]: http://leaflabs.com/wp-content/uploads/2011/10/telnet_session.png "telnet_session"
+  [2]: http://leaflabs.com/wp-content/uploads/2011/10/maple_search_start4-770x451.png "maple_search_start"
+  [3]: http://leaflabs.com/wp-content/uploads/2011/10/maple_search_result4-770x451.png "maple_search_result"
   [wizEthernet]: http://wiki.leaflabs.com/index.php?title=WizEthernet
     "wizEthernet Wiki"
-  [4]: http://leaflabs.com/wp-content/uploads/2011/10/wizEthernet-770x575.jpg
-    "wizEthernet"
-  [![][4]]: http://leaflabs.com/2011/10/wizzin-through-the-ether-net/wizethernet/
+  [4]: http://leaflabs.com/wp-content/uploads/2011/10/wizEthernet-770x575.jpg "wizEthernet"

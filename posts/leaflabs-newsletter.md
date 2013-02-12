@@ -7,7 +7,6 @@ A few weeks ago I sent out the inaugural LeafLabs newsletter. For anyone
 not on our mailing list, here's a copy of the text:
 
 <div>
-</p>
 
 *Hello!*
 
@@ -60,7 +59,6 @@ the newsletter, send us a line at info (at) leaflabs (dot) com or make a
 request via comments.
 
 </div>
-</p>
 
   [leaflabs.com]: http://leaflabs.com
   [here]: http://leaflabs.com/store

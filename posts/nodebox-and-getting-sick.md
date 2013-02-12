@@ -3,7 +3,7 @@ Date: 2009-06-20 18:41
 Author: Hadley
 Category: Uncategorized
 
-[![Potential LeafLabs Logo][]][]
+![Potential LeafLabs Logo][]
 
 So, as you can see, I've been playing with generative graphics.
 [Nodebox][] is a pretty sweet, and free, program that I've had time to
@@ -22,7 +22,9 @@ That there was my way of feeling out the program...it has a little bit
 of everything, code wise: gradients, for loops, randomized values
 [cool!], curves, text etc. It was fun and it took maybe half an hour,
 including getting the leaf to look right. Not bad at
-all.[![toolkit][]][]
+all.
+
+![toolkit][]
 
 Now here is something a little more interesting.. While I've been sick,
 I've been playing with a few ideas for the look of our toolkit [AJ and
@@ -44,11 +46,7 @@ Hopefully AJ will have his post on that soon...
 
 Have fun.
 
-  [Potential LeafLabs Logo]: http://blogs.leaflabs.com/wp-content/uploads/leaflabs1.jpg
-    "LeafLabs"
-  [![Potential LeafLabs Logo][]]: http://blogs.leaflabs.com/wp-content/uploads/leaflabs1.jpg
+  [Potential LeafLabs Logo]: http://blogs.leaflabs.com/wp-content/uploads/leaflabs1.jpg "LeafLabs"
   [Nodebox]: http://nodebox.net
-  [toolkit]: http://blogs.leaflabs.com/wp-content/uploads/toolkit1.jpg
-    "toolkit"
-  [![toolkit][]]: http://blogs.leaflabs.com/wp-content/uploads/toolkit1.jpg
+  [toolkit]: http://blogs.leaflabs.com/wp-content/uploads/toolkit1.jpg "toolkit"
   [Cairo]: http://cairographics.org/

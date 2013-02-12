@@ -10,8 +10,6 @@ following distributors; these are known to have them in stock:
 -   [RobotShop][]
 -   [Lawicel][]
 
-</p>
-
 If you've already ordered from us, and would like to order from a
 distributor instead (or if you're just tired of waiting), just send us
 an [email][] from the address you gave to PayPal when you ordered, and

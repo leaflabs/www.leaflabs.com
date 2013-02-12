@@ -46,7 +46,6 @@ terms of product availability and development.
     are working on bringing up all the peripherals. Currently, the plan
     is also to use an F4 on Oak.
 
-</p>
 Thanks for your continuing support of LeafLabs and Maple. We hope you’re
 as excited about the new projects as we are.
 

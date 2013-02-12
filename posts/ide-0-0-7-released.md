@@ -18,9 +18,6 @@ closer to full Arduino compatibility.  New features include:
     <p>
     </code>
 -   [Improved reset on OS X][].
-
-</p>
-
 -   Libmaple support for enabling and disabling the SysTick timer via
     `systick_disable()` and `systick_resume()` in [`systick.h`][] (see
     Section 4.4 of the [STM32F10xx programming manual][] for more
@@ -28,7 +25,6 @@ closer to full Arduino compatibility.  New features include:
     means you can now use the Maple for timing-critical code  (more on
     this in an upcoming blog post!).
 
-</p>
 Barring any emergency bugfix releases, this is the last time our  IDE
 release will be a fork of the standard [Arduino IDE][].  Working with
 the Arduino code was an awesome way for us to get started, but we're now

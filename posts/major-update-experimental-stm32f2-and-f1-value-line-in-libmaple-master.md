@@ -2,6 +2,7 @@ Title: Major update: STM32F2 and F1 value line in libmaple master!
 Date: 2012-06-27 12:42
 Author: Mbolivar
 Category: Uncategorized
+Slug: major-update-experimental-stm32f2-and-f1-value-line-in-libmaple-master
 
 It took forever, but the [libmaple][] work we've been doing to prepare
 for the in-development Maple 2 is finally in a state where we think it's
@@ -13,7 +14,6 @@ features are:
 -   Significantly simplified method for adding support for your own
     boards
 
-</p>
 **[Command-line toolchain][] users: please try it out!** Though there
 are tons of changes (and some deprecations), it's a top priority to keep
 old code working. Your existing Maple, Maple Mini, etc. programs should
@@ -71,7 +71,6 @@ issues and gotchas:
 -   F2 is currently missing USB support, and we don't expect to add it
     by the time the next release rolls around.
 
-</p>
 That said, we're excited to get this into master, and we really hope you
 try it out. Happy hacking!
 

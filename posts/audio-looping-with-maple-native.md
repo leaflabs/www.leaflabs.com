@@ -23,14 +23,9 @@ video to see our little Maple Native Looper in action. Sorry for cheesy
 guitar playing! Check out the [code][] to see how it works, and compare
 it against the effect.
 
-<p>
 <center>
-</p>
-http://www.youtube.com/watch?v=SQVLaHIw\_TY
-
-<p>
+<object width="500" height="281"><param name="movie" value="http://www.youtube.com/v/SQVLaHIw_TY?version=3&#038;feature=oembed"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/SQVLaHIw_TY?version=3&#038;feature=oembed" type="application/x-shockwave-flash" width="500" height="281" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 </center>
-</p>
 
 Have you done anything fun with audio and a Maple? Let us know!
 

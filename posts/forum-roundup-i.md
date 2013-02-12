@@ -38,14 +38,9 @@ past week.
 And that's it for this week's roundup. Did we miss something awesome?
 Let us know in the comments.
 
-[caption id="attachment\_1906" align="aligncenter" width="300"
-caption="Crenn's Maple+Xbee+IMU"][![][]][][/caption]
-
-[caption id="attachment\_1903" align="aligncenter" width="300"
-caption="Xavier's FM Synth"][![][3]][][/caption]
-
-[caption id="attachment\_1908" align="aligncenter" width="300"
-caption="Adam's new Maple Protoshield"][![][4]][][/caption]
+<div id="attachment_1906" class="wp-caption aligncenter" style="width: 310px"><a rel="attachment wp-att-1906" href="http://leaflabs.com/2011/04/forum-roundup-i/crenn-vtol2/" ><img class="size-medium wp-image-1906 " title="Crenn's Maple+Xbee+IMU" src="http://leaflabs.com/wp-content/uploads/2011/04/crenn-vtol2-300x168.jpg" alt="" width="300" height="168" /></a><p class="wp-caption-text">Crenn&#39;s Maple+Xbee+IMU</p></div>
+<div id="attachment_1903" class="wp-caption aligncenter" style="width: 310px"><a rel="attachment wp-att-1903" href="http://leaflabs.com/2011/04/forum-roundup-i/xavier-synth1/" ><img class="size-medium wp-image-1903 " title="Xavier's FM Synth" src="http://leaflabs.com/wp-content/uploads/2011/04/xavier-synth1-300x225.jpg" alt="" width="300" height="225" /></a><p class="wp-caption-text">Xavier&#39;s FM Synth</p></div>
+<div id="attachment_1908" class="wp-caption aligncenter" style="width: 310px"><a rel="attachment wp-att-1908" href="http://leaflabs.com/2011/04/forum-roundup-i/adam-protoshield1/" ><img class="size-medium wp-image-1908 " title="Adam's new Maple Protoshield" src="http://leaflabs.com/wp-content/uploads/2011/04/adam-protoshield1-300x252.png" alt="" width="300" height="252" /></a><p class="wp-caption-text">Adam&#39;s new Maple Protoshield</p></div>
 
   [thriving forums]: http://forums.leaflabs.com
   [4000 posts]: http://forums.leaflabs.com/topic.php?id=727
@@ -70,12 +65,3 @@ caption="Adam's new Maple Protoshield"][![][4]][][/caption]
   [Xavier's]: http://forums.leaflabs.com/profile.php?id=3672
   [FM synth]: http://forums.leaflabs.com/topic.php?id=665
   [2]: http://xhosxe.free.fr/IxoxFMSynth.mp3
-  []: http://leaflabs.com/wp-content/uploads/2011/04/crenn-vtol2-300x168.jpg
-    "Crenn's Maple+Xbee+IMU"
-  [![][]]: http://leaflabs.com/2011/04/forum-roundup-i/crenn-vtol2/
-  [3]: http://leaflabs.com/wp-content/uploads/2011/04/xavier-synth1-300x225.jpg
-    "Xavier's FM Synth"
-  [![][3]]: http://leaflabs.com/2011/04/forum-roundup-i/xavier-synth1/
-  [4]: http://leaflabs.com/wp-content/uploads/2011/04/adam-protoshield1-300x252.png
-    "Adam's new Maple Protoshield"
-  [![][4]]: http://leaflabs.com/2011/04/forum-roundup-i/adam-protoshield1/

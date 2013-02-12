@@ -9,7 +9,6 @@ awesome New Product Friday video, embedded below.
 <p>
 <center>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/0o0k_1HiNYA" frameborder="0" allowfullscreen></iframe>
-
 </center>
 </p>
 

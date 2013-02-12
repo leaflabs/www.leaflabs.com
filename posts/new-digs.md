@@ -3,10 +3,10 @@ Date: 2010-05-16 18:09
 Author: Bnewbold
 Category: Uncategorized
 
-[][]
+<p style="text-align: center;"><a title="messy cables" rel="attachment wp-att-875" href="http://leaflabs.com/2010/05/new-digs/pdont_touch/"></a></p>
+<a href="http://www.sysadminday.com/horrors.html"><img class="aligncenter size-full wp-image-875" title="messy cables" src="http://leaflabs.com/wp-content/uploads/2010/05/pDont_Touch.jpg" alt="from sysadminday.com" width="600" height="406" /></a></p>
 
-</p>
-[![from sysadminday.com][]][]If you're reading this our new web server
+If you're reading this our new web server
 must be working! Today we've transfered the leaflabs.com DNS records
 over, including all of our email, web applications, documentation, etc.
 There are definitely a couple rough edges and it might take a couple
@@ -23,10 +23,6 @@ We've added a [documentation][] section, a [community page][],
 consolidated information about our [licensing][], and more. Let us know
 if you find any bugs or broken links!
 
-  []: http://leaflabs.com/2010/05/new-digs/pdont_touch/ "messy cables"
-  [from sysadminday.com]: http://leaflabs.com/wp-content/uploads/2010/05/pDont_Touch.jpg
-    "messy cables"
-  [![from sysadminday.com][]]: http://www.sysadminday.com/horrors.html
   [IPv6]: http://www.ipv6.org/
   [Hurricane Electric]: http://www.he.net/
   [forum]: http://forums.leaflabs.com

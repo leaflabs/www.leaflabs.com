@@ -16,14 +16,14 @@ through macports.
 First, go to [http://www.macports.org/][] and follow the installation
 instructions. Then open a terminal and type
 
-sudo port install mpfr
+  sudo port install mpfr
 
 This should install libgmp and libmpfr. Next, check out the code
 repository at [http://code.google.com/p/leaflabs][]
 
 open up a terminal, change to the directory
 
-leaflabs/trunk/maple/build/macosx
+  leaflabs/trunk/maple/build/macosx
 
 and then run appbuild.sh
 

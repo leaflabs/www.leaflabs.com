@@ -15,30 +15,20 @@ that*.
 So what's changing? In short, you'll need to include Wirish headers
 (like wirish.h) like this:
 
-`#include <wirish/wirish.h> // new style, works with libmaple from GitHub`
+  #include <wirish/wirish.h> // new style, works with libmaple from GitHub
 
-</code>
-
-</p>
 instead of like this:
 
-`#include "wirish.h" // OLD style, now deprecated`
+  #include "wirish.h" // OLD style, now deprecated
 
-</p>
 You'll need to include libmaple headers (like i2c.h) like this:
 
-`#include <libmaple/i2c.h> // new style, works with libmaple from GitHub`
+  #include <libmaple/i2c.h> // new style, works with libmaple from GitHub
 
-</code>
-
-</p>
 instead of like this:
+  
+  #include "i2c.h" // OLD style, now deprecated
 
-`#include "i2c.h" // OLD style, now deprecated`
-
-</code>
-
-</p>
 Details (including why the changes are necessary) after the
 jump.<!--more-->
 
@@ -74,11 +64,11 @@ migrate their code.
 
 For example, we've got a variety of `foo.h` in libmaple now -- the main
 `<libmaple/foo.h>` header, and the series-specific `<series/foo.h>`
-headers in [`libmaple/stm32f1/include/`][] and
-[`libmaple/stm32f2/include/`][]. This infrastructure is necessary to
+headers in `[libmaple/stm32f1/include/][]` and
+`[libmaple/stm32f2/include/][]`. This infrastructure is necessary to
 make it possible to compile libmaple for multiple STM32 series (it's a
 standard C trick we're borrowing from the Linux kernel, which has e.g.
-the portable [\<linux/atomic.h\>][], which in turn includes a
+the portable \<[linux/atomic.h][]\>, which in turn includes a
 per-architecture `<asm/atomic.h>`).
 
 For another example, consider the [Wiring][] or [Arduino][] SPI
@@ -103,9 +93,9 @@ heard on the forum, via email, etc.
   [Maple IDE]: http://leaflabs.com/docs/ide.html
   [v0.0.12 wirish.h]: https://github.com/leaflabs/libmaple/blob/v0.0.12/wirish/wirish.h#L33
   [Libraries]: http://leaflabs.com/docs/libraries.html
-  [`libmaple/stm32f1/include/`]: https://github.com/leaflabs/libmaple/tree/master/libmaple/stm32f1/include/
-  [`libmaple/stm32f2/include/`]: https://github.com/leaflabs/libmaple/tree/master/libmaple/stm32f2/include/
-  [\<linux/atomic.h\>]: http://lxr.linux.no/#linux+v3.4.4/include/linux/atomic.h
+  [libmaple/stm32f1/include/]: https://github.com/leaflabs/libmaple/tree/master/libmaple/stm32f1/include/
+  [libmaple/stm32f2/include/]: https://github.com/leaflabs/libmaple/tree/master/libmaple/stm32f2/include/
+  [linux/atomic.h]: http://lxr.linux.no/#linux+v3.4.4/include/linux/atomic.h
   [Wiring]: http://wiring.org.co/reference/libraries/SPI/index.html
   [Arduino]: http://arduino.cc/en/Reference/SPI
   [spi.h]: http://leaflabs.com/docs/libmaple/api/spi.html

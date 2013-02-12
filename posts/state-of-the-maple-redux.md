@@ -27,13 +27,11 @@ Last but not least, Maple II and Maple Native II designs have been sent
 out for prototyping! So we should have the first release candidates in
 our hands within a week or two. We'll keep you updated.
 
-[![][]][]
+![][]
 
   [Seeed Studio]: http://www.seeedstudio.com/depot/
   [Maple]: http://www.seeedstudio.com/depot/leaf-maple-cortex-m3-p-670.html?cPath=132_137
   [Maple Mini]: http://www.seeedstudio.com/depot/maple-mini-p-861.html?cPath=132_137
   [here]: http://leaflabs.com/docs/hardware/maple.html#powering-the-maple
   [schematic]: http://github.com/leaflabs/maplemini
-  []: http://leaflabs.com/wp-content/uploads/2012/04/MNII-770x407.png
-    "MNII"
-  [![][]]: http://leaflabs.com/2012/04/state-of-the-maple-redux/mnii/
+  []: http://leaflabs.com/wp-content/uploads/2012/04/MNII-770x407.png "MNII"

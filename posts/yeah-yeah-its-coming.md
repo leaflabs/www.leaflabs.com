@@ -15,7 +15,9 @@ open it up to the open source community to hack on. For now, its just a
 smash-up of arduino and our stm32 build environment, but we hope that
 together we can make it oh so much more!
 
-Obligatory Screenshot:![screenshot1][]
+Obligatory Screenshot:
+
+![screenshot1][]
 
 </p>
 

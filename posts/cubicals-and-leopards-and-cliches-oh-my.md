@@ -3,7 +3,7 @@ Date: 2010-05-30 14:00
 Author: Bnewbold
 Category: Uncategorized
 
-﻿﻿What a week! We've finished finals, shipped out Maples all over the
+What a week! We've finished finals, shipped out Maples all over the
 world, moved into a new office space, saw tons of gadgets, and lived to
 blog about it.
 
@@ -31,7 +31,7 @@ we've spent a lot of time playing with [fat binaries][] and have had
 tons of partial success using automated build scripts, but it's going to
 take one more all-nighter to cook up the right magic make sauce.
 
-![][]
+<img class="aligncenter size-large wp-image-996" title="IMG_4098" src="http://leaflabs.com/wp-content/uploads/2010/05/IMG_4098-770x513.jpg" alt="" width="770" height="513" />
 
 Maker Faire was last weekend and I had a great time running around the
 Bay Area checking out open hardware genetics hardware ([OpenPCR][]), a
@@ -41,7 +41,7 @@ to see what kind of real time audio effects can be pulled off with a
 Maple, and to do some crazy helo tricks with all the processing done
 with an on-board Oak.
 
-![][1]
+<img class="aligncenter size-large wp-image-997" title="techcity" src="http://leaflabs.com/wp-content/uploads/2010/05/techcity-770x513.jpg" alt="" width="770" height="513" />
 
 And finally, look at that hansome fellow in the snazzy new office space!
 We're the first tenants in an awesome new tech incubation/business/work

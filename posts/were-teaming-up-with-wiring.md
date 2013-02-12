@@ -19,7 +19,7 @@ with their [their 1.0 release][], we're ready to work together to move
 the [Maple IDE][] over to Wiring's. This means that, in the future,
 you'll be programming Maple from the Wiring IDE.
 
-[![][]][]
+![][]
 
 As many of you know, there are approximately twenty million Wiring IDE
 forks, clones, and sister projects out there. It's like the old story
@@ -60,9 +60,7 @@ days, we'll be sure to keep you posted as things progress.
   [Wiring]: http://wiring.org.co/
   [their 1.0 release]: http://wiring.org.co/download/
   [Maple IDE]: http://leaflabs.com/docs/ide.html
-  []: http://leaflabs.com/wp-content/uploads/2011/10/verify1.jpg
-    "Wiring IDE"
-  [![][]]: http://leaflabs.com/wp-content/uploads/2011/10/wiring-ide.jpg
+  []: http://leaflabs.com/wp-content/uploads/2011/10/verify1.jpg "Wiring IDE"
   [Py3K]: http://wiki.python.org/moin/Python2orPython3
   [Perl 6]: http://dev.perl.org/perl6/
   [libmaple]: http://leaflabs.com/docs/libmaple.html

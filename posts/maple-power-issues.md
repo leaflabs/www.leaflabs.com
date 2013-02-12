@@ -43,7 +43,7 @@ in fact, for the foreseeable future we will be shipping Maples with C11
 taken off. This picture indicates the appropriate capacitor to be
 removed with a yellow X:
 
-[![Maple with C11 indicated][]][]
+![Maple with C11 indicated][]
 
 C11 is in the upper left quadrant of the board, the bottom in a column
 of six passives right to the left of the power selection header. If you
@@ -58,6 +58,4 @@ feel free to contact us with any questions or concerns at
 info@leaflabs.com.
 
   [here]: http://ww1.microchip.com/downloads/en/DeviceDoc/22049a.pdf
-  [Maple with C11 indicated]: http://leaflabs.com/wp-content/uploads/2011/08/maple-c112-295x300.png
-    "maple-c11"
-  [![Maple with C11 indicated][]]: http://leaflabs.com/2011/08/maple-power-issues/maple-c11-3/
+  [Maple with C11 indicated]: http://leaflabs.com/wp-content/uploads/2011/08/maple-c112-295x300.png "maple-c11"

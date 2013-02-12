@@ -3,7 +3,9 @@ Date: 2009-08-16 18:23
 Author: Okie
 Category: Uncategorized
 
-![mapleproto][] This is the Maple prototype, our first version of an
+![mapleproto][]
+
+This is the Maple prototype, our first version of an
 Arduino-compatible board with an STM32 ARM Cortex-M3 processor. We're
 chomping at the bits to release it as soon as we tie up a couple loose
 ends to make it what we think it should be. We've ported all the Arduino

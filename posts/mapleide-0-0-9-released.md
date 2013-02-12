@@ -19,7 +19,6 @@ Hey all,
 -   A community-contributed library for [EEPROM emulation][] (thanks,
     [x893][]!)
 
-</p>
 Additionally, we've added support in [libmaple][] for the Maple Mini.
 
 We're also releasing an alpha port of the WiShield library at:
