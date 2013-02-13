@@ -10,6 +10,7 @@ slick little ones in the mail, but in the meanwhile I wrote this sketch
 in about 2 seconds which turns a spare Maple into a Serial-USB
 passthrough:
 
+    :::c++
     void setup() {
       Serial2.begin(9600);
     }
