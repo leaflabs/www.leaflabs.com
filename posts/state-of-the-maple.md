@@ -1,6 +1,6 @@
 Title: State of the Maple
 Date: 2012-02-15 16:14
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 Hey guys, as you may have noticed, the LeafLabs store is currently

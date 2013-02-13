@@ -1,6 +1,6 @@
 Title: PyMite
 Date: 2011-09-23 15:09
-Author: Cospan
+Author: cospan
 Category: Uncategorized
 
 We've got our blink on... Python style!

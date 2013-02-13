@@ -1,6 +1,6 @@
 Title: Blinky!!
 Date: 2009-12-28 18:13
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 Happy Holidays Everyone!

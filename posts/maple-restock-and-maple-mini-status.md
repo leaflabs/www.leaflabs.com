@@ -1,6 +1,6 @@
 Title: Maple restock and Maple Mini status
 Date: 2011-04-04 16:32
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 We've been receiving lots of emails and forum posts asking about when

@@ -1,6 +1,6 @@
 Title: Serial-USB Passthrough
 Date: 2010-07-18 10:20
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 While debugging our new SerialUSB implementation I needed to use the

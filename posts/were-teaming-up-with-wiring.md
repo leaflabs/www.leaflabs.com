@@ -1,6 +1,6 @@
 Title: We're teaming up with Wiring!
 Date: 2011-11-03 15:14
-Author: Mbolivar
+Author: mbolivar
 Category: News
 
 Good news, everyone! LeafLabs and [Wiring][] are teaming up to make a

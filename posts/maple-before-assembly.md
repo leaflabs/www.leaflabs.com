@@ -1,6 +1,6 @@
 Title: Maple before assembly
 Date: 2009-11-21 11:00
-Author: Okie
+Author: okie
 Category: Uncategorized
 Slug: 187
 

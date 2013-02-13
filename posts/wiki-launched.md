@@ -1,6 +1,6 @@
 Title: LeafLabs wiki launched
 Date: 2010-12-23 22:00
-Author: Drews
+Author: drews
 Category: Uncategorized
 Slug: wiki-launched
 

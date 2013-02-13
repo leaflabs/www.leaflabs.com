@@ -1,6 +1,6 @@
 Title: For Want of a Macro Lens (and Maple Mini!)
 Date: 2011-03-01 13:16
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 Soon, someone with more equipment (and certainly more talent) than I have will

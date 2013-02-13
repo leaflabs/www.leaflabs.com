@@ -1,6 +1,6 @@
 Title: The S.A.V.E. Toolbox and GTK+
 Date: 2009-06-09 01:34
-Author: Bbradlyn
+Author: bbradlyn
 Category: Uncategorized
 
 Today we started our first software endeavor - the Signal Analysis and

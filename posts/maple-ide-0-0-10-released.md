@@ -1,6 +1,6 @@
 Title: Maple IDE 0.0.10 Released
 Date: 2011-05-23 15:52
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 That's right, the newest release of the Maple IDE is hot out of the oven, and ready for you to <a href="/docs/maple-ide-install.html">download</a>.

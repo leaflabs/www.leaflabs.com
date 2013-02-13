@@ -1,6 +1,6 @@
 Title: Unix Toolchain Instructions for Snow Leopard
 Date: 2010-08-31 16:00
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 Several users have contacted us about using the Unix toolchain on OS X,

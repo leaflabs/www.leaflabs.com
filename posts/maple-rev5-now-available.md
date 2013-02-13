@@ -1,6 +1,6 @@
 Title: Maple Rev5 Now Available!
 Date: 2010-11-05 15:40
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 After a tense 30 day inventory gap after the complete sellout of Maple

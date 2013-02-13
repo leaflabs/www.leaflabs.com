@@ -1,6 +1,6 @@
 Title: ... and we're back!
 Date: 2012-05-23 20:03
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 Our hosting service was having some datacenter issues, which led to

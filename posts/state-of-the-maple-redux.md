@@ -1,6 +1,6 @@
 Title: State of the Maple Redux
 Date: 2012-04-30 14:29
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 The current manufacturing run of Maples and Maple Minis is done and en

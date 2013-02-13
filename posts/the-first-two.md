@@ -1,6 +1,6 @@
 Title: The First Two
 Date: 2009-12-02 03:38
-Author: Okie
+Author: okie
 Category: Uncategorized
 
 <center>

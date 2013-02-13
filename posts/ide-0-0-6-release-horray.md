@@ -1,6 +1,6 @@
 Title: IDE 0.0.6 Release, Horray!
 Date: 2010-07-22 22:59
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 It's been a long week coming, but the latest/greatest version of the IDE

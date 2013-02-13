@@ -1,6 +1,6 @@
 Title: Weekly Goodies!
 Date: 2010-06-18 18:06
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 <center>
@@ -33,7 +33,7 @@ changes to libmaple and even contribute patches. As a bonus I also got
 ![][2]]
 </center>
 
-We'll leave you with this kick ass project video from Okie; what kinds
+We'll leave you with this kick ass project video from okie; what kinds
 of hackery have you been up to with your Maples?
 
 <center>

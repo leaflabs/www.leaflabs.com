@@ -1,6 +1,6 @@
 Title: IDE 0.0.7 Released!
 Date: 2010-10-04 05:17
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 Well, it's a few days late, but the version 0.0.7 of the [Maple IDE][]

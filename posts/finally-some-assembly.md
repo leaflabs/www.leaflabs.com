@@ -1,6 +1,6 @@
 Title: FINALLY some assembly!
 Date: 2009-11-17 04:56
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 In the middle of October we shipped the Maple components off to Gold

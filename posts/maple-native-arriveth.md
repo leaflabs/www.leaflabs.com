@@ -1,6 +1,6 @@
 Title: Maple Native Arriveth!
 Date: 2011-09-09 09:57
-Author: Mbolivar
+Author: mbolivar
 Category: News
 
 The long wait is over!  <a href="http://leaflabs.com/store/">Maple Native's

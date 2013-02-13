@@ -1,6 +1,6 @@
 Title: Maple IDE 0.0.12
 Date: 2011-09-14 06:23
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 Slug: maple-ide-0-0-12
 

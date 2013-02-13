@@ -1,6 +1,6 @@
 Title: Maple Power Issues
 Date: 2011-08-12 13:27
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 In the past couple of months we've been contacted by a few users who

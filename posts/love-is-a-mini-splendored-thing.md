@@ -1,6 +1,6 @@
 Title: Love is a Mini-Splendored Thing
 Date: 2011-06-01 15:34
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 Good news, everyone! The first batch of Maple Minis have arrived, and

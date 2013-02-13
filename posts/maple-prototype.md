@@ -1,6 +1,6 @@
 Title: Maple Prototype
 Date: 2009-08-16 18:23
-Author: Okie
+Author: okie
 Category: Uncategorized
 
 <center>

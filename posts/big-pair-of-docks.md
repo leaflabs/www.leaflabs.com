@@ -1,6 +1,6 @@
 Title: Big Pair of Docks
 Date: 2010-05-10 18:00
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 I've been clickity clacking away on a new website and documentation; you

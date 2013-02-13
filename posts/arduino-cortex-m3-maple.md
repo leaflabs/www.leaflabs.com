@@ -1,6 +1,6 @@
 Title: Arduino + Cortex M3 = Maple
 Date: 2009-07-15 20:58
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 In the depths of the sparkfun.com product pages Occam sez: 

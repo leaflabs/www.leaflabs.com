@@ -1,6 +1,6 @@
 Title: Maple Prototype Details and Mailing List
 Date: 2009-08-26 23:46
-Author: Drews
+Author: drews
 Category: Uncategorized
 
 For those of you who were asking, the current iteration of the Maple

@@ -1,6 +1,6 @@
 Title: MapleIDE 0.0.9 Released!
 Date: 2010-12-16 01:32
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 Slug: mapleide-0-0-9-released
 

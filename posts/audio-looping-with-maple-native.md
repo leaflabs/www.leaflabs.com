@@ -1,6 +1,6 @@
 Title: Audio Looping with Maple Native
 Date: 2011-11-16 12:14
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 Recently, our friends over at [Open Music Labs][] created an awesome

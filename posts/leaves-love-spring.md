@@ -1,6 +1,6 @@
 Title: Leaves Love Spring!
 Date: 2010-04-26 23:59
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 We've been bursting forth with code and hardware as the weather
@@ -53,7 +53,7 @@ Breadboarding PWM audio with the Maple
 One use for high resolution ADC sampling is real time audio work! With
 the right low pass filter (which can be just a couple resistors and
 capacitors) the high speed PWM ports on the Maple can pump out
-reasonable audio-frequency waveforms. Okie has been working on a basic
+reasonable audio-frequency waveforms. okie has been working on a basic
 audio shield with nice active filters and other goodies.
 
 <center>

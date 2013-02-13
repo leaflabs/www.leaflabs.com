@@ -1,6 +1,6 @@
 Title: Cubicles and Leopards and Cliches, Oh My!
 Date: 2010-05-30 14:00
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 What a week! We've finished finals, shipped out Maples all over the

@@ -1,6 +1,6 @@
 Title: New Digs!
 Date: 2010-05-16 18:09
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 <p style="text-align: center;"><a title="messy cables" rel="attachment wp-att-875" href="http://leaflabs.com/2010/05/new-digs/pdont_touch/"></a></p>

@@ -1,9 +1,9 @@
 Title: the state of the maple tree
 Date: 2010-02-14 00:39
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
-Hi everyone! As you can probably tell from Okie's awesome picture in the post
+Hi everyone! As you can probably tell from okie's awesome picture in the post
 below, we got back the prototypes for Maple Rev2 about a week ago. You may
 recall that the revisions were to fix two issues. The first is that the I/O has
 been relabeled in a format we think makes more sense for use with the STM32 –
@@ -52,7 +52,7 @@ December 2040, considering what good luck we had with production last time.
 Okay, just kidding – medium worst case scenario would probably be sometime
 around March 31.
 
-Okie has been working tirelessly on the new four layer design, and it is nearly
+okie has been working tirelessly on the new four layer design, and it is nearly
 finished, so we should have prototypes back within a week. Once those are back
 and tested, we will be sending them to production, and at that time (probably
 around February 23) we will once again be taking pre-orders!

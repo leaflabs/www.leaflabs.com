@@ -1,6 +1,6 @@
 Title: libmaple: new include style on the way
 Date: 2012-07-02 13:58
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 As noted in a previous post about [libmaple's support for new STM32

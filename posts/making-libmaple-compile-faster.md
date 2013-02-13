@@ -1,6 +1,6 @@
 Title: Making libmaple compile faster
 Date: 2012-08-01 15:02
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 Slug: 2549
 

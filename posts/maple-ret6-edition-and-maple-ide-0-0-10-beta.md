@@ -1,6 +1,6 @@
 Title: Maple RET6 Edition and Maple IDE 0.0.10 Beta
 Date: 2011-05-12 19:52
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 Slug: maple-ret6-edition-and-maple-ide-0-0-10-beta
 

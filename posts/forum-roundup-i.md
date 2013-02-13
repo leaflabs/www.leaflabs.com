@@ -1,6 +1,6 @@
 Title: Forum Roundup I
 Date: 2011-04-11 18:55
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 A couple of days ago, our [thriving forums][] hit [4000 posts][]. We

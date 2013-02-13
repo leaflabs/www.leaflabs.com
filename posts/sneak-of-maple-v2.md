@@ -1,6 +1,6 @@
 Title: Sneak of Maple V2
 Date: 2010-02-05 02:59
-Author: Okie
+Author: okie
 Category: Around the Lab
 Slug: 221-2
 

@@ -1,6 +1,6 @@
 Title: Maple Mini now available from SparkFun!
 Date: 2012-06-08 10:55
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 You can now [buy Maple mini directly from SparkFun][]. Check out their

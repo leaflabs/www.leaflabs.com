@@ -1,6 +1,6 @@
 Title: Wizzin through the Ether... net
 Date: 2011-10-18 12:12
-Author: Cospan
+Author: cospan
 Category: Projects
 
 We got our hands on a few [WIZ820io][]s:

@@ -1,6 +1,6 @@
 Title: Still no word from DHL on Maple Rev 5
 Date: 2010-11-24 10:28
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 Our shipment of Maples is still in transit.  Feel free to try any of the

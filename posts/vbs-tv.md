@@ -1,6 +1,6 @@
 Title: vbs.tv
 Date: 2009-07-20 17:48
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 A while back Nadja Oertelt approached us about doing a bit for her show

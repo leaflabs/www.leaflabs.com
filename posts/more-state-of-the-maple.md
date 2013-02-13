@@ -1,6 +1,6 @@
 Title: more state of the maple
 Date: 2013-02-01 17:03
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 So it would appear that LeafLabs has done a pretty bad job the past few

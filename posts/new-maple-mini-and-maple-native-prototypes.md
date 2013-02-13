@@ -1,6 +1,6 @@
 Title: New Maple Mini and Maple Native prototypes!
 Date: 2011-01-31 05:31
-Author: Mbolivar
+Author: mbolivar
 Category: News
 
 New Maple Mini and Maple Native prototypes are in!  So far, we've ported the <a href="http://leaflabs.com/docs/bootloader.html">bootloader</a> to each new board, and have completed the initial Maple Mini <a href="http://leaflabs.com/docs/libmaple.html">libmaple</a> port.

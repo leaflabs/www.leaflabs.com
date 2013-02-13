@@ -1,6 +1,6 @@
 Title: Maple now on Sparkfun! 
 Date: 2011-05-20 16:00
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 <strong>Check out the <a href="http://www.sparkfun.com/news/616">promo video</a></strong>

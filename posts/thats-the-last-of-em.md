@@ -1,6 +1,6 @@
 Title: That's the last of 'em!
 Date: 2012-03-28 15:08
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 We're now officially sold out of Maple RET6s. Thanks to everyone who

@@ -1,6 +1,6 @@
 Title: Major update: STM32F2 and F1 value line in libmaple master!
 Date: 2012-06-27 12:42
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 Slug: major-update-experimental-stm32f2-and-f1-value-line-in-libmaple-master
 

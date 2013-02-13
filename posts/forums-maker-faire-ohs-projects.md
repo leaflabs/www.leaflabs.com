@@ -1,6 +1,6 @@
 Title: Forums, Maker Faire, OHS, Projects!
 Date: 2010-09-13 18:35
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 Some time last week we broke the 1000 post mark in the forums! We've got some amazing members dispensing advice, code, bug reports, and spelling suggestions. Thank you so much! It's exciting and very motivating to have an experienced set of users using our tools and shaking out any problems. We're looking for a good way to open up our ticketing system for bugs and feature requests to make the development process even more transparent and open to comment.

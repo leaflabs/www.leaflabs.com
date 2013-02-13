@@ -1,6 +1,6 @@
 Title: Audio and Guitar effects on Maple!
 Date: 2010-07-24 09:46
-Author: Okie
+Author: okie
 Category: Uncategorized
 
 Real-time audio processing is an example of an application where Maple really shines in comparison to Arduino. Maple has 12-bit ADCs with sample rates up to 1MSPS and PWM fast enough to clear ~11.8 bits of resolution (log2(72MHz/20kHz)=11.8) at a frequency twice the <a title="Nyquist frequency" href="http://en.wikipedia.org/wiki/Nyquist_frequency">Nyquist frequency</a> of the upper end of the bandwidth of the human ear (20kHz). And there's a lot of clock cycles to do all kinds of really awesome stuff to the signal (e.g. echo, distortion, octave, harmony, equalization, flange, phaser, fuzz, ring modulation, and complete new imagined effects)! I drew up a schematic and layout in <a href="http://www.cadsoftusa.com/">EAGLE</a> and etched a PCB with two 1/8" audio jacks, an adjustable preamp, input and output filters, and some potentiometers. Here's a photo of the assembled shield and the schematic:

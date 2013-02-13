@@ -1,6 +1,6 @@
 Title: Waiting on your Maple Rev5?
 Date: 2010-11-21 09:23
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 We're still waiting, too.

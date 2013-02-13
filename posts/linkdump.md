@@ -1,6 +1,6 @@
 Title: Linkdump
 Date: 2010-04-29 12:01
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 Here are some recent top links from around the office... mostly old but

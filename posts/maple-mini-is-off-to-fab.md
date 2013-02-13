@@ -1,6 +1,6 @@
 Title: Maple Mini is off to fab!
 Date: 2011-02-08 05:27
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 Our Maple Mini prototypes have passed our internal testing, so we've

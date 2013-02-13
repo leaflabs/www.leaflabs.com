@@ -1,6 +1,6 @@
 Title: Maple Mini Prototype!
 Date: 2010-10-20 01:02
-Author: Okie
+Author: okie
 Category: Uncategorized
 
 <a href="http://leaflabs.com/wp-content/uploads/2010/10/maplemini-top.jpg">

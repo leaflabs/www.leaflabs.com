@@ -1,6 +1,6 @@
 Title: Yeah, Yeah, its coming...
 Date: 2009-11-09 03:27
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 Silly customs glitched our release timing going on 9 days now! ugh!

@@ -1,6 +1,6 @@
 Title: IDE 0.0.8 [Emergency bugfix release]
 Date: 2010-10-07 10:52
-Author: Mbolivar
+Author: mbolivar
 Category: Uncategorized
 
 All users are urged to update to [version 0.0.8 of the Maple IDE][].

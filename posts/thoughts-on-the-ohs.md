@@ -1,6 +1,6 @@
 Title: Thoughts on the OHS
 Date: 2010-09-24 12:28
-Author: Bnewbold
+Author: bnewbold
 Category: Uncategorized
 
 The Open Hardware Summit was in New York on Thursday. There was some

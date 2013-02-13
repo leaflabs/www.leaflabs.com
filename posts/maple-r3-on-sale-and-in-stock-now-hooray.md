@@ -1,6 +1,6 @@
 Title: Maple rev3 on Sale and In Stock Now (hooray!)
 Date: 2010-05-23 00:01
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 Slug: maple-r3-on-sale-and-in-stock-now-hooray
 

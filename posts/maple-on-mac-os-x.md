@@ -1,6 +1,6 @@
 Title: Maple on Mac OS X!
 Date: 2010-01-13 22:12
-Author: Bbradlyn
+Author: bbradlyn
 Category: Uncategorized
 
 <center>

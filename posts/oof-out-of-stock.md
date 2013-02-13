@@ -1,6 +1,6 @@
 Title: Oof, out of stock! 
 Date: 2010-09-19 17:45
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 The long debate over how to space the 18 pin header on the new Maple

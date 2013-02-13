@@ -1,6 +1,6 @@
 Title: Short Descriptions of Some Audio Effects
 Date: 2010-08-19 21:53
-Author: Okie
+Author: okie
 Category: Uncategorized
 
 This is a short list of descriptions of some audio effects that I put

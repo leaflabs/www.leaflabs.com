@@ -1,6 +1,6 @@
 Title: One hundred Maple Minis out the door!
 Date: 2011-06-07 13:05
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 That's the lot of 'em, guys. Thanks so much for the super-successful

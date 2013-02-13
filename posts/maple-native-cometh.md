@@ -1,6 +1,6 @@
 Title: Maple Native Cometh
 Date: 2011-09-08 09:36
-Author: Jessb
+Author: jessb
 Category: Uncategorized
 
 Maple Native Betas will be going on sale tomorrow morning at around this

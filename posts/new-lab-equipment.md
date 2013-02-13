@@ -1,6 +1,6 @@
 Title: New Lab Equipment!
 Date: 2009-09-21 01:08
-Author: Okie
+Author: okie
 Category: Uncategorized
 
 <center>

@@ -1,6 +1,6 @@
 Title: Maple IDE 0.0.4
 Date: 2010-06-02 14:43
-Author: Poslathian
+Author: poslathian
 Category: Uncategorized
 
 We're working to improve the IDE, unkink the kinks, and support the
