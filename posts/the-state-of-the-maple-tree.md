@@ -16,8 +16,8 @@ TX1, RX1 for Serial1 port (there are 3 total), and the pins in all the SPI and
 I2C buses.
 
 <center>
-<img src="http://dl.dropbox.com/u/42394/maple-v25-front.png" width="300px;"> 
-<img src="http://dl.dropbox.com/u/42394/maple-v25-back.png" width="300px;">
+<img src="http://leaflabs.com/wp-content/uploads/dropbox/maple-v25-front.png" width="300px;"> 
+<img src="http://leaflabs.com/wp-content/uploads/dropbox/maple-v25-back.png" width="300px;">
 </center>
 
 The second issue to fix in this revision was slightly more serious. We had
