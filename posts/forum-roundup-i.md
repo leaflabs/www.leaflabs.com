@@ -27,14 +27,11 @@ past week.
     stuff), [gbulmer][] reveals a Maple-influenced robot controller
     board he's been working on (thought you could sneak it by us, huh?).
     You can read his blog post about it [here.][1] Very cool.
-    </p>
-    <p>
 -   From [StephenFromNYC][], USB Observations Parts [I][], [II][], and
     [III.][] (More than a week old, but worth the read.)
 -   Much more than a week old, but too cool to not include: [Xavier's][]
     [FM synth][] project. You can hear it in action [here.][2]
 
-</p>
 And that's it for this week's roundup. Did we miss something awesome?
 Let us know in the comments.
 

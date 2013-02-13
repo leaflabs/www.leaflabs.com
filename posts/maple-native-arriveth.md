@@ -40,12 +40,9 @@ beta release is on sale!</a>  Hurray!
 
 <h3>Why is this a Beta?</h3>
 
-<p>
 Experience has (finally) taught us that finalizing the design of a new board <a href="http://leaflabs.com/docs/hardware/maple.html#maple-identify-rev">might take a couple of tries</a>.  Thus, rather than trumpeting this design's utter perfection (from the rooftops or otherwise), we're going to give ourselves a little wiggle room.  That is to say, maybe we'll move some pins around between now and the final version, like we did on Maple rev 5.  Maybe we'll mess with the silkscreen.  Maybe we'll fix a couple of bugs.  Nothing major; just wiggles.
 
-<p>
 In addition to that, there are still some software issues which we're working out before we declare this battle station fully operational.  In particular, we're working on making the 1 MB of external SRAM as easy to use as possible.  Technical details for the curious after the jump.
-</p>
 <!--more-->
 
 As of version 0.0.11, <a href="/docs/libmaple.html">libmaple</a> doesn't deal very well with dynamic memory allocation.  This has never been much of a problem before, since even the <a href="/store/#Maple-RET6">Maple RET6 Edition</a> only has 64 KB of SRAM, so static allocation is usually sufficient.  With a full megabyte of RAM, however, the story is different.  A recent <a href="https://github.com/leaflabs/libmaple/commit/8b9a3f4e7a685480f75da19df1b5ef1adeaad982">series</a> <a href="https://github.com/leaflabs/libmaple/commit/aa4f3b6645a17c98aa4679323208ed8636ba89b1">of</a> <a href="https://github.com/leaflabs/libmaple/commit/3c0a3ee2516e6709484a922b8298c84eccf87490">commits</a> in libmaple has fixed dynamic memory allocation, but the heap is still on the internal SRAM.  That's not so great; we expect many (most?) users will want the heap in external memory, so they can e.g. allocate large buffers for audio or image processing.
