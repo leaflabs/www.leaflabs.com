@@ -2,6 +2,7 @@ Title: Maple IDE 0.0.12
 Date: 2011-09-14 06:23
 Author: Jessb
 Category: Uncategorized
+Slug: maple-ide-0-0-12
 
 Maple IDE 0.0.12 is now available for your pleasure.
 
@@ -9,16 +10,10 @@ Maple IDE 0.0.12 is now available for your pleasure.
 -   [Linux (32-bit)][]
 -   [Mac OS X Snow Leopard][]
 
-</p>
-
 Changelog
 ---------
 
-</p>
-
 ### New Stuff
-
-</p>
 
 -   Support for [Maple Native Beta][]. The Native's SRAM chip is turned
     on and accessible by default.
@@ -29,11 +24,7 @@ Changelog
 -   Vastly improved documentation for the low-level [libmaple][]
     library.
 
-</p>
-
 ### Bugfixes
-
-</p>
 
 -   [HardwareTimer::setPeriod()][] fixed (broken due to a typo in the
     last release).
@@ -41,11 +32,7 @@ Changelog
 -   RAM builds working again on all boards. (RAM builds were broken on
     the RET6 boards, see the relevant forum thread [here.][]
 
-</p>
-
 ### Miscellaneous
-
-</p>
 
 -   [stm32.h][] expanded (and its declarations are more respected
     elsewhere in the codebase). This makes libmaple more portable to
@@ -57,11 +44,7 @@ Changelog
     branches and tags will still be around, but we'll keep using the new
     conventions from now on.
 
-</p>
-
 ### Command line toolchain
-
-</p>
 
 -   Library folders are added to the include path, so they can be
     included directly.
@@ -69,15 +52,9 @@ Changelog
     [repository.][]
 -   New examples added, others improved.
 
-</p>
-
 ### Deprecations
 
-</p>
-
--   [usart.h][] rx\_buf field in struct usart\_dev is deprecated.
-    </p>
-    <p>
+-   [usart.h][] rx\_buf field in struct usart\_dev is deprecated.<br>
     The pointer is accessible via the rb field, so rx\_buf is redundant.
     Having it at all implies that sizeof(struct usart\_dev) is not a
     compile-time constant, which is undesirable. It also makes it
@@ -86,8 +63,6 @@ Changelog
 -   [stm32.h][] PCLK1, PCLK2, and NR\_INTERRUPTS are deprecated. Use
     STM32\_PCLK1, STM32\_PCLK2, and STM32\_NR\_INTERRUPTS, respectively,
     instead.
-
-</p>
 
 Give it a test drive and let us know how it goes!
 

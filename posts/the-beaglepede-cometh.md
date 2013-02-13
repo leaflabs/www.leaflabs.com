@@ -37,7 +37,7 @@ reconstruct your own Shellyesque army of franken-hacks! Godspeed and good
 luck!
 
 <!--more-->
-<p style="text-align: left;">Here's the code:</p>
+Here's the code:
 
 <pre class="code" style="text-align: left; width:600px;"><span style="color: #7e7e7e;">//Code for Mr. Blinkie, AKA the psychedelic beaglepede</span>
 <span style="color: #7e7e7e;">//July 17 2010</span>
@@ -107,7 +107,8 @@ luck!
     }
   }
 }</pre>
-<p style="text-align: left;">And here's the schematic:</p>
+
+And here's the schematic:
 
 <center>
 <dl id="attachment_1090" class="wp-caption alignnone" style="width: 460px;"> <dt class="wp-caption-dt"><a rel="attachment wp-att-1090" href="http://leaflabs.com/2010/07/the-beaglepede-cometh/100_0146/"><img class="size-large wp-image-1090" title="100_0146" src="http://leaflabs.com/wp-content/uploads/2010/07/100_0146-450x600.jpg" alt="" width="300" /></a></dt> <dd class="wp-caption-dd">Ignore the letters on the right... they're not related to the diagram.</dd> </dl>

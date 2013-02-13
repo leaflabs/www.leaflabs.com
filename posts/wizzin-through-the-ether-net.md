@@ -31,7 +31,6 @@ Mini][]:
 
 <center><img src="http://leaflabs.com/wp-content/uploads/2011/10/telnet_session.png" alt="telnet_session"></center>
 
-</p>
 Maybe the command line isn't your thing. Well, web servers are always
 cool, with their buttons and text boxes. Here's an example web server
 (note: originally a different name was on top, but the legal department
@@ -39,12 +38,10 @@ advised against it):
 
 ![][2]
 
-</p>
 Here's what happens when you press "search":
 
 ![][3]
 
-</p>
 There are many ways in which this design can be expanded, and it's a fun
 way to get into HTML. The user input is not just limited to reading
 text. You can also use forms with check boxes, radio buttons or combo
@@ -57,8 +54,6 @@ websites everyone cooks up with this!
 Here's our Maple Mini web server:
 
 ![][4]
-
-</p>
 
   [WIZ820io]: http://www.wiznet.co.kr/Sub_Modules/kr/product/Product_Detail.asp?cate1=5&cate2=42&cate3=0&pid=1160
   [Maple]: http://leaflabs.com/docs/hardware/maple.html

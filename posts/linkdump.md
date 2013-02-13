@@ -28,7 +28,6 @@ maybe new to you!
     thanks!)
 -   [RoboGames 2010 Mech Warfare][] via BotJunkie
 
-</p>
 ... and now my yak is cold
 
   [Craft VGA Demo]: http://www.linusakesson.net/scene/craft/
