@@ -3,7 +3,9 @@ Date: 2009-08-16 18:23
 Author: Okie
 Category: Uncategorized
 
-![mapleproto][]
+<center>
+<img src="http://blogs.leaflabs.com/wp-content/uploads/mapleproto.jpg" alt="mapleproto" width="400px">
+</center>
 
 This is the Maple prototype, our first version of an
 Arduino-compatible board with an STM32 ARM Cortex-M3 processor. We're
@@ -41,5 +43,3 @@ shield we might do is an OLED display with a little trackball or
 joystick. I haven't seen an OLED display shield at a reasonable cost.
 We're open to suggestions!
 
-  [mapleproto]: http://blogs.leaflabs.com/wp-content/uploads/mapleproto.jpg
-    "mapleproto"

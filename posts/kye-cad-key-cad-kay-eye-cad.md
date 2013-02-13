@@ -3,13 +3,11 @@ Date: 2010-06-10 01:00
 Author: Jessb
 Category: Uncategorized
 
-<!--         @page { margin: 0.79in }        P { margin-bottom: 0.08in } -->So
-way back when, after we announced that Maple was moving to a four-layer
-design, several of you suggested that we give [KiCad][] a try. KiCad is
-open source under GPL, and (unlike the free version of Eagle) plays
-nicely with four-layer designs, which are both, you know, pretty good
-things, so we decided to give it a whirl for the design of Maple
-Native^[[1]][]^.
+So way back when, after we announced that Maple was moving to a four-layer
+design, several of you suggested that we give [KiCad][] a try. KiCad is open
+source under GPL, and (unlike the free version of Eagle) plays nicely with
+four-layer designs, which are both, you know, pretty good things, so we decided
+to give it a whirl for the design of Maple Native<super>[1]</super>.
 
 Overall, it went pretty well – the software is reasonably intuitive and
 I didn't encounter any huge blocking issues. The assorted “getting
@@ -51,15 +49,13 @@ tricks they want to share, please do.
 
 So what about you guys? KiCad users, weigh in!
 
-*<a name="foot1"></a>[1]: We're getting a lot of inquiries about
-timeline for Maple Native, so I just want to reiterate: we're chugging
-away as fast as we can, but we don't feel comfortable committing to a
-release date just yet. We've got a prototype in our hot little hands,
-and right now we're at the “basic functionality” stage of testing. One
-major item still on the to-do list is bringing up the FSMC bus for the
-memory chip, and then, you know, fixing the myriad problems with the
-board design that will undoubtedly come up during testing. Extrapolate
-from that as you will.*
+*[1]: We're getting a lot of inquiries about timeline for Maple Native, so I
+just want to reiterate: we're chugging away as fast as we can, but we don't
+feel comfortable committing to a release date just yet. We've got a prototype
+in our hot little hands, and right now we're at the “basic functionality” stage
+of testing. One major item still on the to-do list is bringing up the FSMC bus
+for the memory chip, and then, you know, fixing the myriad problems with the
+board design that will undoubtedly come up during testing. Extrapolate from
+that as you will.*
 
   [KiCad]: http://kicad.sourceforge.net/wiki/index.php/Main_Page
-  [[1]]: #foot1

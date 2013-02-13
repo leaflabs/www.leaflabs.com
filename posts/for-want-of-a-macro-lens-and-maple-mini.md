@@ -3,7 +3,13 @@ Date: 2011-03-01 13:16
 Author: Poslathian
 Category: Uncategorized
 
- Soon, someone with more equipment (and certainly more talent) than I have will replace these pictures with some real photos. But, a *few* Maple Mini's came back from fab today and I just couldn't help myself. I only had two lenses, a 500mm telephoto and some other zoom lens (200mm?) - point being I had to take these while standing about 6 feet away. Enjoy the day's eye candy!
+Soon, someone with more equipment (and certainly more talent) than I have will
+replace these pictures with some real photos. But, a *few* Maple Mini's came
+back from fab today and I just couldn't help myself. I only had two lenses, a
+500mm telephoto and some other zoom lens (200mm?) - point being I had to take
+these while standing about 6 feet away. Enjoy the day's eye candy!
+
+<center>
 <table style="border-style: none;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -20,3 +26,4 @@ Category: Uncategorized
 </tr>
 </tbody>
 </table>
+</center>

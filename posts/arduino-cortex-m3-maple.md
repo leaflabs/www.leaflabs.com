@@ -3,12 +3,12 @@ Date: 2009-07-15 20:58
 Author: Poslathian
 Category: Uncategorized
 
-In the depths of the sparkfun.com product pages Occam sez: "Exactly ...
-someone should port the Arduino firmware and environment to a 32-bit
-ARM, preferably one of the new
+In the depths of the sparkfun.com product pages Occam sez: 
 
-Cortex-M3 variants. Can anyone say ARMDuino? It would be killer,
-especially on these very fast ARM processors..."
+> "Exactly ...  someone should port the Arduino firmware and environment to a
+> 32-bit ARM, preferably one of the new Cortex-M3 variants. Can anyone say
+> ARMDuino? It would be killer, especially on these very fast ARM
+> processors..."
 
 Yes. We agree. Totally.
 

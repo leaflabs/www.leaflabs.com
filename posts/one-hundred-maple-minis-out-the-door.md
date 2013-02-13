@@ -5,6 +5,6 @@ Category: Uncategorized
 
 That's the lot of 'em, guys. Thanks so much for the super-successful
 sale. Of course, you can [still buy Mini][] at the usual price of
-\$34.99. Can't wait to see what everybody does with them.
+$34.99. Can't wait to see what everybody does with them.
 
   [still buy Mini]: http://leaflabs.com/store/

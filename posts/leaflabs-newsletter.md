@@ -6,7 +6,7 @@ Category: Uncategorized
 A few weeks ago I sent out the inaugural LeafLabs newsletter. For anyone
 not on our mailing list, here's a copy of the text:
 
-<div>
+<hr>
 
 *Hello!*
 
@@ -52,13 +52,12 @@ as good for you as it was for us?*
 
 *The LeafLabs Team*
 
-<p>
+<hr>
+
 As an astute reader may have noticed, the pre-release date for Maple is
 today!! Order your very own maple [here][]. If you’d like to be added to
 the newsletter, send us a line at info (at) leaflabs (dot) com or make a
 request via comments.
-
-</div>
 
   [leaflabs.com]: http://leaflabs.com
   [here]: http://leaflabs.com/store

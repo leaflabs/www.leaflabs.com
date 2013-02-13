@@ -15,7 +15,9 @@ Faire! We will also bring the last remaining handful of Rev3's for
 people to pick up, and hopefully some cool demos. Rev5's will be open to
 preorders at the Faire! Lead time should be quick, 20 days ish.
 
+<center>
 ![Oh my god, what if nothing works?!][]
+</center>
 
 A big thanks to everyone participating on the forums! gbulmer,
 leaflabsAndy, amir, crenn, StephenFromNYC, x893, adamfeuer, and others -
@@ -32,4 +34,4 @@ And now for something cool - *Made With Maple*
 [THX - Maple Style][]
 
   [Oh my god, what if nothing works?!]: http://leaflabs.com/wp-content/uploads/2010/09/6daysToMaker-300x225.jpg
-  [THX - Maple Style]: http://leaflabs.com/2010/09/oof-out-of-stock/maple_deep_note/
+  [THX - Maple Style]: http://leaflabs.com/wp-content/uploads/2010/09/Maple_Deep_Note.wav

@@ -7,7 +7,9 @@ We've been bursting forth with code and hardware as the weather
 improves but have neglected to share them with you despite many emails
 and conversations; thanks for all your interest!
 
-[![maple rev3][]][]
+<center>
+![maple rev3][]
+</center>
 
 On the top of our stack is the next batch of Maple boards, rev3. We've
 got a small production batch back for testing and will have boards for
@@ -28,7 +30,9 @@ but most development boards have trouble meeting the full potential of
 their parts. We'll report back once we're more confident of our test
 setup and peripheral configuration, but it looks pretty reasonable.
 
+<center>
 ![test-prog-shot][]
+</center>
 
 As part of the testing process I wrote up an interactive testing
 program which acts as a console over one of the USART serial ports and
@@ -40,9 +44,11 @@ look at what we have now [here][]. In the future we're excited to see if
 we can port more complete environments like [eLua][] or
 [python-on-a-chip][].
 
-[caption id="attachment\_245" align="aligncenter" width="300"
-caption="Breadboarding PWM audio with the Maple"][![Breadboarding PWM
-audio with the Maple][]][][/caption]
+<center>
+![Breadboarding PWM audio with the Maple][]
+
+Breadboarding PWM audio with the Maple
+</center>
 
 One use for high resolution ADC sampling is real time audio work! With
 the right low pass filter (which can be just a couple resistors and
@@ -50,7 +56,9 @@ capacitors) the high speed PWM ports on the Maple can pump out
 reasonable audio-frequency waveforms. Okie has been working on a basic
 audio shield with nice active filters and other goodies.
 
-[![Basic Audio Shield Prototype][]][]
+<center>
+![Basic Audio Shield Prototype][]
+</center>
 
 Of course a dedicated DAC could give much higher audio fidelity, and
 many microcontrollers can implement basic audio synthesis. We're
@@ -66,23 +74,16 @@ There's more going on; check out our [flicker stream][] for more photos
 of testing, a [MIDI/IR theramin][], [wifi routers][], and a
 [ghost][detectable] from our past soon to be reincarnated.
 
-  [maple rev3]: http://blogs.leaflabs.com/wp-content/uploads/img_4044-Modified-300x207.jpg
-    "maple rev3"
-  [![maple rev3][]]: http://www.flickr.com/photos/48069758@N08/4556644616/
+  [maple rev3]: http://blogs.leaflabs.com/wp-content/uploads/img_4044-Modified-300x207.jpg "maple rev3"
   [github]: http://github.com/leaflabs/
   [shiny new website]: http://www.flickr.com/photos/48069758@N08/4556431364/
   [detectable]: http://www.flickr.com/photos/48069758@N08/4555765513/
-  [test-prog-shot]: http://blogs.leaflabs.com/wp-content/uploads/test-prog-shot.png
-    "test-prog-shot"
+  [test-prog-shot]: http://blogs.leaflabs.com/wp-content/uploads/test-prog-shot.png "test-prog-shot"
   [here]: http://gist.github.com/380091
   [eLua]: http://www.eluaproject.net/
   [python-on-a-chip]: http://code.google.com/p/python-on-a-chip/
-  [Breadboarding PWM audio with the Maple]: http://blogs.leaflabs.com/wp-content/uploads/audio_board-300x225.jpg
-    "audio_breadboard"
-  [![Breadboarding PWM audio with the Maple][]]: http://www.flickr.com/photos/48069758@N08/4519889527/
-  [Basic Audio Shield Prototype]: http://blogs.leaflabs.com/wp-content/uploads/img_4043-Modified-300x224.jpg
-    "Basic Audio Shield Prototype"
-  [![Basic Audio Shield Prototype][]]: http://www.flickr.com/photos/48069758@N08/4556644630/
+  [Breadboarding PWM audio with the Maple]: http://blogs.leaflabs.com/wp-content/uploads/audio_board-300x225.jpg "audio_breadboard"
+  [Basic Audio Shield Prototype]: http://blogs.leaflabs.com/wp-content/uploads/img_4043-Modified-300x224.jpg "Basic Audio Shield Prototype"
   [Kicad]: http://kicad.sourceforge.net/wiki/index.php/Main_Page
   [flicker stream]: http://www.flickr.com/photos/48069758@N08/
   [MIDI/IR theramin]: http://www.flickr.com/photos/48069758@N08/4515845564/

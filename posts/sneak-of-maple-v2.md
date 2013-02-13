@@ -4,9 +4,10 @@ Author: Okie
 Category: Around the Lab
 Slug: 221-2
 
-![maple-v2-proto][maple-v2-proto]
+<center>
+<img width="700px" src="http://blogs.leaflabs.com/wp-content/uploads/maple-v2-proto1-1024x691.jpg" alt="maple-v2-proto">
+</center>
 
 A good story to come... Great things have been brewing. Show us what
 you've been cooking!
 
-  [maple-v2-proto]: http://blogs.leaflabs.com/wp-content/uploads/maple-v2-proto1-1024x691.jpg "maple-v2-proto"

@@ -23,7 +23,7 @@ able to pre-order a board [here][].
 
 PS. For waiting so nicely, here's a pretty picture of the old prototype:
 
-![][]
+<img src="http://leaflabs.com/img/wiki_up/DSC_0456.jpg">
 
 (The release version differs in that power selection is made using a
 jumper, between standard barrel jack / USB power / LiPo batter, there is
@@ -50,9 +50,13 @@ component is pretty smart in measuring the battery and determining when
 and how to charge it. It's probably used in cell phones, media players,
 etc.
 
-![maple\_barebones][]
+<center>
+<img src="http://blogs.leaflabs.com/wp-content/uploads/maple_barebones-768x1024.jpg" alt="maple_barebones" width="300px">
+</center>
 
+<center>
 ![red-maple-tree][]
+</center>
 
 The components on the boards that are going out for preorders are
 machine placed. The pads are gold plated. The soldermask is
@@ -62,17 +66,13 @@ than working with beautiful hardware on a crispy cool fall night.
 
 Here's a screen capture of it:
 
-![maple\_eaglecapture][]
+<center>
+<img alt="maple_eaglecapture" src="http://blogs.leaflabs.com/wp-content/uploads/maple_eaglecapture-1024x921.png" width="300px">
+</center>
 
 This also has alternate header pads that are in standard 0.1" spacing
 with the other headers for those who also like perf board.
 
   [here]: http://leaflabs.com/store
-  []: http://leaflabs.com/img/wiki_up/DSC_0456.jpg
   [Advanced Circuits]: http://www.4pcb.com
-  [maple\_barebones]: http://blogs.leaflabs.com/wp-content/uploads/maple_barebones-768x1024.jpg
-    "maple_barebones"
-  [red-maple-tree]: http://blogs.leaflabs.com/wp-content/uploads/red-maple-tree-150x150.jpg
-    "red-maple-tree"
-  [maple\_eaglecapture]: http://blogs.leaflabs.com/wp-content/uploads/maple_eaglecapture-1024x921.png
-    "maple_eaglecapture"
+  [red-maple-tree]: http://blogs.leaflabs.com/wp-content/uploads/red-maple-tree-150x150.jpg "red-maple-tree"

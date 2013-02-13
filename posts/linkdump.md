@@ -12,7 +12,7 @@ maybe new to you!
 -   [Bit Twiddling Hacks][]
 -   [Deleting a buffer without closing the window][] (vim)
 -   [Xilinx puts ARM core into its FPGAs][]: Dual A9s; this will be the
-    \$\$\$ version of Oak in "early 2011"
+    $$$ version of Oak in "early 2011"
 -   [Arduino Cheatsheet][]
 -   [DEBIT][]: FPGA hacking
 -   [git for computer scientists][]

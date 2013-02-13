@@ -10,14 +10,11 @@ residents of America out there, and some time next week for the
 international folks. Our software will be up within the next few days,
 just in time to get started hacking on your boards.
 
-[caption id="attachment\_204" align="alignnone" width="339" caption="Our
-very own Jewish Santa, shipping Maples to all the good boys and
-girls."]![Our very own Jewish santa, shipping maples to all the good
-boys and girls.][][/caption]
+<center>
+<img src="http://blogs.leaflabs.com/wp-content/uploads/DSC_83091-678x1024.jpg" alt="Our very own Jewish santa" width="300px">
+
+Our very own Jewish Santa, shipping Maples to all the good boys and girls.
+</center>
 
 So thanks for bearing with us, and Merry Christmas, Happy Hanukkah,
 Killer Kwanzaa, and A yuley Yule to all of you.
-
-  [Our very own Jewish santa, shipping maples to all the good boys and
-  girls.]: http://blogs.leaflabs.com/wp-content/uploads/DSC_83091-678x1024.jpg
-    "Our very own Jewish santa"

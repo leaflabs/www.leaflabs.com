@@ -2,9 +2,10 @@ Title: Maple rev3 on Sale and In Stock Now (hooray!)
 Date: 2010-05-23 00:01
 Author: Poslathian
 Category: Uncategorized
+Slug: maple-r3-on-sale-and-in-stock-now-hooray
 
 After far too long a wait, Maple is back on sale! You can buy it from us
-[here][] for the low, low price of \$49.99.
+[here][] for the low, low price of $49.99.
 
 We've spent the last few months toiling tirelessly to get Maple Rev. 3
 out the door, and the day has finally arrived. This release marks
@@ -39,7 +40,9 @@ school for yet another one.
 
 iperry takes sweet pics:
 
+<center>
 <a rel="attachment wp-att-960" href="http://leaflabs.com/2010/05/maple-r3-on-sale-and-in-stock-now-hooray/maple-r3-2-2/"><img class="alignnone size-medium wp-image-960" title="maple-r3-2" src="http://leaflabs.com/wp-content/uploads/2010/05/maple-r3-21-300x200.jpg" alt="" width="300" height="200" /></a><a rel="attachment wp-att-959" href="http://leaflabs.com/2010/05/maple-r3-on-sale-and-in-stock-now-hooray/maple-r3-1-2/"><img class="alignnone size-medium wp-image-959" title="maple-r3-1" src="http://leaflabs.com/wp-content/uploads/2010/05/maple-r3-11-300x199.jpg" alt="" width="300" height="199" /></a>
+</center>
 
 (uhh d300 obviously, no canon here)
 

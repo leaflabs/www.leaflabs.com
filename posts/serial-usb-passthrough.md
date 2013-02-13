@@ -10,18 +10,18 @@ slick little ones in the mail, but in the meanwhile I wrote this sketch
 in about 2 seconds which turns a spare Maple into a Serial-USB
 passthrough:
 
-  void setup() {
-    Serial2.begin(9600);
-  }
-  
-  void loop() {
-    if(SerialUSB.available()) {
-      Serial2.write(SerialUSB.read());
+    void setup() {
+      Serial2.begin(9600);
     }
-    if(Serial2.available()) {
-      SerialUSB.write(Serial2.read());
+    
+    void loop() {
+      if(SerialUSB.available()) {
+        Serial2.write(SerialUSB.read());
+      }
+      if(Serial2.available()) {
+        SerialUSB.write(Serial2.read());
+      }
     }
-  }
 
 There are a million better ways to do this but I love how easy this was!
 

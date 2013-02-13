@@ -17,8 +17,7 @@ together we can make it oh so much more!
 
 Obligatory Screenshot:
 
-![screenshot1][]
+<center>
+<img src="http://blogs.leaflabs.com/wp-content/uploads/screenshot1-1024x562.jpg" width="700px">
+</center>
 
-</p>
-
-  [screenshot1]: http://blogs.leaflabs.com/wp-content/uploads/screenshot1-1024x562.jpg

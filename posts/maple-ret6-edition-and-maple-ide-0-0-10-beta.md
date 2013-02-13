@@ -2,6 +2,7 @@ Title: Maple RET6 Edition and Maple IDE 0.0.10 Beta
 Date: 2011-05-12 19:52
 Author: Mbolivar
 Category: Uncategorized
+Slug: maple-ret6-edition-and-maple-ide-0-0-10-beta
 
 Some great pieces of news:
 <ul>
@@ -101,7 +102,15 @@ If you have any problems, let us know in the <a href="http://forums.leaflabs.com
             <li><a href="https://github.com/leaflabs/libmaple/blob/0.0.10beta/libmaple/stm32.h">stm32.h</a> future basis for MCU-specific configuration</li>
 
             <li><a href="https://github.com/leaflabs/libmaple/blob/0.0.10beta/libmaple/delay.h">delay.h</a> base delay_us() implementation, pulled from Wirish.</li>
-        </ul>
-    </li>
-
+    </ul></li>
     <li>Other changes:
+    <ul>
+    <li><a href="https://github.com/leaflabs/libmaple/blob/0.0.10beta/libmaple/ring_buffer.h">ring_buffer.h</a>: the previous implementation had many problems, and was rewritten.  Thanks to Michael Hope (<a href="https://github.com/nzmichaelh" >nzmichaelh on GitHub</a>) for the initial rewrite.</li>
+    <li><a href="https://github.com/leaflabs/libmaple/blob/0.0.10beta/libmaple/systick.h">systick.h</a> systick_resume() renamed systick_enable()</li>
+    <li><a href="https://github.com/leaflabs/libmaple/blob/0.0.10beta/libmaple/util.h">util.h</a> register read/write macros (__read(), __write(), etc.) were removed.</li>
+    </ul>
+    </li>
+</ul>
+
+<h3>Other</h3>
+<p><a href="http://static.leaflabs.com/pub/leaflabs/maple-docs/0.0.10beta/unix-toolchain.html">Unix toolchain</a> compiler output: more debug symbols; map file generation.</p>

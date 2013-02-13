@@ -24,7 +24,9 @@ of everything, code wise: gradients, for loops, randomized values
 including getting the leaf to look right. Not bad at
 all.
 
-![toolkit][]
+<center>
+<img src="http://blogs.leaflabs.com/wp-content/uploads/toolkit1.jpg" alt="toolkit" width="700px">
+</center>
 
 Now here is something a little more interesting.. While I've been sick,
 I've been playing with a few ideas for the look of our toolkit [AJ and
@@ -37,7 +39,7 @@ along the lines of qualitative information about selected nodes.
 The **really** nice thing about nodebox is it allowed me to write
 overhead so I could generate each node and its color, shape, etc.
 easily, and moreover, I imagine this will be very helpful when I begin
-working with GTK's graphic's library,[Cairo][].
+working with GTK's graphic's library, [Cairo][].
 
 I'm planning on doing a few simple animations to demonstrate usage of
 the program,  and as soon as possible, begin either porting or wrapping
@@ -48,5 +50,4 @@ Have fun.
 
   [Potential LeafLabs Logo]: http://blogs.leaflabs.com/wp-content/uploads/leaflabs1.jpg "LeafLabs"
   [Nodebox]: http://nodebox.net
-  [toolkit]: http://blogs.leaflabs.com/wp-content/uploads/toolkit1.jpg "toolkit"
   [Cairo]: http://cairographics.org/

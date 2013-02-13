@@ -3,9 +3,9 @@ Date: 2010-01-13 22:12
 Author: Bbradlyn
 Category: Uncategorized
 
-![Printing to the Serial Monitor on OS X!][]
-
-</p>
+<center>
+<img src="http://blogs.leaflabs.com/wp-content/uploads/maplepic-1024x640.jpg" width="700px;">
+</center>
 
 With revision 115, the maple IDE works on OS X 10.5, provided you use an
 external power source (due to the dfu problems mentioned above. To build
@@ -16,14 +16,14 @@ through macports.
 First, go to [http://www.macports.org/][] and follow the installation
 instructions. Then open a terminal and type
 
-  sudo port install mpfr
+    sudo port install mpfr
 
 This should install libgmp and libmpfr. Next, check out the code
 repository at [http://code.google.com/p/leaflabs][]
 
 open up a terminal, change to the directory
 
-  leaflabs/trunk/maple/build/macosx
+    leaflabs/trunk/maple/build/macosx
 
 and then run appbuild.sh
 
@@ -49,8 +49,5 @@ Unfortunately, it seems that there are problems getting libmpfr to play
 nicely with Snow Leopard (OS X 10.6). We're currently looking into this,
 and will let you know when we have  a fix.
 
-  [Printing to the Serial Monitor on OS X!]: http://blogs.leaflabs.com/wp-content/uploads/maplepic-1024x640.jpg
-  [http://www.macports.org/]: http://www.macports.org/
-    "http://www.macports.org/"
-  [http://code.google.com/p/leaflabs]: http://code.google.com/p/leaflabs
-    "http://code.google.com/p/leaflabs"
+  [http://www.macports.org/]: http://www.macports.org/ "http://www.macports.org/"
+  [http://code.google.com/p/leaflabs]: http://code.google.com/p/leaflabs "http://code.google.com/p/leaflabs"
