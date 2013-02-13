@@ -4,22 +4,25 @@
 <br>
 <div class="blogtitle">
 <h3>
+<span style="color:grey;"><a href="/blog/" style="color:grey;">blog</a> /</span>
 <a href="{{ article.url }}" rel="bookmark"
-         title="Permalink to {{ article.title|striptags }}">blog / {{ article.title }}</a>
+         title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
 </h3>
 </div>
 <br>
 <div class="entry">
+
 {{ article.content }}
 
 <br>
-
 <div class="blogpostinfo alt">
 <small>
 Posted by {{ article.author }} on {{ article.locale_date }}.
 Discuss in the <a href="http://forums.leaflabs.com">forums</a>.
-Ancient comments may be available at 
+Ancient comments may be available at
+<a href="http://static.leaflabs.com/old/www.leaflabs.com_feb2013/{{ article.url }}">static.leaflabs.com</a> or 
 <a href="http://web.archive.org/web/20130115024557/http://leaflabs.com/{{ article.url }}">archive.org</a>.
+Browse the <a href="/blog/archives/">index</a> of all blog posts.
 </small>
 </div>
 </div>

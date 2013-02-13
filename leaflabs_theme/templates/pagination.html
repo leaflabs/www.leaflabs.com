@@ -1,13 +1,16 @@
 {% if DEFAULT_PAGINATION %}
 {% if articles_page.has_previous() %}
   <div style="float:right; padding: 7px; font-weight: bold; width: 110px;">
-    <a href="{{ SITEURL }}/blog/{{ page_name }}{{ articles_page.previous_page_number() }}.html">Newer Posts &raquo;</a>
+    <a href="{{ SITEURL }}/blog/{{ page_name }}{{ articles_page.previous_page_number() }}.html" style="text-decoration: none;">Newer Posts &raquo;</a>
   </div>
 {% endif %}
 {% if articles_page.has_next() %}
   <div style="float:left; padding: 7px; font-weight: bold; width: 110px;">
-    <a href="{{ SITEURL }}/blog/{{ page_name }}{{ articles_page.next_page_number() }}.html">&laquo; Older Posts</a>
+    <a href="{{ SITEURL }}/blog/{{ page_name }}{{ articles_page.next_page_number() }}.html" style="text-decoration: none;">&laquo; Older Posts</a>
   </div>
 {% endif %}
+<div style="float: left; padding: 7px; margin-left: 200px; width: 110px;">
+<b><a href="/blog/archives/" style="text-decoration: none;">Blog Archives</a></b>
+</div>
 <br clear="all">
 {% endif %}
