@@ -19,7 +19,8 @@ instructions. Then open a terminal and type
     sudo port install mpfr
 
 This should install libgmp and libmpfr. Next, check out the code
-repository at [http://code.google.com/p/leaflabs][]
+repository at 
+<strike>[http://code.google.com/p/leaflabs][]</strike> [github][].
 
 open up a terminal, change to the directory
 
@@ -51,3 +52,4 @@ and will let you know when we have  a fix.
 
   [http://www.macports.org/]: http://www.macports.org/ "http://www.macports.org/"
   [http://code.google.com/p/leaflabs]: http://code.google.com/p/leaflabs "http://code.google.com/p/leaflabs"
+  [github]: http://github.com/leaflabs
