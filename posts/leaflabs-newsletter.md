@@ -33,7 +33,7 @@ website; currently registering allows you to sign up for our mailing
 lists and little else, but in the near future you will be able to
 preorder boards, participate in forums, sign up to be a beta tester,
 post projects and a variety of web associated activities. LeafLabs also
-has a twitter (@leaflabs) and a blog (blogs.leaflabs.com) Finally, if
+has a twitter (@leaflabs) and a blog (leaflabs.com) Finally, if
 you want to chat about all things Leaf (oh and we know you do), come
 check out our IRC channel, \#leafblowers on irc.freenode.net.*
 

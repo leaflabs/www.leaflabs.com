@@ -74,16 +74,16 @@ There's more going on; check out our [flicker stream][] for more photos
 of testing, a [MIDI/IR theramin][], [wifi routers][], and a
 [ghost][detectable] from our past soon to be reincarnated.
 
-  [maple rev3]: http://blogs.leaflabs.com/wp-content/uploads/img_4044-Modified-300x207.jpg "maple rev3"
+  [maple rev3]: http://leaflabs.com/wp-content/uploads/img_4044-Modified-300x207.jpg "maple rev3"
   [github]: http://github.com/leaflabs/
   [shiny new website]: http://www.flickr.com/photos/48069758@N08/4556431364/
   [detectable]: http://www.flickr.com/photos/48069758@N08/4555765513/
-  [test-prog-shot]: http://blogs.leaflabs.com/wp-content/uploads/test-prog-shot.png "test-prog-shot"
+  [test-prog-shot]: http://leaflabs.com/wp-content/uploads/test-prog-shot.png "test-prog-shot"
   [here]: http://gist.github.com/380091
   [eLua]: http://www.eluaproject.net/
   [python-on-a-chip]: http://code.google.com/p/python-on-a-chip/
-  [Breadboarding PWM audio with the Maple]: http://blogs.leaflabs.com/wp-content/uploads/audio_board-300x225.jpg "audio_breadboard"
-  [Basic Audio Shield Prototype]: http://blogs.leaflabs.com/wp-content/uploads/img_4043-Modified-300x224.jpg "Basic Audio Shield Prototype"
+  [Breadboarding PWM audio with the Maple]: http://leaflabs.com/wp-content/uploads/audio_board-300x225.jpg "audio_breadboard"
+  [Basic Audio Shield Prototype]: http://leaflabs.com/wp-content/uploads/img_4043-Modified-300x224.jpg "Basic Audio Shield Prototype"
   [Kicad]: http://kicad.sourceforge.net/wiki/index.php/Main_Page
   [flicker stream]: http://www.flickr.com/photos/48069758@N08/
   [MIDI/IR theramin]: http://www.flickr.com/photos/48069758@N08/4515845564/

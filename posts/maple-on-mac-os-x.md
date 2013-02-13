@@ -4,7 +4,7 @@ Author: bbradlyn
 Category: Uncategorized
 
 <center>
-<img src="http://blogs.leaflabs.com/wp-content/uploads/maplepic-1024x640.jpg" width="700px;">
+<img src="http://leaflabs.com/wp-content/uploads/maplepic-1024x640.jpg" width="700px;">
 </center>
 
 With revision 115, the maple IDE works on OS X 10.5, provided you use an

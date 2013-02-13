@@ -93,6 +93,6 @@ electrolytic one and voila, the results detailed above.
 We share this story with you just in case you ever come across a similar
 problem and are like WTF?, you might learn from our travails.
 
-  [maple-r1-VCC-nocap]: http://blogs.leaflabs.com/wp-content/uploads/maple-r1-VCC-nocap-150x150.jpg "maple-r1-VCC-nocap"
-  [maple-r1-VCC-ceramic10uF]: http://blogs.leaflabs.com/wp-content/uploads/maple-r1-VCC-ceramic10uF-150x150.jpg "maple-r1-VCC-ceramic10uF"
-  [maple-r1-VCC-electrolytic10uF]: http://blogs.leaflabs.com/wp-content/uploads/maple-r1-VCC-electrolytic10uF-150x150.jpg "maple-r1-VCC-electrolytic10uF"
+  [maple-r1-VCC-nocap]: http://leaflabs.com/wp-content/uploads/maple-r1-VCC-nocap-150x150.jpg "maple-r1-VCC-nocap"
+  [maple-r1-VCC-ceramic10uF]: http://leaflabs.com/wp-content/uploads/maple-r1-VCC-ceramic10uF-150x150.jpg "maple-r1-VCC-ceramic10uF"
+  [maple-r1-VCC-electrolytic10uF]: http://leaflabs.com/wp-content/uploads/maple-r1-VCC-electrolytic10uF-150x150.jpg "maple-r1-VCC-electrolytic10uF"

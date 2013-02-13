@@ -25,7 +25,7 @@ including getting the leaf to look right. Not bad at
 all.
 
 <center>
-<img src="http://blogs.leaflabs.com/wp-content/uploads/toolkit1.jpg" alt="toolkit" width="700px">
+<img src="http://leaflabs.com/wp-content/uploads/toolkit1.jpg" alt="toolkit" width="700px">
 </center>
 
 Now here is something a little more interesting.. While I've been sick,
@@ -48,6 +48,6 @@ Hopefully AJ will have his post on that soon...
 
 Have fun.
 
-  [Potential LeafLabs Logo]: http://blogs.leaflabs.com/wp-content/uploads/leaflabs1.jpg "LeafLabs"
+  [Potential LeafLabs Logo]: http://leaflabs.com/wp-content/uploads/leaflabs1.jpg "LeafLabs"
   [Nodebox]: http://nodebox.net
   [Cairo]: http://cairographics.org/

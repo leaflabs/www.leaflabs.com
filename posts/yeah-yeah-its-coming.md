@@ -18,6 +18,6 @@ together we can make it oh so much more!
 Obligatory Screenshot:
 
 <center>
-<img src="http://blogs.leaflabs.com/wp-content/uploads/screenshot1-1024x562.jpg" width="700px">
+<img src="http://leaflabs.com/wp-content/uploads/screenshot1-1024x562.jpg" width="700px">
 </center>
 
