@@ -23,7 +23,7 @@ terms of product availability and development.
     not intend on manufacturing more. In general, the RET6 is just not
     terribly popular, and in the future the F4 version should provide
     the “level up” option that made the RET6 appealing. We’re going to
-    be selling the remaining stock at a sale price of \$44.99, so get
+    be selling the remaining stock at a sale price of $44.99, so get
     ‘em while they last.
 -   **Maple Native** beta run is over, and we got a lot of good feedback
     about the board. At this point, our intention is to redesign Maple

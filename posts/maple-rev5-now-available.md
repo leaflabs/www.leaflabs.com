@@ -12,7 +12,7 @@ additional header and the analog supply has been broken out on the power
 header for low-noise applications. Additionally, we made some
 improvements to the silkscreen that we think you will find useful.
 Testing and flashing is completed on these boards, and we will start
-shipping them out very shortly (\~Nov. 13)! Unfortunately, much of this
+shipping them out very shortly (~Nov. 13)! Unfortunately, much of this
 batch has already been purchased in volume by independent groups and
 distributors, leaving us only 50 boards! The good news is that we have
 already ordered the next batch, which should be about 35 days out. The
@@ -25,7 +25,7 @@ page soon.
 We have some other projects on the way to heighten brighten your holiday
 season even more. Maple Mini is in its final testing stages, and we will
 be getting the first 200 of these boards in shortly. Target price for
-these boards is in the 33\$ range, and because the first run is a pretty
+these boards is in the $33 range, and because the first run is a pretty
 small one we will likely put them up for pre-order as soon as were
 satisfied with the production samples. Maple Native is also on its way
 to fab, and our programming tools have been expanded to fully support
