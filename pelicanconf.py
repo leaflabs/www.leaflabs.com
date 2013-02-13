@@ -33,7 +33,7 @@ ARTICLE_DIR = ('posts')
 PAGE_DIR = ('pages')
 #FILES_TO_COPY = (('style', 'style'), )
 STATIC_PATHS = ['style']
-TEMPLATE_PAGES = {'pages/home.html': 'index.html'}
+TEMPLATE_PAGES = {'home.html': 'index.html'}
 
 DIRECT_TEMPLATES = ('index', 'archives')
 
