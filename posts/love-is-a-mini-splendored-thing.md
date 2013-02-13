@@ -22,18 +22,18 @@ page][] has all the gory details). Don't forget, you'll need to grab the
 [0.0.11 IDE][Maple IDE 0.0.11] in order to play with the Mini.
 
 <center>
-<a href="http://leaflabs.com/wp-content/uploads/2011/05/DSC_0034.jpeg" title="DSC_0034">
-<img width="150" height="150" src="http://leaflabs.com/wp-content/uploads/2011/05/DSC_0034-150x150.jpg" class="attachment-thumbnail" alt="" title="DSC_0034"></a>
-<a href="http://leaflabs.com/wp-content/uploads/2011/05/DSC_0047.jpeg" title="DSC_0047">
-<img width="150" height="150" src="http://leaflabs.com/wp-content/uploads/2011/05/DSC_0047-150x150.jpg" class="attachment-thumbnail" alt="" title="DSC_0047"></a>
-<a href="http://leaflabs.com/wp-content/uploads/2011/05/DSC_0061.jpeg" title="DSC_0061">
-<img width="150" height="150" src="http://leaflabs.com/wp-content/uploads/2011/05/DSC_0061-150x150.jpg" class="attachment-thumbnail" alt="" title="DSC_0061"></a>
-<a href="http://leaflabs.com/wp-content/uploads/2011/05/DSC_0064.jpeg" title="DSC_0064">
-<img width="150" height="150" src="http://leaflabs.com/wp-content/uploads/2011/05/DSC_0064-150x150.jpg" class="attachment-thumbnail" alt="" title="DSC_0064"></a>
+<a href="/static/images/old/2011/05/DSC_0034.jpeg" title="DSC_0034">
+<img width="150" height="150" src="/static/images/old/2011/05/DSC_0034-150x150.jpg" class="attachment-thumbnail" alt="" title="DSC_0034"></a>
+<a href="/static/images/old/2011/05/DSC_0047.jpeg" title="DSC_0047">
+<img width="150" height="150" src="/static/images/old/2011/05/DSC_0047-150x150.jpg" class="attachment-thumbnail" alt="" title="DSC_0047"></a>
+<a href="/static/images/old/2011/05/DSC_0061.jpeg" title="DSC_0061">
+<img width="150" height="150" src="/static/images/old/2011/05/DSC_0061-150x150.jpg" class="attachment-thumbnail" alt="" title="DSC_0061"></a>
+<a href="/static/images/old/2011/05/DSC_0064.jpeg" title="DSC_0064">
+<img width="150" height="150" src="/static/images/old/2011/05/DSC_0064-150x150.jpg" class="attachment-thumbnail" alt="" title="DSC_0064"></a>
 </center>
 
   [Maple IDE 0.0.11]: http://static.leaflabs.com/pub/leaflabs/maple-docs/0.0.11/maple-ide-install.html
-  [farnsworth]: http://leaflabs.com/wp-content/uploads/2011/05/farnsworth-234x300.jpg "farnsworth"
+  [farnsworth]: /static/images/old/2011/05/farnsworth-234x300.jpg "farnsworth"
   [selling these first hundred at the low low price of $24.99]: /store/
   [store]: http://leaflabs.com/store/
   [devices page]: /devices/#Maple-Mini

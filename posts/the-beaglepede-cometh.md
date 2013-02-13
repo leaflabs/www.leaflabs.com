@@ -10,7 +10,7 @@ We picked ourselves up some toys to play with, all for a dollar:
 <center>
 <dl id="attachment_1090" class="wp-caption alignnone" style="width: 460px;">
 <dt class="wp-caption-dt">
-<img class="size-large wp-image-1090" title="100_0146" src="http://leaflabs.com/wp-content/uploads/2010/07/100_0119-450x600.jpg" alt="" width="300" />
+<img class="size-large wp-image-1090" title="100_0146" src="/static/images/old/2010/07/100_0119-450x600.jpg" alt="" width="300" />
 </dt><dd class="wp-caption-dd">
 That plush guy had the face of a beagle, but the body of a centipede, perfect for segmented lighting! You can also see our prototype, and the weird kaleidoscope plastic things we used in his back.
 </dd></dl>
@@ -111,7 +111,7 @@ Here's the code:
 And here's the schematic:
 
 <center>
-<dl id="attachment_1090" class="wp-caption alignnone" style="width: 460px;"> <dt class="wp-caption-dt"><a rel="attachment wp-att-1090" href="http://leaflabs.com/2010/07/the-beaglepede-cometh/100_0146/"><img class="size-large wp-image-1090" title="100_0146" src="http://leaflabs.com/wp-content/uploads/2010/07/100_0146-450x600.jpg" alt="" width="300" /></a></dt> <dd class="wp-caption-dd">Ignore the letters on the right... they're not related to the diagram.</dd> </dl>
+<dl id="attachment_1090" class="wp-caption alignnone" style="width: 460px;"> <dt class="wp-caption-dt"><a rel="attachment wp-att-1090" href="http://leaflabs.com/2010/07/the-beaglepede-cometh/100_0146/"><img class="size-large wp-image-1090" title="100_0146" src="/static/images/old/2010/07/100_0146-450x600.jpg" alt="" width="300" /></a></dt> <dd class="wp-caption-dd">Ignore the letters on the right... they're not related to the diagram.</dd> </dl>
 </center>
 
 I'm excited to have the beaglepede around because I think he's going to be a cool visualizer...there's lots of things you can do with a row of LEDs!
@@ -119,7 +119,7 @@ I'm excited to have the beaglepede around because I think he's going to be a coo
 <center>
 <dl id="attachment_1090" class="wp-caption alignnone" style="width: 460px;">
 <dt class="wp-caption-dt">
-<img class="size-large wp-image-1090" title="100_0146" src="http://leaflabs.com/wp-content/uploads/2010/07/100_0143-214x300.jpg" alt="" width="300" />
+<img class="size-large wp-image-1090" title="100_0146" src="/static/images/old/2010/07/100_0143-214x300.jpg" alt="" width="300" />
 </dt><dd class="wp-caption-dd">
 Bye bye, Beaglepede.
 </dd></dl>

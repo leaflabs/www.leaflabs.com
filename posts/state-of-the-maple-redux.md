@@ -34,4 +34,4 @@ our hands within a week or two. We'll keep you updated.
   [Maple Mini]: http://www.seeedstudio.com/depot/maple-mini-p-861.html?cPath=132_137
   [here]: http://leaflabs.com/docs/hardware/maple.html#powering-the-maple
   [schematic]: http://github.com/leaflabs/maplemini
-  []: http://leaflabs.com/wp-content/uploads/2012/04/MNII-770x407.png "MNII"
+  []: /static/images/old/2012/04/MNII-770x407.png "MNII"

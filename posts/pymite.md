@@ -47,7 +47,7 @@ Dave
 
   [Maple Native]: http://leaflabs.com/devices/#Maple-Native
     "Blatant Advertisement"
-  []: http://leaflabs.com/wp-content/uploads/2011/09/Screenshot-1.png
+  []: /static/images/old/2011/09/Screenshot-1.png
     "Interactive PyMite Session"
   [command line]: http://leaflabs.com/docs/unix-toolchain.html
   [instructions on the wiki]: http://wiki.leaflabs.com/index.php?title=PyMite

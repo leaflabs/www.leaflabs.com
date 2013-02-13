@@ -5,7 +5,7 @@ Category: Around the Lab
 Slug: 221-2
 
 <center>
-<img width="700px" src="http://leaflabs.com/wp-content/uploads/maple-v2-proto1-1024x691.jpg" alt="maple-v2-proto">
+<img width="700px" src="/static/images/old/maple-v2-proto1-1024x691.jpg" alt="maple-v2-proto">
 </center>
 
 A good story to come... Great things have been brewing. Show us what

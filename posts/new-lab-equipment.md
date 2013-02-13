@@ -4,7 +4,7 @@ Author: okie
 Category: Uncategorized
 
 <center>
-<img src="http://leaflabs.com/wp-content/uploads/leaflabssolderstation-small1-1024x680.jpg" alt="leaflabssolderstation" width="700px">
+<img src="/static/images/old/leaflabssolderstation-small1-1024x680.jpg" alt="leaflabssolderstation" width="700px">
 </center>
 
 This weekend, we set up a microscope, solder
@@ -22,4 +22,4 @@ This is our new cat, Henry.
 
 ![henry][henry]
 
-[henry]: http://leaflabs.com/wp-content/uploads/henry-225x300.jpg "henry"
+[henry]: /static/images/old/henry-225x300.jpg "henry"

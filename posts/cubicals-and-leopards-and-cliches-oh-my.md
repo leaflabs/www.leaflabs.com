@@ -31,7 +31,7 @@ we've spent a lot of time playing with [fat binaries][] and have had
 tons of partial success using automated build scripts, but it's going to
 take one more all-nighter to cook up the right magic make sauce.
 
-<img class="aligncenter size-large wp-image-996" title="IMG_4098" src="http://leaflabs.com/wp-content/uploads/2010/05/IMG_4098-770x513.jpg" alt="" width="770" height="513" />
+<img class="aligncenter size-large wp-image-996" title="IMG_4098" src="/static/images/old/2010/05/IMG_4098-770x513.jpg" alt="" width="770" height="513" />
 
 Maker Faire was last weekend and I had a great time running around the
 Bay Area checking out open hardware genetics hardware ([OpenPCR][]), a
@@ -41,7 +41,7 @@ to see what kind of real time audio effects can be pulled off with a
 Maple, and to do some crazy helo tricks with all the processing done
 with an on-board Oak.
 
-<img class="aligncenter size-large wp-image-997" title="techcity" src="http://leaflabs.com/wp-content/uploads/2010/05/techcity-770x513.jpg" alt="" width="770" height="513" />
+<img class="aligncenter size-large wp-image-997" title="techcity" src="/static/images/old/2010/05/techcity-770x513.jpg" alt="" width="770" height="513" />
 
 And finally, look at that hansome fellow in the snazzy new office space!
 We're the first tenants in an awesome new tech incubation/business/work
@@ -56,12 +56,12 @@ a nice conference room where we can host community events and meetups!
   [this forum post]: http://forums.leaflabs.com/topic.php?id=32#post-126
   [cross compiling a cross compiler]: http://en.wikipedia.org/wiki/Cross_compiler#Canadian_Cross
   [fat binaries]: http://developer.apple.com/mac/library/documentation/Darwin/Reference/ManPages/man1/lipo.1.html%20
-  []: http://leaflabs.com/wp-content/uploads/2010/05/IMG_4098-770x513.jpg
+  []: /static/images/old/2010/05/IMG_4098-770x513.jpg
     "IMG_4098"
   [OpenPCR]: http://www.flickr.com/photos/48069758@N08/4647944209/
   [DIY Liquid Nitrogen rig]: http://www.flickr.com/photos/48069758@N08/4647944205/
   [quadrotor drones]: http://www.flickr.com/photos/48069758@N08/4647963653/
   [libre yachts]: http://www.instructables.com/id/The-Free-Yacht-Saga/
-  [1]: http://leaflabs.com/wp-content/uploads/2010/05/techcity-770x513.jpg
+  [1]: /static/images/old/2010/05/techcity-770x513.jpg
     "techcity"
   [Technology City]: http://www.technologycity.net

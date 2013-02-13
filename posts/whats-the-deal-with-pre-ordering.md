@@ -51,7 +51,7 @@ and how to charge it. It's probably used in cell phones, media players,
 etc.
 
 <center>
-<img src="http://leaflabs.com/wp-content/uploads/maple_barebones-768x1024.jpg" alt="maple_barebones" width="300px">
+<img src="/static/images/old/maple_barebones-768x1024.jpg" alt="maple_barebones" width="300px">
 </center>
 
 <center>
@@ -67,7 +67,7 @@ than working with beautiful hardware on a crispy cool fall night.
 Here's a screen capture of it:
 
 <center>
-<img alt="maple_eaglecapture" src="http://leaflabs.com/wp-content/uploads/maple_eaglecapture-1024x921.png" width="300px">
+<img alt="maple_eaglecapture" src="/static/images/old/maple_eaglecapture-1024x921.png" width="300px">
 </center>
 
 This also has alternate header pads that are in standard 0.1" spacing
@@ -75,4 +75,4 @@ with the other headers for those who also like perf board.
 
   [here]: http://leaflabs.com/store
   [Advanced Circuits]: http://www.4pcb.com
-  [red-maple-tree]: http://leaflabs.com/wp-content/uploads/red-maple-tree-150x150.jpg "red-maple-tree"
+  [red-maple-tree]: /static/images/old/red-maple-tree-150x150.jpg "red-maple-tree"

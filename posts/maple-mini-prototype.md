@@ -3,8 +3,8 @@ Date: 2010-10-20 01:02
 Author: okie
 Category: Uncategorized
 
-<a href="http://leaflabs.com/wp-content/uploads/2010/10/maplemini-top.jpg">
-<img src="http://leaflabs.com/wp-content/uploads/2010/10/maplemini-top-770x510.jpg" alt="maplemini-top">
+<a href="/static/images/old/2010/10/maplemini-top.jpg">
+<img src="/static/images/old/2010/10/maplemini-top-770x510.jpg" alt="maplemini-top">
 </a>
 
 We've cooked up Maple Mini which has fewer pins but the same amount of
@@ -15,7 +15,7 @@ store in a couple months.
 
 Here it is hanging out in its home, the breadboard:
 
-<a href="http://leaflabs.com/wp-content/uploads/2010/10/maplemini-breadboard.jpg">
-<img src="http://leaflabs.com/wp-content/uploads/2010/10/maplemini-breadboard-770x510.jpg">
+<a href="/static/images/old/2010/10/maplemini-breadboard.jpg">
+<img src="/static/images/old/2010/10/maplemini-breadboard-770x510.jpg">
 </a>
 

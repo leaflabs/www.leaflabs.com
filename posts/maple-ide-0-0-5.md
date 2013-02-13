@@ -3,7 +3,7 @@ Date: 2010-06-11 16:35
 Author: bnewbold
 Category: Uncategorized
 
-<img class="aligncenter size-large wp-image-1038" title="Screen shot 2010-06-10 at 2.44.47 PM" src="http://leaflabs.com/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-2.44.47-PM-770x481.png" alt="" width="770" height="481" />
+<img class="aligncenter size-large wp-image-1038" title="Screen shot 2010-06-10 at 2.44.47 PM" src="/static/images/old/2010/06/Screen-shot-2010-06-10-at-2.44.47-PM-770x481.png" alt="" width="770" height="481" />
 
 New Maple IDE release today, direct links below!
 

@@ -16,8 +16,8 @@ TX1, RX1 for Serial1 port (there are 3 total), and the pins in all the SPI and
 I2C buses.
 
 <center>
-<img src="http://leaflabs.com/wp-content/uploads/dropbox/maple-v25-front.png" width="300px;"> 
-<img src="http://leaflabs.com/wp-content/uploads/dropbox/maple-v25-back.png" width="300px;">
+<img src="/static/images/old/dropbox/maple-v25-front.png" width="300px;"> 
+<img src="/static/images/old/dropbox/maple-v25-back.png" width="300px;">
 </center>
 
 The second issue to fix in this revision was slightly more serious. We had
@@ -93,6 +93,6 @@ electrolytic one and voila, the results detailed above.
 We share this story with you just in case you ever come across a similar
 problem and are like WTF?, you might learn from our travails.
 
-  [maple-r1-VCC-nocap]: http://leaflabs.com/wp-content/uploads/maple-r1-VCC-nocap-150x150.jpg "maple-r1-VCC-nocap"
-  [maple-r1-VCC-ceramic10uF]: http://leaflabs.com/wp-content/uploads/maple-r1-VCC-ceramic10uF-150x150.jpg "maple-r1-VCC-ceramic10uF"
-  [maple-r1-VCC-electrolytic10uF]: http://leaflabs.com/wp-content/uploads/maple-r1-VCC-electrolytic10uF-150x150.jpg "maple-r1-VCC-electrolytic10uF"
+  [maple-r1-VCC-nocap]: /static/images/old/maple-r1-VCC-nocap-150x150.jpg "maple-r1-VCC-nocap"
+  [maple-r1-VCC-ceramic10uF]: /static/images/old/maple-r1-VCC-ceramic10uF-150x150.jpg "maple-r1-VCC-ceramic10uF"
+  [maple-r1-VCC-electrolytic10uF]: /static/images/old/maple-r1-VCC-electrolytic10uF-150x150.jpg "maple-r1-VCC-electrolytic10uF"

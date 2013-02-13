@@ -29,7 +29,7 @@ The telnet interface offers a great balance between control and
 flexibility. Here's a screenshot of a telnet session with a [Maple
 Mini][]:
 
-<center><img src="http://leaflabs.com/wp-content/uploads/2011/10/telnet_session.png" alt="telnet_session"></center>
+<center><img src="/static/images/old/2011/10/telnet_session.png" alt="telnet_session"></center>
 
 Maybe the command line isn't your thing. Well, web servers are always
 cool, with their buttons and text boxes. Here's an example web server
@@ -65,8 +65,8 @@ Here's our Maple Mini web server:
   [Maple IDE]: http://leaflabs.com/docs/ide.html
   [command line toolchain]: http://leaflabs.com/docs/unix-toolchain.html
   [Maple Mini]: http://leaflabs.com/docs/hardware/maple-mini.html
-  [2]: http://leaflabs.com/wp-content/uploads/2011/10/maple_search_start4-770x451.png "maple_search_start"
-  [3]: http://leaflabs.com/wp-content/uploads/2011/10/maple_search_result4-770x451.png "maple_search_result"
+  [2]: /static/images/old/2011/10/maple_search_start4-770x451.png "maple_search_start"
+  [3]: /static/images/old/2011/10/maple_search_result4-770x451.png "maple_search_result"
   [wizEthernet]: http://wiki.leaflabs.com/index.php?title=WizEthernet
     "wizEthernet Wiki"
-  [4]: http://leaflabs.com/wp-content/uploads/2011/10/wizEthernet-770x575.jpg "wizEthernet"
+  [4]: /static/images/old/2011/10/wizEthernet-770x575.jpg "wizEthernet"

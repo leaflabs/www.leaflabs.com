@@ -11,7 +11,7 @@ international folks. Our software will be up within the next few days,
 just in time to get started hacking on your boards.
 
 <center>
-<img src="http://leaflabs.com/wp-content/uploads/DSC_83091-678x1024.jpg" alt="Our very own Jewish santa" width="300px">
+<img src="/static/images/old/DSC_83091-678x1024.jpg" alt="Our very own Jewish santa" width="300px">
 
 Our very own Jewish Santa, shipping Maples to all the good boys and girls.
 </center>

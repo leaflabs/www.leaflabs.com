@@ -7,13 +7,13 @@ Some time last week we broke the 1000 post mark in the forums! We've got some am
 
 The heat has finally broken in New England and we're looking forward to trundling down the road to New York City in two weeks for the Open Hardware Summit/Maker Faire NYC double ticket. We'll be in town Thursday debating open hardware principles and practicalities at the Open Hardware Summit, then will have a table with projects and demonstrations at Maker Faire on Saturday and Sunday. If you're in the area or traveling for either event drop by and say Hi, we love to chat up internet people and would be happy to poke at some projects or debug code!
 
-<a href="http://www.openhardwaresummit.org/"><img class="size-full wp-image-1339" title="OHS_Logo-300x109" src="http://leaflabs.com/wp-content/uploads/2010/09/OHS_Logo-300x109.jpg" alt="" width="300" height="109" /></a>
+<a href="http://www.openhardwaresummit.org/"><img class="size-full wp-image-1339" title="OHS_Logo-300x109" src="/static/images/old/2010/09/OHS_Logo-300x109.jpg" alt="" width="300" height="109" /></a>
 
 <strong>Thursday, September 23rd
 New York City, World Fair Grounds in Queens
 $40 ($25 artists + students +non-profit)</strong>
 
-<a href="http://makerfaire.com/newyork/2010/"><img class="size-full wp-image-1340" title="logo_newyork_2010_191x179" src="http://leaflabs.com/wp-content/uploads/2010/09/logo_newyork_2010_191x179.jpg" alt="" width="191" height="179" /></a>
+<a href="http://makerfaire.com/newyork/2010/"><img class="size-full wp-image-1340" title="logo_newyork_2010_191x179" src="/static/images/old/2010/09/logo_newyork_2010_191x179.jpg" alt="" width="191" height="179" /></a>
 
 <strong>Saturday and Sunday, September 24th
 New York City, Hall of Science in Queens

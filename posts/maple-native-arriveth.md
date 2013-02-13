@@ -6,7 +6,7 @@ Category: News
 The long wait is over!  <a href="http://leaflabs.com/store/">Maple Native's
 beta release is on sale!</a>  Hurray!
 
-<img src="http://leaflabs.com/wp-content/uploads/2011/09/native-beta-front-600x364.png" style="display: block; width: 600px; clear: both; margin: 0 auto;"/>
+<img src="/static/images/old/2011/09/native-beta-front-600x364.png" style="display: block; width: 600px; clear: both; margin: 0 auto;"/>
 
 <div style="text-align: center; clear: both;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">

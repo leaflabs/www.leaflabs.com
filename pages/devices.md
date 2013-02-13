@@ -46,12 +46,12 @@ For all the Arduino lovers out there, Maple is offered in an Arduino-compatible 
 </tr>
 </tbody>
 </table>
-<a href="/devices/maple/"><img style="width: 31%; float: left; margin-top: 1%; margin-left: 1.25%; margin-right: 0.75%;" src="http://leaflabs.com/wp-content/uploads/2010/02/maple-r5-brd-300x293.png" alt="" /></a>
+<a href="/devices/maple/"><img style="width: 31%; float: left; margin-top: 1%; margin-left: 1.25%; margin-right: 0.75%;" src="/static/images/old/2010/02/maple-r5-brd-300x293.png" alt="" /></a>
 </div>
 
 <div style="clear: both;">
 <a name="Maple-Mini"/><h2>Maple Mini</h2>
-<a href="http://leaflabs.com/wp-content/uploads/2010/02/maplemini-r21.png"><img style="float: right; margin-left: 1%; margin-right: 4%; width: 20%;" src="http://leaflabs.com/wp-content/uploads/2010/02/maplemini-r21-e1296209736468-128x300.png" alt="" /></a>
+<a href="/static/images/old/2010/02/maplemini-r21.png"><img style="float: right; margin-left: 1%; margin-right: 4%; width: 20%;" src="/static/images/old/2010/02/maplemini-r21-e1296209736468-128x300.png" alt="" /></a>
 
 <p>
 Maple Mini is a "breadboard-able" PCB for applications where space is limited, or simply if a breadboard is the preferred prototyping tool.  Smaller than a stick of gum, Maple Mini features a <a href="http://www.st.com/internet/mcu/product/189782.jsp">smaller, 48-pin STM32</a> with the same speed and memory as the <a href="#Maple">Maple</a>.  Maple Mini also sports a complete silkscreen, making it uniquely detailed for a board its size.

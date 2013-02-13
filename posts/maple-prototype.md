@@ -4,7 +4,7 @@ Author: okie
 Category: Uncategorized
 
 <center>
-<img src="http://leaflabs.com/wp-content/uploads/mapleproto.jpg" alt="mapleproto" width="400px">
+<img src="/static/images/old/mapleproto.jpg" alt="mapleproto" width="400px">
 </center>
 
 This is the Maple prototype, our first version of an

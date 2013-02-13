@@ -60,7 +60,7 @@ days, we'll be sure to keep you posted as things progress.
   [Wiring]: http://wiring.org.co/
   [their 1.0 release]: http://wiring.org.co/download/
   [Maple IDE]: http://leaflabs.com/docs/ide.html
-  []: http://leaflabs.com/wp-content/uploads/2011/10/verify1.jpg "Wiring IDE"
+  []: /static/images/old/2011/10/verify1.jpg "Wiring IDE"
   [Py3K]: http://wiki.python.org/moin/Python2orPython3
   [Perl 6]: http://dev.perl.org/perl6/
   [libmaple]: http://leaflabs.com/docs/libmaple.html

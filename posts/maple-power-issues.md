@@ -58,4 +58,4 @@ feel free to contact us with any questions or concerns at
 info@leaflabs.com.
 
   [here]: http://ww1.microchip.com/downloads/en/DeviceDoc/22049a.pdf
-  [Maple with C11 indicated]: http://leaflabs.com/wp-content/uploads/2011/08/maple-c112-295x300.png "maple-c11"
+  [Maple with C11 indicated]: /static/images/old/2011/08/maple-c112-295x300.png "maple-c11"

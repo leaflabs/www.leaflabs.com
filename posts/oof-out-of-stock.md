@@ -33,5 +33,5 @@ And now for something cool - *Made With Maple*
 
 [THX - Maple Style][]
 
-  [Oh my god, what if nothing works?!]: http://leaflabs.com/wp-content/uploads/2010/09/6daysToMaker-300x225.jpg
-  [THX - Maple Style]: http://leaflabs.com/wp-content/uploads/2010/09/Maple_Deep_Note.wav
+  [Oh my god, what if nothing works?!]: /static/images/old/2010/09/6daysToMaker-300x225.jpg
+  [THX - Maple Style]: /static/images/old/2010/09/Maple_Deep_Note.wav

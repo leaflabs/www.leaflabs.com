@@ -3,7 +3,7 @@ Date: 2010-08-12 22:56
 Author: Bnewbold
 Category: Uncategorized
 
-<div class="projectbox" style="background-image: url(http://leaflabs.com/wp-content/uploads/2010/08/project-vga-leaf.jpg);">
+<div class="projectbox" style="background-image: url(/static/images/old/2010/08/project-vga-leaf.jpg);">
 <div class="projectboxcontents"><strong>Crude VGA</strong>
 <em>by <a href="http://bnewbold.net">bnewbold</a></em>
 <p>
@@ -13,7 +13,7 @@ There is a  <a href="http://www.youtube.com/watch?v=rT1eKLEvIvo">youtube video</
 
 </div>
 </div>
-<div class="projectbox" style="background-image: url(http://leaflabs.com/wp-content/uploads/2010/08/project-theramin.png);">
+<div class="projectbox" style="background-image: url(/static/images/old/2010/08/project-theramin.png);">
 <div class="projectboxcontents"><strong>Infrared Theramin</strong>
 <em>by okie</em>
 <p>
@@ -21,14 +21,14 @@ Using a Maple and a MIDI shield; see the <a href="http://www.youtube.com/watch?v
 
 </div>
 </div>
-<div class="projectbox" style="background-image: url(http://leaflabs.com/wp-content/uploads/2010/08/project-okie-guitar.jpg);">
+<div class="projectbox" style="background-image: url(/static/images/old/2010/08/project-okie-guitar.jpg);">
 <div class="projectboxcontents"><strong>Guitar Audio Effects</strong>
 <em>by okie</em>
 <p>
 Using a Maple and a custom PWM output filter board. See <a href="http://leaflabs.com/2010/07/audio-and-guitar-effects-on-maple/">this blog post</a> for details.
 </div>
 </div>
-<div class="projectbox" style="background-image: url(http://leaflabs.com/wp-content/uploads/2010/08/project-beaglepede.jpg);">
+<div class="projectbox" style="background-image: url(/static/images/old/2010/08/project-beaglepede.jpg);">
 <div class="projectboxcontents"><strong>Beaglepede!</strong>
 <em>by hadley and barry</em>
 <p>

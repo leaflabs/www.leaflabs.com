@@ -78,7 +78,7 @@ In addition to our <a href="/store/">store</a>, you can purchase LeafLabs produc
 </div>
 <div class="box">
 
-<a style="float: right;" href="http://www.watterott.com/en/Maple"> <img src="http://leaflabs.com/wp-content/uploads/2011/05/logo-e1305819359235.jpg" alt="Watterott Electronic Logo" /></a>
+<a style="float: right;" href="http://www.watterott.com/en/Maple"> <img src="/static/images/old/2011/05/logo-e1305819359235.jpg" alt="Watterott Electronic Logo" /></a>
 <h3><a href="http://www.watterott.com/en/Maple">Watterott Electronic</a></h3>
 <h4>Germany, ships internationally</h4>
 <em>"<a href="http://www.watterott.com/">Watterott Electronic</a> is a fast growing company that is specialized in electronics.

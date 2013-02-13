@@ -8,12 +8,12 @@ Here's a picture of some Maple boards a couple days ago before assembly.  Oh my
 gosh I'm so excited too!
 
 <center>
-<img src="http://leaflabs.com/wp-content/uploads/mapleinproduction-1024x768.jpg" alt="mapleinproduction" width="700px">
+<img src="/static/images/old/mapleinproduction-1024x768.jpg" alt="mapleinproduction" width="700px">
 </center>
 
 Evidence that at least one component has been placed on one board:
 
 <center>
-<img src="http://leaflabs.com/wp-content/uploads/batterycharger-300x209.jpg" alt="batterycharger">
+<img src="/static/images/old/batterycharger-300x209.jpg" alt="batterycharger">
 </center>
 

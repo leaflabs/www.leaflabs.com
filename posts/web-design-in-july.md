@@ -37,4 +37,4 @@ Anyways, enjoy the summer day...
 
 ![ironicGIF][]![ironicGIF][]![ironicGIF][]![ironicGIF][]![ironicGIF][]
 
-  [ironicGIF]: http://leaflabs.com/wp-content/uploads/SUN10.gif "ironicGIF"
+  [ironicGIF]: /static/images/old/SUN10.gif "ironicGIF"

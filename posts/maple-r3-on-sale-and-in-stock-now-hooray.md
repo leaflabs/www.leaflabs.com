@@ -41,7 +41,7 @@ school for yet another one.
 iperry takes sweet pics:
 
 <center>
-<a rel="attachment wp-att-960" href="http://leaflabs.com/2010/05/maple-r3-on-sale-and-in-stock-now-hooray/maple-r3-2-2/"><img class="alignnone size-medium wp-image-960" title="maple-r3-2" src="http://leaflabs.com/wp-content/uploads/2010/05/maple-r3-21-300x200.jpg" alt="" width="300" height="200" /></a><a rel="attachment wp-att-959" href="http://leaflabs.com/2010/05/maple-r3-on-sale-and-in-stock-now-hooray/maple-r3-1-2/"><img class="alignnone size-medium wp-image-959" title="maple-r3-1" src="http://leaflabs.com/wp-content/uploads/2010/05/maple-r3-11-300x199.jpg" alt="" width="300" height="199" /></a>
+<a rel="attachment wp-att-960" href="http://leaflabs.com/2010/05/maple-r3-on-sale-and-in-stock-now-hooray/maple-r3-2-2/"><img class="alignnone size-medium wp-image-960" title="maple-r3-2" src="/static/images/old/2010/05/maple-r3-21-300x200.jpg" alt="" width="300" height="200" /></a><a rel="attachment wp-att-959" href="http://leaflabs.com/2010/05/maple-r3-on-sale-and-in-stock-now-hooray/maple-r3-1-2/"><img class="alignnone size-medium wp-image-959" title="maple-r3-1" src="/static/images/old/2010/05/maple-r3-11-300x199.jpg" alt="" width="300" height="199" /></a>
 </center>
 
 (uhh d300 obviously, no canon here)

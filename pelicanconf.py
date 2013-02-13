@@ -31,8 +31,7 @@ ARCHIVES_SAVE_AS = 'blog/archives/index.html'
 PATH = '.'
 ARTICLE_DIR = ('posts')
 PAGE_DIR = ('pages')
-#FILES_TO_COPY = (('style', 'style'), )
-STATIC_PATHS = ['style']
+#STATIC_PATHS = ['images']
 TEMPLATE_PAGES = {'home.html': 'index.html'}
 
 DIRECT_TEMPLATES = ('index', 'archives')

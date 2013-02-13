@@ -23,15 +23,15 @@ the team
 
 <div style="text-align: center; width: 100%;">LeafLabs is comprised of recent MIT alumni and current students.</p>
 <p>
-<img class="alignnone" title="marti" src="http://leaflabs.com/wp-content/uploads/2010/02/martisdljhfpdsklfjs.jpg" alt="marti" width="112" height="112" /> 
-<img class="alignnone" title="aj" src="http://leaflabs.com/wp-content/uploads/2010/02/AJ4now.jpg" alt="aj" width="112" height="112" /> 
-<img class="alignnone" title="jess" src="http://leaflabs.com/wp-content/uploads/2010/02/Jess.jpg" alt="jess" width="112" height="112" /></p>
-<p><img class="alignnone" title="drew" src="http://leaflabs.com/wp-content/uploads/2010/02/Drew3.jpg" alt="drew" width="112" height="112" /> 
+<img class="alignnone" title="marti" src="/static/images/old/2010/02/martisdljhfpdsklfjs.jpg" alt="marti" width="112" height="112" /> 
+<img class="alignnone" title="aj" src="/static/images/old/2010/02/AJ4now.jpg" alt="aj" width="112" height="112" /> 
+<img class="alignnone" title="jess" src="/static/images/old/2010/02/Jess.jpg" alt="jess" width="112" height="112" /></p>
+<p><img class="alignnone" title="drew" src="/static/images/old/2010/02/Drew3.jpg" alt="drew" width="112" height="112" /> 
 <img class="alignnone" title="LeafLabs" src="http://static.leaflabs.net/img/leaflogo.png" alt="LeafLabs logo" width="112" height="112" /> 
-<img class="alignnone" title="perry" src="http://leaflabs.com/wp-content/uploads/2010/02/n707184_32123242_3056.jpg" alt="perry" width="112" height="112" /></p>
-<p><img class="alignnone" title="hadley" src="http://leaflabs.com/wp-content/uploads/2010/02/hadley.jpg" alt="hadley" width="112" height="112" /> 
-<img class="alignnone" title="okie" src="http://leaflabs.com/wp-content/uploads/2010/02/okie-pcb-150x150.jpg" alt="okie" width="112" height="112" /> 
-<img class="alignnone" title="barry" src="http://leaflabs.com/wp-content/uploads/2010/02/Barry.jpg" alt="barry" width="112" height="112" /> </p>
+<img class="alignnone" title="perry" src="/static/images/old/2010/02/n707184_32123242_3056.jpg" alt="perry" width="112" height="112" /></p>
+<p><img class="alignnone" title="hadley" src="/static/images/old/2010/02/hadley.jpg" alt="hadley" width="112" height="112" /> 
+<img class="alignnone" title="okie" src="/static/images/old/2010/02/okie-pcb-150x150.jpg" alt="okie" width="112" height="112" /> 
+<img class="alignnone" title="barry" src="/static/images/old/2010/02/Barry.jpg" alt="barry" width="112" height="112" /> </p>
 </div>
 
 FAQ
@@ -101,21 +101,21 @@ details.
   [licensing]: /licensing/
   [community]: /community/
   [blog]: /blog/
-  [marti]: http://leaflabs.com/wp-content/uploads/2010/02/martisdljhfpdsklfjs.jpg
+  [marti]: /static/images/old/2010/02/martisdljhfpdsklfjs.jpg
     "marti"
-  [aj]: http://leaflabs.com/wp-content/uploads/2010/02/AJ4now.jpg "aj"
-  [jess]: http://leaflabs.com/wp-content/uploads/2010/02/Jess.jpg "jess"
-  [drew]: http://leaflabs.com/wp-content/uploads/2010/02/Drew3.jpg
+  [aj]: /static/images/old/2010/02/AJ4now.jpg "aj"
+  [jess]: /static/images/old/2010/02/Jess.jpg "jess"
+  [drew]: /static/images/old/2010/02/Drew3.jpg
     "drew"
   [LeafLabs logo]: http://static.leaflabs.net/img/leaflogo.png
     "LeafLabs"
-  [perry]: http://leaflabs.com/wp-content/uploads/2010/02/n707184_32123242_3056.jpg
+  [perry]: /static/images/old/2010/02/n707184_32123242_3056.jpg
     "perry"
-  [hadley]: http://leaflabs.com/wp-content/uploads/2010/02/hadley.jpg
+  [hadley]: /static/images/old/2010/02/hadley.jpg
     "hadley"
-  [okie]: http://leaflabs.com/wp-content/uploads/2010/02/okie-pcb-150x150.jpg
+  [okie]: /static/images/old/2010/02/okie-pcb-150x150.jpg
     "okie"
-  [barry]: http://leaflabs.com/wp-content/uploads/2010/02/Barry.jpg
+  [barry]: /static/images/old/2010/02/Barry.jpg
     "barry"
   [Arduino]: http://arduino.cc
   [the store]: /store/

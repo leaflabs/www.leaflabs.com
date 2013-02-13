@@ -4,7 +4,7 @@ Author: bnewbold
 Category: Uncategorized
 
 <p style="text-align: center;"><a title="messy cables" rel="attachment wp-att-875" href="http://leaflabs.com/2010/05/new-digs/pdont_touch/"></a></p>
-<a href="http://www.sysadminday.com/horrors.html"><img class="aligncenter size-full wp-image-875" title="messy cables" src="http://leaflabs.com/wp-content/uploads/2010/05/pDont_Touch.jpg" alt="from sysadminday.com" width="600" height="406" /></a></p>
+<a href="http://www.sysadminday.com/horrors.html"><img class="aligncenter size-full wp-image-875" title="messy cables" src="/static/images/old/2010/05/pDont_Touch.jpg" alt="from sysadminday.com" width="600" height="406" /></a></p>
 
 If you're reading this our new web server
 must be working! Today we've transfered the leaflabs.com DNS records
