@@ -1,56 +1,62 @@
-{# This file is a "jinja2 template", but can mostly be edited like HTML #}
+{# NB: This file is a "jinja2 template", but can mostly be edited like HTML #}
 {% extends "base.html" %}
 {% block content %}        
 <div id="frontheader">
 
 <p>
-<b>Hello World!</b> We are a small company that builds <a href="/devices">physical computing devices</a> around powerful digital hardware
-for experimentation with control and communications between smart machines...
-including humans! We are excited to work with hobbyists, artists, creators,
+<b>Hello World!</b> We are a small company that builds powerful digital 
+<a href="/devices/">physical computing devices</a>
+for control and communication among smart machines...
+including humans! We work with hobbyists, artists, creators,
 scientists, inventors, and engineers to implement beautiful ideas as quickly
-and easily as possible.  All of our <a href="http://code.google.com/p/leafhw/">hardware designs</a> and <a href="/software/">supporting software tools</a> are freely available under
+and easily as possible.  Many of our 
+<a href="http://code.google.com/p/leafhw/">hardware designs</a> and supporting 
+<a href="http://github.com/leaflabs/">software tools</a> are freely available under
 common Open Source <a href="/licensing/">licenses</a>.  
 
 </p><p>
-You can read more <a href="/about/">about us</a>, check the <a href="/blog/">blog</a>, <a href="/store/">buy</a> our
-products, or see what <a href="/community/">others are saying</a>. 
+You can read more <a href="/about/">about us</a>, check the <a
+href="/blog/">blog</a>, <a href="/store/">buy</a> our
+products, or see what others are <a href="http://forums.leaflabs.com">saying</a>
+and <a href="/projects/">building</a>. 
 Thanks for visiting! 
 
 </p></div> 
-<img src="/theme/img/header1.jpg" alt="n/a" class="frontheaderimg"><img src="/theme/img/header2.jpg" alt="n/a" class="frontheaderimg"><img src="/theme/img/header3.jpg" alt="n/a" class="frontheaderimg"><img src="/theme/img/header4.jpg" alt="n/a" class="frontheaderimg"><img src="/theme/img/header5.jpg" alt="n/a" class="frontheaderimg" style="border-right:none;"> 
+<!-- this block must be one line without spaces :( -->
+<a href="http://wiki.leaflabs.com/Lorenz"><img src="/static/images/home_header_lorenz.jpg" alt="n/a" class="frontheaderimg"></a><a href="http://www.youtube.com/watch?v=Jr2ZsedYxPM"><img src="/static/images/home_header_theramin.jpg" alt="n/a" class="frontheaderimg"></a><a href="http://industry-lab.com/"><img src="/static/images/home_header_microscope.jpg" alt="n/a" class="frontheaderimg"></a><a href="http://www.youtube.com/watch?v=rT1eKLEvIvo"><img src="/static/images/home_header_vga.jpg" alt="n/a" class="frontheaderimg"></a><a href="http://leaflabs.com/2010/07/audio-and-guitar-effects-on-maple/"><img src="/static/images/home_header_shield.jpg" alt="n/a" class="frontheaderimg"></a>
+<!-- end block -->
 <div style="height: 330px;"> 
-<h3 style="font-size: 1.7em;">Our most recent product: The Maple</h3> 
-This board has all the essentials: a fast processor with lots of
-peripherals. At the center of Maple is a 72MHz ARM Cortex M3 chip; in the past
-ARM processors have been notoriously unfriendly in non-professional
-environments due to proprietary tool chains and unfamiliar instruction sets.
-LeafLabs aims to change this by providing an ARM tool-chain built from open
-source components and a programming environment that is easy to
-use.  For those of us who love and are familiar with Arduino, Maple is offered
-in an Arduino-compatible format, complete with Arduino pin layouts and
-programming environment. <a href="/devices/maple/">Read more...</a>
+<h3 style="font-size: 1.7em;">Our slickest product: The Maple Mini</h3> 
+
+This board has most of the same essentials as the full sized <a
+href="/devices/maple/">Maple</a>, but in a smaller breadboard-friendly form
+factor. At the center of the Maple Mini is a 72MHz ARM Cortex-M3 chip, which
+can be programmed using either our simple cross-platform graphical integrated
+development environment or existing industry-standard toolchains.
+For those of us who love and are familiar with Arduino, Maple is offered in an
+physically-compatible format, complete with Arduino pin layouts and programming
+environment. <a href="/docs/hardware/maple-mini.html">Read more...</a>
 
 <br><br>
-<a href="/devices/maple/">
-<img src="/theme/img/maple_gerber.png" style="width: 150px; float: left; margin-left:5px;" alt="maple_gerber"></a>
+<a href="/docs/hardware/maple-mini.html">
+<img src="/static/images/maple_mini_breadboard.jpg" style="width: 200px; float: left; margin-left:5px; border: 2px black solid;" alt="mini"></a>
 
-<ul style="float:right;margin-right:0px;width:280px;">
+<ul style="float:right;margin-right:0px;width:250px;">
  <li>Dual <b>I2C</b> and <b>SPI</b> ports 
  </li><li>3 USART Serial ports
  </li><li>7-channel <b>DMA</b> 
  </li><li>Low power and sleep modes 
- </li><li>Integrated LiPo <b>battery charging</b> 
- </li><li>Dimensions: 2.05″x2.1″ (5.21x5.33cm) 
- </li><li>Starting price: <a href="/store/"><b>$50</b></a>
- </li><li>Extensive <a href="/docs/maple/"><b>documentation</b></a>
+ </li><li>Dimensions: 2.02" x 0.72"
+ </li><li>Starting price: <a href="/distributors/"><b>$35 from distributors</b></a>
+ </li><li>Extensive <a href="/docs/hardware/maple-mini.html"><b>documentation</b></a>
 </li></ul> 
-<ul style="margin-left: 200px;"> 
- <li>STM32F103RB: a <b>32-bit</b> ARM Cortex-M3 microprocessor at <b>72Mhz</b> 
+<ul style="margin-left: 240px;"> 
+ <li>STM32F103RCBT6: a <b>32-bit</b> ARM Cortex-M3 microprocessor at <b>72Mhz</b> 
  </li><li><b>20KB</b> RAM and <b>128KB</b> Flash 
  </li><li>Dedicated <b>USB</b> port for programming and communications 
- </li><li>37 General Purpose pins 
- </li><li><b>16 Analog</b> inputs at 12-bit resolution 
- </li><li><b>15 PWM pins</b> at 16-bit resolution 
+ </li><li>34 General Purpose pins 
+ </li><li><b>9 Analog</b> inputs at 12-bit resolution 
+ </li><li><b>12 PWM pins</b> at 16-bit resolution 
 </li></ul> 
 </div>
 
