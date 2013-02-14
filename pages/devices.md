@@ -3,16 +3,35 @@ Date: 2010-02-19 07:05
 Author: Drews
 Category: Uncategorized
 
+<!--
 At the core of every LeafLabs project is a base board. These come in three species: <a href="#Maple">Maple</a>, <a href="#Oak">Oak</a>, and <a href="#Willow">Willow</a>.
+-->
 
 <div style="clear: both;">
-<h2><a name="Maple" href="/devices/maple/">Maple</a> (Rev5)</h2>
+<h3><a name="maple">The Maple</a></h3>
 <p>
-This board has all the essentials: a fast processor with lots of peripherals.  At Maple's core is a <a href="http://www.st.com/internet/mcu/product/164487.jsp">72MHz STM32 processor</a>, an <a href="http://www.arm.com/products/processors/cortex-m/cortex-m3.php">ARM Cortex M3</a> chip. In the past, ARM processors were notoriously unfriendly to non-professionals, due to proprietary tool chains, unfamiliar instruction sets, and impenetrable supporting literature.  LeafLabs has changed this for Maple by providing a complete ARM platform, built from open source components, which includes an intuitive programming environment and <a href="/docs/">friendly, thorough documentation</a>.
+
+This board has all the essentials: a fast processor with lots of peripherals.
+At Maple's core is a 
+<a href="http://www.st.com/internet/mcu/product/164487.jsp">72MHz STM32
+processor</a>, an 
+<a href="http://www.arm.com/products/processors/cortex-m/cortex-m3.php">ARM Cortex
+M3</a> chip. In the past, ARM processors were notoriously unfriendly to
+non-professionals, due to proprietary tool chains, unfamiliar instruction sets,
+and impenetrable supporting literature.  LeafLabs has changed this for Maple by
+providing a complete ARM platform, built from open source components, which
+includes an intuitive programming environment and <a href="/docs/">friendly,
+thorough documentation</a>.
 </p>
 
 <p>
-For all the Arduino lovers out there, Maple is offered in an Arduino-compatible format, complete with an Arduino pin layout and <a href="http://leaflabs.com/docs/ide.html">programming environment</a>.  Maple is a great way to get started with an advanced 32 bit processor that, until now, has principally lived in the commercial domain. Take your projects to the next level with Maple’s fast clock, sophisticated interrupt architecture, and loads of built-in peripherals.
+For all the Arduino lovers out there, Maple is offered in an Arduino-compatible
+format, complete with an Arduino pin layout and 
+<a href="http://leaflabs.com/docs/ide.html">programming environment</a>.  Maple is
+a great way to get started with an advanced 32 bit processor that, until now,
+has principally lived in the commercial domain. Take your projects to the next
+level with Maple’s fast clock, sophisticated interrupt architecture, and loads
+of built-in peripherals.  
 </p>
 
 <table style="border: none; padding: none;" cellspacing="0" cellpadding="0" width="67%" align="right">
@@ -50,11 +69,17 @@ For all the Arduino lovers out there, Maple is offered in an Arduino-compatible 
 </div>
 
 <div style="clear: both;">
-<a name="Maple-Mini"/><h2>Maple Mini</h2>
-<a href="/static/images/old/2010/02/maplemini-r21.png"><img style="float: right; margin-left: 1%; margin-right: 4%; width: 20%;" src="/static/images/old/2010/02/maplemini-r21-e1296209736468-128x300.png" alt="" /></a>
+<h3><a name="Maple-Mini"></a><a name="maplemini"></a>The Maple Mini</h3>
+<a href="/static/images/old/2010/02/maplemini-r21.png"><img style="float: right; margin-left: 1%; margin-right: 4%; width: 128px;" src="/static/images/old/2010/02/maplemini-r21-e1296209736468-128x300.png" alt="" /></a>
 
 <p>
-Maple Mini is a "breadboard-able" PCB for applications where space is limited, or simply if a breadboard is the preferred prototyping tool.  Smaller than a stick of gum, Maple Mini features a <a href="http://www.st.com/internet/mcu/product/189782.jsp">smaller, 48-pin STM32</a> with the same speed and memory as the <a href="#Maple">Maple</a>.  Maple Mini also sports a complete silkscreen, making it uniquely detailed for a board its size.
+The Maple Mini is a "breadboard-able" PCB for applications where space is
+limited, or simply if a breadboard is the preferred prototyping tool.  Smaller
+than a stick of gum, Maple Mini features a 
+<a href="http://www.st.com/internet/mcu/product/189782.jsp">smaller, 48-pin
+STM32</a> with the same speed and memory as the <a href="#Maple">Maple</a>.
+Maple Mini also sports a complete silkscreen, making it uniquely detailed for a
+board its size.
 </p>
 
 <table style="border: none;" cellspacing="2" cellpadding="4" width="75%" align="left">
@@ -95,9 +120,20 @@ Maple Mini is a "breadboard-able" PCB for applications where space is limited, o
 </div>
 
 <div style="clear: both;">
-<a name="Maple-Native"><h2>Maple Native</h2></a>
+<a name="Maple-Native"></a><a href="maplenative"></a><h3>The Maple Native</h3>
 <p>
-<b>Please note: Maple Native Beta is closed, and we are working on Maple Native II, which will feature an STM32F407ZE chip.</b> Maple Native Beta features hardware similar to <a href="#Maple">Maple's</a>, but it is designed to fully exploit the powerful STM32F103 line. With over twice as many pins, an additional megabyte of on-board RAM, and support for true analog output, Maple Native can easily handle extremely demanding tasks.  And unlike other advanced microcontroller platforms out there, Maple Native delivers all this while maintaining the Arduino-style libraries and programming environment you're used to.
+The Maple Native Beta features hardware similar to <a
+href="#Maple">Maple's</a>, but it is designed to fully exploit the powerful
+STM32F103 line. With over twice as many pins, an additional megabyte of
+on-board RAM, and support for true analog output, Maple Native can easily
+handle extremely demanding tasks.  And unlike other advanced microcontroller
+platforms out there, Maple Native delivers all this while maintaining the
+Arduino-style libraries and programming environment you're used to.
+</p>
+
+<p>
+<b>Please note: Maple Native Beta is closed, and we are working on Maple Native
+II, which will feature an STM32F407ZE chip.</b>
 </p>
 
 <img style="width: 21%; margin-top: 10px; margin-left: 3%; margin-right: 3%; float: left;" title="maple_native_proto" src="http://www.leaflabs.net/wp-content/uploads/2010/02/maple_native_proto-157x300.png" alt="" />
@@ -143,8 +179,23 @@ Maple Mini is a "breadboard-able" PCB for applications where space is limited, o
 <p>
 <div style="clear: both;">
 <h3><a name="Oak">Oak</a></h3>
-Oak is built from the same Cortex M3 foundation as Maple but also boasts a 250k gate Xilinx Spartan 3E, making it the first product in its class to feature an on-board FPGA. This makes Oak a full featured processing platform suitable for robotics, machine vision, surveillance, gaming, and a host of other applications. For users who are unfamiliar with programming FPGAs, LeafLabs offers a wide library of functions that exploit the powerful FPGA architecture. These can be integrated into your project with minimal overhead and without having to get into the down and dirty of learning a hardware description language.
+
+Oak is built from the same Cortex M3 foundation as Maple but also boasts a 250k
+gate Xilinx Spartan 3E, making it the first product in its class to feature an
+on-board FPGA. This makes Oak a full featured processing platform suitable for
+robotics, machine vision, surveillance, gaming, and a host of other
+applications. For users who are unfamiliar with programming FPGAs, LeafLabs
+offers a wide library of functions that exploit the powerful FPGA architecture.
+These can be integrated into your project with minimal overhead and without
+having to get into the down and dirty of learning a hardware description
+language.
+<p>
+Circa 2013, Oak development is on hold.
 </div>
 
 <div style="clear: both;">
 <h3><a name="Willow">Willow</a></h3>
+
+There will be more information on Willow as it becomes available. The Willow
+model is in the very early stages of development, and circa 2013 is on hold.
+<br>

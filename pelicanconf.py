@@ -36,7 +36,7 @@ TEMPLATE_PAGES = {'home.html': 'index.html'}
 
 DIRECT_TEMPLATES = ('index', 'archives')
 
-FEED_ALL_RSS = 'main.xml'
+FEED_ALL_RSS = 'blog/feed/index.html'
 FEED_MAX_ITEMS = '20'
 
 THEME = "leaflabs_theme"
