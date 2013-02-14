@@ -18,6 +18,7 @@ Building with <code>make -jN</code> allows N separate jobs (e.g.  compilations) 
 
 Without -j:
 
+    :::text
     $ time make
     [...]
     real	0m3.570s
@@ -26,6 +27,7 @@ Without -j:
 
 That's 3.570 seconds of wall clock time. With -j8:
 
+    :::text
     $ time make -j8
     [...]
     real	0m0.825s
@@ -44,6 +46,7 @@ have little effect.)
 
 Results using ccache with an empty cache:
 
+    :::text
     $ time make
     [...]
     real	0m4.489s
@@ -55,6 +58,7 @@ Running it multiple times, it seems that this number (~4.5 seconds) is  typical.
 
 The results when rebuilding libmaple with a warm cache are pretty impressive:
 
+    :::text
     $ make clean; time make
     real	0m0.352s
     user	0m0.064s
@@ -66,6 +70,7 @@ without ccache.
 If you'd like to try this for yourself, you can use the following libmaple
 patch:
 
+    :::diff
     $ diff --git a/support/make/build-rules.mk b/support/make/build-rules.mk
     index 3d541ba..1a2abbb 100644
     --- a/support/make/build-rules.mk
@@ -90,6 +95,7 @@ within libmaple).
 <strong>Parting shot</strong>: the combination of the two (make -j8 plus warm
 cache):
 
+    :::text
     $ make clean; time make -j8
     [...]
     real	0m0.132s
