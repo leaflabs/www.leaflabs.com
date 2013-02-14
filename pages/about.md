@@ -57,6 +57,7 @@ robo-toast-video-caligraphy artists, interaction architects, solar power
 hustlers, etc. When that building shut down we moved a 15 minute walk away to
 Inman Square and started <a href="http://industry-lab.com/">Industry Lab</a>,
 where we cheerily find ourselves at this very moment:
+
 <br>
 <center>
 <a href="http://industry-lab.com/">
