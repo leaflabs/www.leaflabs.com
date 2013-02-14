@@ -1,7 +1,5 @@
 Title: Devices
-Date: 2010-02-19 07:05
-Author: Drews
-Category: Uncategorized
+Slug: devices
 
 <!--
 At the core of every LeafLabs project is a base board. These come in three species: <a href="#Maple">Maple</a>, <a href="#Oak">Oak</a>, and <a href="#Willow">Willow</a>.

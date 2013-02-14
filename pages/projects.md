@@ -1,7 +1,5 @@
-Title: Projects
-Date: 2010-08-12 22:56
-Author: Bnewbold
-Category: Uncategorized
+Title: Projects!
+Slug: projects
 
 <div class="projectbox" style="background-image: url(/static/images/old/2010/08/project-vga-leaf.jpg);">
 <div class="projectboxcontents"><strong>Crude VGA</strong>

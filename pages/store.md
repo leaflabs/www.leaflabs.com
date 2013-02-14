@@ -1,7 +1,4 @@
 Title: An Emporium of Electronic Delights
-Date: 2010-05-21 02:41
-Author: Drews
-Category: Uncategorized
 Slug: store
 
 <div style="text-align: center; font-size: 16px;"><a href="#Maple-Mini">Maple Mini</a> |  <a href="#Maple">Maple</a></div>

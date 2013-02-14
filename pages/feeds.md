@@ -1,7 +1,4 @@
 Title: RSS Feeds!
-Date: 2010-05-10 15:46
-Author: Bnewbold
-Category: Uncategorized
 Slug: feeds
 
 We've got your blog feeds, your comment feeds, your dev feeds, etc!

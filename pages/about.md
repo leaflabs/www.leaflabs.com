@@ -1,7 +1,4 @@
 Title: About LeafLabs
-Date: 2011-01-28 00:00
-Author: Admin
-Category: Uncategorized
 Slug: about
 
 LeafLabs was founded on the premise that science should not be confined

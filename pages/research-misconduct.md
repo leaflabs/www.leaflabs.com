@@ -1,7 +1,4 @@
 Title: Research Misconduct
-Date: 2012-11-29 13:51
-Author: Mbolivar
-Category: Uncategorized
 Slug: policy/research-misconduct
 
 29 November 2012

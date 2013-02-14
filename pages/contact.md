@@ -1,7 +1,4 @@
 Title: Contact Us!
-Date: 2010-08-11 09:32
-Author: Bnewbold
-Category: Uncategorized
 Slug: contact
 
 We can be reached through the [forums][], IRC (\#leafblowers on

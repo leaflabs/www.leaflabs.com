@@ -1,7 +1,4 @@
 Title: The Maple
-Date: 2010-02-20 17:23
-Author: Drews
-Category: Uncategorized
 Slug: devices/maple
 
 <a href="http://www.flickr.com/photos/48069758@N08/4613181199/"><img class="size-medium wp-image-535" style="float: left; margin-right: 8px; border: 2px solid black;" title="maple-board" src="http://farm5.static.flickr.com/4041/4613181199_33a31ca4ab_m.jpg" alt="" width="190" height="190" /></a>Our Maple board consists of the essentials: a fast processor with lots of peripherals. At the center of Maple is a 72MHz ARM Cortex M3 chip, providing the increased computational power desired by more advanced users. In the past, ARM processors were notoriously unfriendly in non-professional environments due to proprietary tool chains and unfamiliar instruction sets. Because of this, they were conspicuously absent from classrooms and hobbyists' workbenches. LeafLabs aims to change this by providing an ARM tool-chain built from open source components and a programming environment that is intuitively easy to use. For those of us who love and are familiar with Arduino, Maple is offered in an Arduino-compatible format, complete with Arduino pin layouts and programming environment. In the future, a Cortex native version is available in order to take full advantage of this fantastic micro-controller.

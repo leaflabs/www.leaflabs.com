@@ -1,7 +1,5 @@
 Title: Distributors
-Date: 2010-07-27 19:37
-Author: Bnewbold
-Category: Uncategorized
+Slug: distributors
 
 In addition to our <a href="/store/">store</a>, you can purchase LeafLabs products through a friendly local offical distributor.
 <div class="box">

@@ -1,9 +1,5 @@
 Title: Licensing
-Date: 2010-05-09 03:52
-Author: Bnewbold
-Category: Uncategorized
-
-<div>
+Slug: licensing
 
 We feel strongly that our users deserve the full freedom to learn from, exploit, and extend the hardware and software tools that we provide.  We also believe that anybody should have the freedom to adopt, reuse, or imitate these tools for any purpose, without having to worry about licensing conflicts.
 
@@ -21,4 +17,3 @@ Our devices and software would not be feasible without decades of generous effor
 </ul>
 We would also like to credit a few projects we find inspirational: <a href="http://www.ladyada.net/">ladyada</a>, <a href="http://www3.elphel.com/">elphel</a>, <a href="http://sparkfun.com">sparkfun</a>, and of course <a href="http://arduino.cc/">Arduino</a>.
 
-</div>

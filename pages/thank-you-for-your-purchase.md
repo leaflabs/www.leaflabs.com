@@ -1,7 +1,5 @@
 Title: Thank you for your purchase!
-Date: 2011-05-17 11:00
-Author: Jessb
-Category: Uncategorized
+Slug: thank-you-for-your-purchase
 
 <!-- Google Code for Purchase Conversion Page -->
 <script type="text/javascript">

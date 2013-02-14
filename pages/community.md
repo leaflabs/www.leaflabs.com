@@ -1,7 +1,5 @@
 Title: Community
-Date: 2010-05-09 04:08
-Author: Bnewbold
-Category: Uncategorized
+Slug: community
 
 <center>
 <em>Check out our <a href="/licensing/">Open Source Licensing Policies</a>!</em>
