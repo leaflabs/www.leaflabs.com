@@ -34,7 +34,7 @@ PAGE_DIR = ('pages')
 STATIC_PATHS = ['images']
 FILES_TO_COPY = (('robots.txt', 'robots.txt'),)
 TEMPLATE_PAGES = {'home.html': 'index.html',
-                  '500.html': '500.html', 
+                  '50x.html': '50x.html', 
                   '404.html': '404.html', 
 }
 
