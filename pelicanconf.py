@@ -31,8 +31,12 @@ ARCHIVES_SAVE_AS = 'blog/archives/index.html'
 PATH = '.'
 ARTICLE_DIR = ('posts')
 PAGE_DIR = ('pages')
-#STATIC_PATHS = ['images']
-TEMPLATE_PAGES = {'home.html': 'index.html'}
+STATIC_PATHS = ['images']
+FILES_TO_COPY = (('robots.txt', 'robots.txt'),)
+TEMPLATE_PAGES = {'home.html': 'index.html',
+                  '500.html': '500.html', 
+                  '404.html': '404.html', 
+}
 
 DIRECT_TEMPLATES = ('index', 'archives')
 
@@ -43,3 +47,18 @@ THEME = "leaflabs_theme"
 THEME_STATIC_PATHS = ['style', ]
 
 MARKUP = ('rst', 'md', 'html')
+
+PLUGINS=['pelican.plugins.sitemap',]
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.7
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
