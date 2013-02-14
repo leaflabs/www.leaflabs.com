@@ -24,7 +24,8 @@ development toolchain.
 
 Around this time most of the team had graduated from college, and some spun off
 into high-end audiophilia, theoretical condensed matter physics, and other
-such non-sense. The remaining 
+such non-sense. The remaining Leafers were joined by Marti and has embarked on
+a series of increasingly ambitious and interesting contract jobs.
 
 <!-- TODO: image of seeed assembly here -->
 
