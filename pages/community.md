@@ -10,7 +10,7 @@ Slug: community
 There are a variety of ways you can stay in touch with us at LeafLabs, ranging
 from passive to active. On the passive end, you can follow us on Twitter 
 (<a href="http://twitter.com/leaflabs">@leaflabs</a>), or read our 
-<a href="http://leaflabs.com/blog/">blog</a>. A great way to get started
+<a href="/blog/">blog</a>. A great way to get started
 developing with Leaf, or to get to know the LeafLabs team, is to hang out on
 our IRC channel, which can be found at 
 <a href="http://webchat.freenode.net/">#leafblowers on irc.freenode.net</a>. You
