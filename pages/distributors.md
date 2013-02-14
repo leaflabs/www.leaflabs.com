@@ -197,6 +197,6 @@ to someone who will!)
 <h3>Become a Distributor!</h3>
 We're always looking for new regional and international distributors to reduce
 shipping and customs headaches for our customers. Please contact us at 
-<a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a> or via the contact form
+<a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a> 
 and we'd be happy to send you an informational packet with bulk prices.
 

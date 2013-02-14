@@ -1,118 +1,86 @@
-Title: About LeafLabs
+Title: All About LeafLabs
 Slug: about
 
-LeafLabs was founded on the premise that science should not be confined
-to expensive labs filled with shiny equipment, but found on cluttered
-workbenches in musty basements everywhere. We're dedicated to making the
-latest in computer science and electrical engineering accessible to all
-engineers, regardless of budget or specialized training. Beginning with
-our 32-bit ARM-based development board, Maple, and continuing through
-Willow, a high performance computing platform that natively pairs Linux
-with an FPGA, LeafLabs' products make previously costly or esoteric
-technologies easy to use. We are committed to democratizing digital
-design.
+<center>
+<i style="font-size:1.75em; color:gray;">We are committed to democratizing digital design</i>
+</center>
 
-You can [contact us][], learn more about our open source [licensing][],
-the DIY/hacker hardware [community][], or read our [blog][].
+LeafLabs was founded in 2009 on the premise that science should not just be
+confined to expensive labs filled with shiny equipment, but also found on
+cluttered workbenches in musty basements everywhere. We are dedicated to making
+the latest in computer science and electrical engineering accessible to all
+engineers, regardless of budget or specialized training. 
 
-the team
---------
+The company got it's start developing and selling a user-friendly physical
+computing board built around a new-to-market ARM Cortex-M3 32-bit
+microcontroller. These controllers were more powerful and had a larger feature
+set than the most popular existing 8-bit chips, and were rapidly decreasing in
+cost, but were signifiantly less accessible due to a combined dearth of
+toolchain integration, functional and human-readable peripheral libraries, and
+hardware platforms that met the common sense expecations of modern folks. After
+several production pitfalls and financial droughts, in 2010 the team finally
+released the Maple and Maple Mini boards with a open source software
+development toolchain.
 
-<div style="text-align: center; width: 100%;">LeafLabs is comprised of recent MIT alumni and current students.</p>
-<p>
-<img class="alignnone" title="marti" src="/static/images/old/2010/02/martisdljhfpdsklfjs.jpg" alt="marti" width="112" height="112" /> 
-<img class="alignnone" title="aj" src="/static/images/old/2010/02/AJ4now.jpg" alt="aj" width="112" height="112" /> 
-<img class="alignnone" title="jess" src="/static/images/old/2010/02/Jess.jpg" alt="jess" width="112" height="112" /></p>
-<p><img class="alignnone" title="drew" src="/static/images/old/2010/02/Drew3.jpg" alt="drew" width="112" height="112" /> 
-<img class="alignnone" title="LeafLabs" src="http://static.leaflabs.net/img/leaflogo.png" alt="LeafLabs logo" width="112" height="112" /> 
-<img class="alignnone" title="perry" src="/static/images/old/2010/02/n707184_32123242_3056.jpg" alt="perry" width="112" height="112" /></p>
-<p><img class="alignnone" title="hadley" src="/static/images/old/2010/02/hadley.jpg" alt="hadley" width="112" height="112" /> 
-<img class="alignnone" title="okie" src="/static/images/old/2010/02/okie-pcb-150x150.jpg" alt="okie" width="112" height="112" /> 
-<img class="alignnone" title="barry" src="/static/images/old/2010/02/Barry.jpg" alt="barry" width="112" height="112" /> </p>
+Around this time most of the team had graduated from college, and some spun off
+into high-end audiophilia, theoretical condensed matter physics, and other
+such non-sense. The remaining 
+
+<!-- TODO: image of seeed assembly here -->
+
+We do business with component distributors, PCB fabrication factories, and
+surface mount assembly houses both in the United States and in China. We are
+<i>always, always, always</i> looking for affordable prototype fabrication
+services in the New England area (for some definition of "low-cost")... let us
+know if you have any tips!
+
+<center>
+<i style="font-size:1.75em; color:gray;">The Team</i>
+</center>
+
+<div style="text-align: center; width: 100%;">
+<img class="alignnone" title="marti" src="/static/images/team/martisdljhfpdsklfjs.jpg" alt="marti" width="112" height="112" /> 
+<img class="alignnone" title="aj" src="/static/images/team/AJ4now.jpg" alt="aj" width="112" height="112" /> 
+<img class="alignnone" title="jess" src="/static/images/team/Jess.jpg" alt="jess" width="112" height="112" />
+<a href="http://bnewbold.net"><img class="alignnone" title="bryan" src="/static/images/team/bryan.jpg" alt="bryan" width="112" height="112" /></a>
+<br>
 </div>
 
-FAQ
----
+After first bouncing through dorm rooms and apartments, we moved in to our
+first real office space 
+<a href="/2010/05/cubicals-and-leopards-and-cliches-oh-my/"> in Spring 2010</a>:
+a repurposed cubical farm in the middle Central Square in Cambridge, MA.
+Starting out as the first tenants, we quickly filled the space with like-minded
+freelancers and small technical businesses: 3D printing dreamers,
+robo-toast-video-caligraphy artists, interaction architects, solar power
+hustlers, etc. When that building shut down we moved a 15 minute walk away to
+Inman Square and started <a href="http://industry-lab.com/">Industry Lab</a>,
+where we cheerily find ourselves at this very moment:
+<br>
+<center>
+<a href="http://industry-lab.com/">
+<img src="/static/images/industry_lab.jpg" style="border: 2px solid gray;"></a>
+<br>
+<i>Use the [contact][] page to get in touch.</i>
+</center>
 
-</p>
+<br>
+<center>
+<i style="font-size:1.75em; color:gray;">Crufty, Hibernated Leafs</i>
+</center>
 
-**Are you open source?**
+<div style="text-align: center; width: 100%;">
+<img class="alignnone" title="barry" src="/static/images/team/Barry.jpg" alt="barry" width="112" height="112" /> 
+<img class="alignnone" title="hadley" src="/static/images/team/hadley.jpg" alt="hadley" width="112" height="112" />
+<img class="alignnone" title="drew" src="/static/images/team/Drew3.jpg" alt="jess" width="112" height="112" />
+<img class="alignnone" title="okie" src="/static/images/team/okie.jpg" alt="okie" width="112" height="112" />
+<img class="alignnone" title="perry" src="/static/images/team/perry.jpg" alt="perry" width="112" height="112" />
+</div>
 
-Yes! Our software is available under the MIT/X11 license, and our
-hardware schematics are all Creative Commons. At the end of the day, we
-want everyone to be able make cool stuff; we're just here to help. See
-our [licensing][] page for details.
 
-**What does "open source" mean?**
-
-Open source can mean a variety of things, but essentially it is a method
-of developing and distributing software in an 'open' way. Input is
-encouraged and the project source code is freely available for download
-and modification. Open source generally refers to software, but it is
-fair to say our boards are open source because all of the design files
-are available for download online, so you can alter them to make your
-dream board.
-
-**What is "physical computing"?**
-
-Physical computing is a field that encompasses a whole lot. At its core,
-Physical Computing means building a computer that interacts with the
-real world. Physical computers can be as sophisticated as ASIMO or as
-simple as a monitor to tell you when to water your plants. We really dig
-the idea of getting computers off of the desktop and into the wild, and
-that's a major reason we started this venture.
-
-**What is an "Arduino"?**
-
-[Arduino][] is an Italian company that makes awesome development boards
-like our own. They currently the most popular board on the market, and
-for good reason; they make good boards that make doing projects fun and
-easy. They were also one of the first companies to open source their
-boards.
-
-**What can I do with a LeafLabs board that I couldn't do with another
-dev board?**
-
-The answer to this question lies largely in which LeafLabs board you are
-working with. Those who work with the Maple will find they can integrate
-audio processing in their projects, and also increase the scale of
-projects executable on the Arduino. With Oak or Willow, however, the
-possibilities explode. The integrated FPGAs offer unbelievable speed-up
-for many applications due to their capacity for parallelization. Signal
-processing, cryptography, and machine vision are just a few of the areas
-in which an FPGA will redefine the way you think about your project.
-
-**Will libraries written for Arduino work with Maple?**
-
-It varies depending on the library. If the library is written in C/C++
-with only the Arduino extensions, and no low level direct access to AVR
-registers or instructions (which seems to be true of most libraries),
-then it should work on Maple. No promises, though.
-
-**When can I get a LeafLabs board?**
-
-LeafLabs Maple is currently on sale! Check out [the store][] for more
-details.
-
-  [contact us]: /contact/
+  [contact]: /contact/
   [licensing]: /licensing/
   [community]: /community/
-  [blog]: /blog/
-  [marti]: /static/images/old/2010/02/martisdljhfpdsklfjs.jpg
-    "marti"
-  [aj]: /static/images/old/2010/02/AJ4now.jpg "aj"
-  [jess]: /static/images/old/2010/02/Jess.jpg "jess"
-  [drew]: /static/images/old/2010/02/Drew3.jpg
-    "drew"
-  [LeafLabs logo]: http://static.leaflabs.net/img/leaflogo.png
-    "LeafLabs"
-  [perry]: /static/images/old/2010/02/n707184_32123242_3056.jpg
-    "perry"
-  [hadley]: /static/images/old/2010/02/hadley.jpg
-    "hadley"
-  [okie]: /static/images/old/2010/02/okie-pcb-150x150.jpg
-    "okie"
-  [barry]: /static/images/old/2010/02/Barry.jpg
-    "barry"
+  [LeafLabs logo]: http://static.leaflabs.net/img/leaflogo.png "LeafLabs"
   [Arduino]: http://arduino.cc
   [the store]: /store/
