@@ -1,13 +1,91 @@
 
-# Commands
+This repository contains all the content and styling for the www.leaflabs.com
+website, including all blog posts but excluding all documentation. A series of
+python scripts called Pelican are used to compile content source files and a
+set of templates into static HTML pages, which can then be uploaded to the
+server. 
 
-make clean
-make html
-make serve
+You'll need to install Pelican to test your changes locally; you can get it and
+find more advanced documentation at:
 
-# URLs
+    http://pelican.readthedocs.org
 
-The front page is './home.html'.
+### Commands
+
+To (re)build the website from scratch locally (after making any changes) and
+serve it up on port 8000:
+
+    make clean html serve
+
+For just drafting blog posts, push straight to the live site; for larger
+changes (eg, to the theme), push to the staging directory first.
+
+To push to the server's staging directory:
+
+    make rsync_upload
+
+To push to the live website:
+
+    make rsync_upload_live
+
+Run 'make' with no arguments for a full list of commands (not all are
+configured).
+
+### Editing
+
+Most pages and posts are in "Markdown" syntax (.md files), which is sort of
+like wikitext. reStructuredText (.rst) and AsciiDoc are also allowed. For
+Markdown in particular, you can pretty much just use HTML tags if you don't
+want to learn the syntax. These directions will assume you use Markdown; you
+can find a complete syntax reference at:
+
+    http://daringfireball.net/projects/markdown/syntax
+
+Two "gotchas" with Markdown are that individual HTML tags must not <span
+multiple=lines> (but close tag can be on a different line than an open tag),
+and that blank lines insert breaks or paragraphs in the output.
+
+To create a new blog post, copy ./template.md to ./posts/<lower-case-title>.md.
+Edit the meta data; in particular Title, Date, and Slug must be updated. "Slug"
+should be the same as title but lower-case-with-dashes, and will be used for
+the permanent blog post URL. Edit your content and run "make clean html serve"
+from the top level directory to test your changes. Until the "Status: draft"
+line is removed, blog posts will not show up in the RSS feed, sitemap, or
+"/blog/" listings, and will instead end up at "/drafts/post-slug-name.html".
+For just drafting and posting blog posts, push straight to the live site
+instead of using staging.
+
+To add images to your posts, resize the images to the correct size and put them
+in ./images/. A full-column-width image is 768px wide; 400px or 300px are
+pretty good also. Use .jpg for all photos or anything with a gradient, and .png
+for diagrams and logos (and use indexed mode when there are only a couple
+colors, like gerbers). Then include the images in your post like:
+
+    <center>
+    <img src="/static/images/your-file.jpg" alt="give an alt">
+    <br>Optional caption text
+    </center>
+
+DO NOT commit full sized images ("as a backup") or files greater than 100KB or
+so to this repository, they should stored on flickr or static.leaflabs.com.
+
+To insert syntax-highlighted code, indent the code at least 4 spaces and put
+blank lines above and below. Make sure to indent any internal whitespace lines
+as well, or the code will get split into chunks. Over ride the automatic syntax
+detection by putting, eg,  ":::c++" or ":::python" in the first line of code.
+Use ":::text" to just have white text on black background, useful for console
+output.
+
+When your draft looks good, commit all the new files to git, push git, and
+upload to the live server. Once everybody has checked it out and you want it to
+go live, remove the "Status: draft" line, re-commit, git push, and rsync
+upload. The "/blog/" page will list the new post, and it will also be included
+in the RSS feed and sitemaps.xml.
+
+### URLs
+
+The front page is './home.html'. It is a jinja template, not a markdown page,
+but you can just edit it like HTML (sans the header and footer).
 
 The URL of a "page" (not a blog post) is based on it's "slug", which is either
 deduced from the title of the page or from the 'slug' metadata attribute.
@@ -15,6 +93,12 @@ deduced from the title of the page or from the 'slug' metadata attribute.
 The URL of a "post" (not a page) is based on both the date (specified in
 metadata) and the slug (based on the title, or overwritten in metadata).
 
-# Theme
+On the live site, the /docs/ tree (and a handful of older redirects) is handled
+at the http server level (nginx). Look on the server in
+`/etc/nginx/sites-available/leaflabs.com` for location/alias entries.
 
-To edit the site-wide theme, check in `leaflabs_theme/templates/base.html`.
+### Theme
+
+To edit the site-wide template (header and footer), check in
+`leaflabs_theme/templates/base.html`. 
+

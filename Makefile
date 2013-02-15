@@ -15,6 +15,7 @@ SSH_HOST=leaflabs.com
 SSH_PORT=2269
 SSH_USER=$(USER)
 SSH_TARGET_DIR=/srv/http/staging/www
+SSH_TARGET_DIR_LIVE=/srv/http/leaflabs.com/www
 
 DROPBOX_DIR=~/Dropbox/Public/
 
@@ -61,6 +62,9 @@ ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvz --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+
+rsync_upload_live: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvz --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 dropbox_upload: publish
