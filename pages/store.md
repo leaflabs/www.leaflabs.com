@@ -1,7 +1,7 @@
 Title: An Emporium of Electronic Delights
 Slug: store
 
-<h1 style="margin-top: 0px; line-height:20px;"><span class="subtitle">Direct sales are on hold; purchase from our <a href="/distributors/">distributors</a>!</span></h1>
+<h1 style="margin-top: 0px; line-height:20px;"><span class="subtitle">Direct sales are suspended; purchase from our <a href="/distributors/">distributors</a>!</span></h1>
 
 <!--
 <div style="text-align: center; font-size: 16px;"><a href="#maplemini">Maple Mini</a> |  <a href="#maple">Maple</a></div>

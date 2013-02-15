@@ -19,12 +19,12 @@ cost, but were signifiantly less accessible due to a combined dearth of
 toolchain integration, functional and human-readable peripheral libraries, and
 hardware platforms that met the common sense expecations of modern folks. After
 several production pitfalls and financial droughts, in 2010 the team finally
-released the Maple and Maple Mini boards with a open source software
+released the Maple and Maple Mini boards with an open source software
 development toolchain.
 
 Around this time most of the team had graduated from college, and some spun off
 into high-end audiophilia, theoretical condensed matter physics, and other
-such non-sense. The remaining Leafers were joined by Marti and has embarked on
+such nonsense. The remaining Leafers were joined by Marti and have embarked on
 a series of increasingly ambitious and interesting contract jobs.
 
 <!-- TODO: image of seeed assembly here -->
@@ -32,8 +32,8 @@ a series of increasingly ambitious and interesting contract jobs.
 We do business with component distributors, PCB fabrication factories, and
 surface mount assembly houses both in the United States and in China. We are
 <i>always, always, always</i> looking for affordable prototype fabrication
-services in the New England area (for some definition of "low-cost")... let us
-know if you have any tips!
+services in the New England area (for some definition of "low-cost")... 
+[let us know](/contact/) if you have any tips!
 
 <center>
 <i style="font-size:1.75em; color:gray;">The Team</i>
@@ -54,7 +54,7 @@ a repurposed cubicle farm in the middle Central Square in Cambridge, MA.
 Starting out as the first tenants, we quickly filled the space with like-minded
 freelancers and small technical businesses: 3D printing dreamers,
 robo-toast-video-calligraphy artists, interaction architects, solar power
-hustlers, etc. When that building shut down we moved a 15 minute walk away to
+hustlers, etc. When that building shut down, we moved a 15 minute walk away to
 Inman Square and started <a href="http://industry-lab.com/">Industry Lab</a>,
 where we cheerily find ourselves at this very moment:
 

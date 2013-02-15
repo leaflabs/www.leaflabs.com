@@ -24,7 +24,7 @@ Slug: contact
   <td style="border: none; padding: 4px;">
   <a href="mailto:info@leaflabs.com">info@leaflabs.com</a> (general)
   <br>
-  <a href="mailto:services@leaflabs.com">services@leaflabs.com</a> (contracting)
+  <a href="mailto:biz-dev@leaflabs.com">biz-dev@leaflabs.com</a> (contracting)
   <br>
   <a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a> (distribution)
   </td>
