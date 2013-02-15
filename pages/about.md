@@ -50,10 +50,10 @@ know if you have any tips!
 After first bouncing through dorm rooms and apartments, we moved in to our
 first real office space 
 <a href="/2010/05/cubicals-and-leopards-and-cliches-oh-my/"> in Spring 2010</a>:
-a repurposed cubical farm in the middle Central Square in Cambridge, MA.
+a repurposed cubicle farm in the middle Central Square in Cambridge, MA.
 Starting out as the first tenants, we quickly filled the space with like-minded
 freelancers and small technical businesses: 3D printing dreamers,
-robo-toast-video-caligraphy artists, interaction architects, solar power
+robo-toast-video-calligraphy artists, interaction architects, solar power
 hustlers, etc. When that building shut down we moved a 15 minute walk away to
 Inman Square and started <a href="http://industry-lab.com/">Industry Lab</a>,
 where we cheerily find ourselves at this very moment:
