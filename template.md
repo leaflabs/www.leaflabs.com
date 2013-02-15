@@ -101,6 +101,12 @@ Some libmaple code:
         return 0;
     }
 
+Inline YouTube video example:
+
+<center>
+<object width="500" height="281"><param name="movie" value="http://www.youtube.com/v/SQVLaHIw_TY?version=3&#038;feature=oembed"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/SQVLaHIw_TY?version=3&#038;feature=oembed" type="application/x-shockwave-flash" width="500" height="281" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+</center>
+
 <!-- comments like this WILL end up in the output HTML source -->
 
   [weird image]: /static/images/distributors/200px-Sparkfun_logo.png
