@@ -70,13 +70,12 @@ lying around for use with a cellphone or other USB device.
 For a short list of known issues with this revision of Maple Mini (rev3), see
 the <a href="/docs/hardware/maple-mini.html#errata">errata page</a>.
 
-
 <br><br><br>
 <h3>Sales Policies</h3>
 
 LeafLabs currently only supports PayPal payments. All inquiries regarding bulk
-purchases or distributors should be directed to <a
-href="mailto:sales@leaflabs.com">sales@leaflabs.com</a>.
+purchases or distributors should be directed to 
+<a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a>.
 
 <strong>Shipping:</strong> LeafLabs ships domestically for a flat rate of
 $5.00, and internationally at cost (usually around $13). We can usually ship up
@@ -84,17 +83,17 @@ $5.00, and internationally at cost (usually around $13). We can usually ship up
 upon request.
 
 <strong>Warranty:</strong> LeafLabs warrants to Customer that Products
-purchased will conform to the manufacturer’s specifications as noted in the <a
-href="http://leaflabs.com/docs/">documentation</a> for such <a
-href="/devices/">Products</a>. In the case of any defects in the Products
+purchased will conform to the manufacturer’s specifications as noted in the 
+<a href="http://leaflabs.com/docs/">documentation</a> for such 
+<a href="/devices/">Products</a>. In the case of any defects in the Products
 resulting the breach of this warranty, Customer’s remedy is limited to (at
 LeafLab’s election) (1) refund of Customer’s purchase price for such Products,
 (2) repair of such Products, or (3) replacement of such Products; provided that
 such Products must be returned to LeafLabs, along with acceptable evidence of
 purchase, within 60 days from date of delivery, transportation charges prepaid.
 No warranty will apply if the Product has been subject to misuse, static
-discharge, neglect, accident or modification. In short, if<span
-style="font-weight: normal;"> it's busted, we'll replace it...</span>
+discharge, neglect, accident or modification. In short, if it's busted, we'll
+replace it...
 
 <strong>Privacy Policy:</strong> LeafLabs will never share your information
 with a third party without your express consent, and we do not store credit
@@ -103,6 +102,6 @@ feature.
 
 <h3>Distributors</h3>
 You may wish to purchase through a friendly local distributor to save on
-shipping/customs or just for general convenience. See <a
-href="/distributors/">this page</a> for a full listing!
+shipping/customs or just for general convenience. See 
+<a href="/distributors/">this page</a> for a full listing!
 
