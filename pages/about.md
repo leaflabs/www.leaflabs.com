@@ -2,7 +2,7 @@ Title: All About LeafLabs
 Slug: about
 
 <center>
-<i style="font-size:1.75em; color:gray;">We are committed to democratizing digital design</i>
+<i style="font-size:1.75em; color:gray;">We Build Digital Tools for Human Beings</i>
 </center>
 
 LeafLabs was founded in 2009 on the premise that science should not just be
