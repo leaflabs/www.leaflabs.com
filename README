@@ -102,3 +102,18 @@ at the http server level (nginx). Look on the server in
 To edit the site-wide template (header and footer), check in
 `leaflabs_theme/templates/base.html`. 
 
+### Troubleshooting
+
+If you get a bunch of warnings like:
+
+    WARNING: Could not process /home/bnewbold/leaf/posts/the-beaglepede-cometh.md
+    'tuple' object has no attribute 'keys'
+    WARNING: Could not process /home/bnewbold/leaf/pages/thank-you-for-your-purchase.md
+    'tuple' object has no attribute 'keys'
+
+that seems to be due to an old python-markdown error (see
+https://github.com/waylan/Python-Markdown/issues/76); if you update to a
+version of markdown post 2.1.1 it goes away:
+
+    sudo easy_install -U markdown
+
