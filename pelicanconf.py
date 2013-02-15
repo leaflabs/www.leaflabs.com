@@ -8,6 +8,9 @@ SITEURL = 'http://leaflabs.com'
 TIMEZONE = 'UTC'
 DATE_FORMATS = { 'en': '%A, %B %d, %Y', }
 
+# DO NOT set DEFAULT_DATE to 'fs'; git will not track created or last modified
+# timestamps correctly
+
 DEFAULT_LANG = u'en'
 
 DEFAULT_PAGINATION = 6
