@@ -129,7 +129,6 @@ h4 a{
 span.subtitle {
     font-size: .6em;
     color: gray;
-    text-decoration: italic;
 }
 span.subtitle a {
     color: green;
@@ -145,7 +144,7 @@ div#header {
 }
 div#header a {
     padding: 0px;
-    display: normal;
+    display: inherit;
     text-decoration: none;
 }
 img#sitelogo {
@@ -261,7 +260,7 @@ div#bottomright a {
     color: #333;
 }
 img.frontheaderimg {
-    margin: none;
+    margin: 0px;
     border-top: 1px solid black;
     border-bottom: 2px solid black;
     border-right: 1px solid black;
@@ -308,7 +307,7 @@ div.blogpostinfo a {
 }
 
 input.openid-identifier {
-    background:#FFFFFF url(http://static.leaflabs.net/style/img/openid.png) no-repeat scroll 0 50%;
+    background:#FFFFFF url(http://static.leaflabs.com/style/img/openid.png) no-repeat scroll 0 50%;
     padding-left:18px;
     width: 268px;
 }
@@ -322,7 +321,7 @@ input.openid-identifier {
     padding: 0px;
     float: left;
     background-size: 100%;
-    filter: alpha(opacity=100);
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     -moz-opacity: 1;
     opacity: 1;
 }
@@ -333,251 +332,12 @@ input.openid-identifier {
     padding: 10px;
     margin: 0px;
     background-color: #BBEEBB;
-    filter: alpha(opacity=90);
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
     -moz-opacity: 0.90;
     opacity: 0.90;
 }
 .projectbox:hover .projectboxcontents {
     visibility: visible;
-}
-
-/* ---------- WP COMMENTS ------------ */
-#comments {
-  clear: both;
-  float: none;
-  margin-top: 10PX;
-  font-size: 90%;
-  line-height: 100%;
-}
-
-#comments h2 {
-  font-size: 190%;
-  font-weight: normal;
-}
-
-#comments h3 {
-  font-size: 130%;
-  font-weight: normal;
-  margin: 15px 0 5px 0;
-  float: none;
-  clear: both;
-}
-
-#comments h3 a, #comments h3 a:visited {
-  border-bottom: 1px dotted;
-  text-decoration: none;
-}
-
-#comments h3 a:hover {
-  color: #800000;
-  text-decoration: none;
-}
-
-#comments img {
-  margin: 0 5px 0 0;
-}
-
-#comments ol {
-/*  list-style: none; */
-  padding: 0;
-  margin: 0;
-}
-
-#comments ul {
-  list-style: square;
-}
-
-#comments ul li, #comments ol li {
-  margin: 0;
-  padding: 0 0 5px 0;
-}
-
-.commentlist {
-  list-style: none;
-}
-
-.comment_border {
-  margin-bottom: 30px;
-}
-
-#comment_meta {
-  float: none;
-  clear: both;
-  margin: 0 0 10px 0;
-  line-height: 160%;
-  color: #808080;
-  height: 64px;
-  font-size: 100%;
-  /*padding-left: 5px;*/
-  /*background-color: #F5F5F5;*/
-  /*border-bottom: 1px solid #CCC;*/
-}
-
-.comment_meta_admin {
-  background-color: #E5E5E5;
-}
-
-.comment_meta_visitor {
-  background-color: #EBEBEB;
-}
-
-.comment_admin {
-  /*color: #400000;*/
-  color: #000;
-}
-
-.comment_visitor {
-  color: #555;
-}
-
-#comment_meta a, #comment_meta a:visited {
-  color: #555;
-  text-decoration: none;
-}
-
-#comment_meta a:hover {
-  color: #800000;
-  text-decoration: underline;
-}
-
-#comment_meta img {
-  margin: 0 8px 0 0;
-  float: left;
-}
-
-#comment_self {
-  clear: both;
-  float: none;
-}
-
-#respond {
-/* need it for floating comment form */
-}
-
-#comment_form #comment {
-  font-size: 100%;
-  margin: 0 15px 10px 0;
-  height: 158px;
-  background-color:#FFF;
-  padding: 5px;
-  border:#AAA 1px solid;
-  color:#333;
-}
-
-.full_width {
-  width: 98%;
-  /*width: 588px;*/
-  /*float: none;*/
-}
-
-.half_width {
-  width: 57%;
-  float: right;
-}
-
-#comment_form input {
-  /*font-family: Tahoma, Verdana, Helvetica, Arial, sans-serif;
-  font-size: 110%;
-  margin: 1px 0 15px 0;
-  background-color:#FFF;
-  padding: 5px;
-  width: 36%;*/
-}
-
-.inpt {
-  font-size: 110%;
-  margin: 1px 0 15px 0;
-  background-color:#FFF;
-  padding: 5px;
-  width: 280px;;
-}
-
-.req {
-  border:#AAA 1px solid;
-  color:#555;
-}
-
-.notreq {
-  border:#AAA 1px dotted;
-}
-
-.color_light_grey {
-  color:#888;
-}
-
-.color_red{
-  color: red;
-}
-
-#comment_form_bottom {
-  float: none;
-  clear: both;
-}
-
-.float_left {
-  float: left;
-}
-
-#comment_form #submit {
-  font-size: 100%;
-  background-color:#747474;
-  border:#747474 1px solid;
-  color:#DDD;
-  width: 200px;
-  height: 30px;
-  padding: 0;
-  font-weight: bold;
-  clear: both;
-  float: left;
-  margin: 0 0 10px 0;
-}
-
-#comment_form #submit:hover {
-  cursor: pointer;
-  background-color:#606060;
-  border: #555 1px solid;
-  color: #fff;
-}
-
-#comments p {
-    font-size: 1.1em;
-    margin-left: 0px;
-}
-
-.commentlist li, #commentform input, #commentform textarea {
-	font: 0.9em Helvetica, 'Lucida Grande', Verdana, Arial, Sans-Serif;
-	}
-.commentlist li ul li {
-	font-size: 1em;
-}
-
-.commentlist li {
-	font-weight: bold;
-}
-
-.commentlist li .avatar { 
-	float: right;
-	background: #fff;
-	}
-
-.commentlist cite, .commentlist cite a {
-	font-weight: bold;
-	font-style: normal;
-	font-size: 1.1em;
-	}
-
-.commentlist p {
-	font-weight: normal;
-	line-height: 1.5em;
-	text-transform: none;
-	}
-
-#commentform p {
-	font-family: Helvetica, 'Lucida Grande', Verdana, Arial, Sans-Serif;
-}
-
-.commentmetadata {
-	font-weight: normal;
 }
 
 /* ------ WP SEARCHFORM ------ */
