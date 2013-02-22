@@ -176,7 +176,7 @@ II, which will feature an STM32F407ZE chip.</b>
 
 <p>
 <div style="clear: both;">
-<h3><a name="Oak">Oak</a></h3>
+<h3><a name="oak">Oak</a></h3>
 
 Oak is built from the same Cortex M3 foundation as Maple but also boasts a 250k
 gate Xilinx Spartan 3E, making it the first product in its class to feature an
@@ -192,7 +192,7 @@ Circa 2013, Oak development is on hold.
 </div>
 
 <div style="clear: both;">
-<h3><a name="Willow">Willow</a></h3>
+<h3><a name="willow">Willow</a></h3>
 
 There will be more information on Willow as it becomes available. The Willow
 model is in the very early stages of development, and circa 2013 is on hold.
