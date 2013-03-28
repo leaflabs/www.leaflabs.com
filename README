@@ -10,6 +10,12 @@ find more advanced documentation at:
 
     http://pelican.readthedocs.org
 
+On debian wheezy this looks like:
+
+    sudo apt-get install python-jinja2 python-pygments python-docutils python-markdown
+    sudo easy_install -U markdown
+    sudo easy_install pelican
+
 ### Commands
 
 To (re)build the website from scratch locally (after making any changes) and
