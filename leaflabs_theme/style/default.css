@@ -144,7 +144,6 @@ div#header {
 }
 div#header a {
     padding: 0px;
-    display: inherit;
     text-decoration: none;
 }
 img#sitelogo {
