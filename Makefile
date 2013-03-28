@@ -11,11 +11,11 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=leaflabs.com
-SSH_PORT=2269
+SSH_HOST=kelp.leaflabs.com
+SSH_PORT=484
 SSH_USER=$(USER)
-SSH_TARGET_DIR=/srv/http/staging/www
-SSH_TARGET_DIR_LIVE=/srv/http/leaflabs.com/www
+SSH_TARGET_DIR=/srv/http/staging.leaflabs.com/www
+SSH_TARGET_DIR_LIVE=/srv/http/www.leaflabs.com/www
 
 DROPBOX_DIR=~/Dropbox/Public/
 
