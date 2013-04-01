@@ -5,7 +5,7 @@ Category: Uncategorized
 
 Real-time audio processing is an example of an application where Maple really shines in comparison to Arduino. Maple has 12-bit ADCs with sample rates up to 1MSPS and PWM fast enough to clear ~11.8 bits of resolution (log2(72MHz/20kHz)=11.8) at a frequency twice the <a title="Nyquist frequency" href="http://en.wikipedia.org/wiki/Nyquist_frequency">Nyquist frequency</a> of the upper end of the bandwidth of the human ear (20kHz). And there's a lot of clock cycles to do all kinds of really awesome stuff to the signal (e.g. echo, distortion, octave, harmony, equalization, flange, phaser, fuzz, ring modulation, and complete new imagined effects)! I drew up a schematic and layout in <a href="http://www.cadsoftusa.com/">EAGLE</a> and etched a PCB with two 1/8" audio jacks, an adjustable preamp, input and output filters, and some potentiometers. Here's a photo of the assembled shield and the schematic:
 <p style="text-align: center;"><a href="/static/images/old/2010/07/maplebesideaudioshieldproto.jpg">
-<img class="size-medium wp-image-1148" title="maplebesideaudioshieldproto" src="/static/images/old/2010/07/maplebesideaudioshieldproto-300x198.jpg" alt="" width="300" height="198" /></a> <a href="/static/images/old/2010/07/audioshieldproto-r2-v1-schematic.pdf">
+<img class="size-medium wp-image-1148" title="maplebesideaudioshieldproto" src="/static/images/old/2010/07/maplebesideaudioshieldproto-300x198.jpg" alt="" width="300" height="198" /></a> <a href="/static/images/old/dropbox/audioshieldproto-r2-v1-schematic.pdf">
 <img class="size-medium wp-image-1145" title="audioshieldproto-r2-v1-schematic" src="/static/images/old/2010/07/audioshieldproto-r2-v1-schematic-300x201.png" alt="" width="300" height="201" /></a></p>
 <p style="text-align: center;">Note: The potentiometer knobs aren't on the schematic; I hand wired them afterwards.</p>
 <p style="text-align: center;">Here are the EAGLE schematic and board layout files for this board: <a href="/static/images/old/dropbox/audioshieldproto-r2-v1.sch">audioshieldproto-r2-v1.sch</a> <a href="/static/images/old/dropbox/audioshieldproto-r2-v1.brd">audioshieldproto-r2-v1.brd</a></p>
@@ -14,20 +14,20 @@ This can also be breadboarded with some increase in noise, but it's not that bad
 <img class="alignnone size-full wp-image-1167" title="400px-Sallen-Key_Lowpass_General.svg" src="/static/images/old/2010/07/400px-Sallen-Key_Lowpass_General.svg_.png" alt="" width="400" height="200" /></a></p>
 <p style="text-align: left;">The filter is an <a href="http://en.wikipedia.org/wiki/Active_filter">active filter</a> of the <a href="http://en.wikipedia.org/wiki/Sallen%E2%80%93Key_topology">Sallen-Key topology</a>. I used AD8452 op-amps that I got from <a href="http://www.digikey.com/">Digi-Key</a>, which is one of the few op-amps suitable for 3.3V single supply operation. Another good op-amp for this, which I'll probably go with on the next version of this board, is the <a href="http://www.national.com/pf/LM/LM324.html">LM324</a>, which is a quad op-amp (four in a package). This will make it easier and cheaper to build a higher order input filter. I modeled the filter I built on this board with <a href="http://www.linear.com/designtools/software/ltspice.jsp">LTSpice</a> and this is what the frequency response looks like:</p>
 <p style="text-align: center;"><a href="/static/images/old/2010/07/mapleaudioshieldinputfilterfreqresponse.png">
-<img class="aligncenter size-large wp-image-1171" title="mapleaudioshieldinputfilterfreqresponse" src="/static/images/old/2010/07/mapleaudioshieldinputfilterfreqresponse-770x390.png" alt="" width="770" height="390" /></a>Here's a link to the LTSpice schematic for the filter: <a href="/static/images/old/dropbox/allen-keyinputlowpassfilter.asc">sallen-keyinputlowpassfilter.asc</a></p>
+<img class="aligncenter size-large wp-image-1171" title="mapleaudioshieldinputfilterfreqresponse" src="/static/images/old/2010/07/mapleaudioshieldinputfilterfreqresponse-770x390.png" alt="" width="770" height="390" /></a>Here's a link to the LTSpice schematic for the filter: <a href="/static/images/old/dropbox/sallen-keyinputlowpassfilter.asc">sallen-keyinputlowpassfilter.asc</a></p>
 <p style="text-align: left;">So what does it sound like? I'm obsessed with audio effects, but I don't play guitar. I tried to play guitar for these recordings. Here's a photo of the setup:</p>
 <p style="text-align: left;"><a href="/static/images/old/2010/07/mapleaudioshieldguitarheadphones.jpg">
 <img class="aligncenter size-medium wp-image-1185" title="mapleaudioshieldguitarheadphones" src="/static/images/old/2010/07/mapleaudioshieldguitarheadphones-300x198.jpg" alt="" width="300" height="198" /></a></p>
 <p style="text-align: left;">To record the effect, I simply connected the output to my computer instead of headphones or a guitar amplifier.</p>
 <p style="text-align: left;">Here's an mp3 of the guitar just being passed through with no effect:</p>
-<p style="text-align: left;"><a href="/static/images/old/2010/07/audioshieldproto-passcleanguitar.mp3">audioshieldproto-passcleanguitar.mp3 </a></p>
-<p style="text-align: left;">This is where the knob that varies the mix between clean and the effect is turned about half-way up: <a href="/static/images/old/2010/07/audioshieldproto-halfeffectguitar.mp3"></a></p>
-<p style="text-align: left;"><a href="/static/images/old/2010/07/audioshieldproto-halfeffectguitar.mp3">audioshieldproto-halfeffectguitar.mp3</a></p>
+<p style="text-align: left;"><a href="/static/images/old/dropbox/audioshieldproto-passcleanguitar.mp3">audioshieldproto-passcleanguitar.mp3 </a></p>
+<p style="text-align: left;">This is where the knob that varies the mix between clean and the effect is turned about half-way up: <a href="/static/images/old/dropbox/audioshieldproto-halfeffectguitar.mp3"></a></p>
+<p style="text-align: left;"><a href="/static/images/old/dropbox/audioshieldproto-halfeffectguitar.mp3">audioshieldproto-halfeffectguitar.mp3</a></p>
 <p style="text-align: left;">Here's full effect:</p>
-<p style="text-align: left;"><a href="/static/images/old/2010/07/audioshieldproto-fulleffectguitar.mp3">audioshieldproto-fulleffectguitar.mp3</a></p>
+<p style="text-align: left;"><a href="/static/images/old/dropbox/audioshieldproto-fulleffectguitar.mp3">audioshieldproto-fulleffectguitar.mp3</a></p>
 <p style="text-align: left;">These are with a sine and triangle wave input instead of a guitar and I turned the knob up and then down:</p>
-<p style="text-align: left;"><a href="../wp-content/uploads/2010/07/audioshieldproto-sinewave-turningknob.mp3">audioshieldproto-sinewave-turningknob.mp3</a></p>
-<p style="text-align: left;"><a href="/static/images/old/2010/07/audioshieldproto-trianglewave-turningknob.mp3">audioshieldproto-trianglewave-turningknob.mp3</a></p>
+<p style="text-align: left;"><a href="/static/images/old/dropbox/audioshieldproto-sinewave-turningknob.mp3">audioshieldproto-sinewave-turningknob.mp3</a></p>
+<p style="text-align: left;"><a href="/static/images/old/dropbox/audioshieldproto-trianglewave-turningknob.mp3">audioshieldproto-trianglewave-turningknob.mp3</a></p>
 <p style="text-align: left;">I generated the sine and triangle waves with a signal generator app I downloaded onto an iPod Touch:<a href="/static/images/old/2010/07/mapleaudioshieldipodlaptop.jpg"></a></p>
 <p style="text-align: left;"><a href="/static/images/old/2010/07/mapleaudioshieldipodlaptop.jpg">
 </a><a href="/static/images/old/2010/07/mapleaudioshieldipodlaptop.jpg">
@@ -318,6 +318,6 @@ This sketch is just a quick, easy way to do what it does. Many optimizations can
 The mapping being done by my sketch is stored in the array called "iomap". I computed this array with a simple Python script. Here's a graph of the map and the script:
 <p style="text-align: center;"><a href="/static/images/old/2010/07/iomap.png">
 <img class="aligncenter size-medium wp-image-1189" title="iomap" src="/static/images/old/2010/07/iomap-770x584.png" alt="" width="770" height="584" /></a></p>
-<p style="text-align: center;">Python script: <a href="/static/images/old/iomapgenerator.py">iomapgenerator.py</a></p>
+<p style="text-align: center;">Python script: <a href="/static/images/old/dropbox/iomapgenerator.py">iomapgenerator.py</a></p>
 <p style="text-align: left;">The horizontal axis is input and the vertical axis is output. I think the behavior of this mapping is interesting. A very low amplitude sine wave is simply amplified but as the amplitude becomes larger, it gets transformed into sine waves with frequencies that are octaves above it.</p>
 <p style="text-align: left;">We're interested in your comments and ideas! And if you're interested in continued development on a shield for this stuff, let us know.</p>

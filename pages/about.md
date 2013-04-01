@@ -83,6 +83,6 @@ where we cheerily find ourselves at this very moment:
   [contact]: /contact/
   [licensing]: /licensing/
   [community]: /community/
-  [LeafLabs logo]: http://static.leaflabs.net/img/leaflogo.png "LeafLabs"
+  [LeafLabs logo]: http://static.leaflabs.com/img/leaflogo.png "LeafLabs"
   [Arduino]: http://arduino.cc
   [the store]: /store/

@@ -134,7 +134,7 @@ Arduino-style libraries and programming environment you're used to.
 II, which will feature an STM32F407ZE chip.</b>
 </p>
 
-<img style="width: 21%; margin-top: 10px; margin-left: 3%; margin-right: 3%; float: left;" title="maple_native_proto" src="http://www.leaflabs.net/wp-content/uploads/2010/02/maple_native_proto-157x300.png" alt="" />
+<img style="width: 21%; margin-top: 10px; margin-left: 3%; margin-right: 3%; float: left;" title="maple_native_proto" src="/static/images/old/2010/02/maple_native_proto-157x300.png" alt="" />
 <table style="border: none;" cellspacing="0" cellpadding="0" width="70%" align="right">
 <tbody>
 <tr>
