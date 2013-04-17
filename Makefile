@@ -14,8 +14,8 @@ FTP_TARGET_DIR=/
 SSH_HOST=kelp.leaflabs.com
 SSH_PORT=484
 SSH_USER=$(USER)
-SSH_TARGET_DIR=/srv/http/staging.leaflabs.com/www
-SSH_TARGET_DIR_LIVE=/srv/http/www.leaflabs.com/www
+SSH_TARGET_DIR_STAGING=/srv/http/staging.leaflabs.com/www
+SSH_TARGET_DIR_PRODUCTION=/srv/http/www.leaflabs.com/www
 
 DROPBOX_DIR=~/Dropbox/Public/
 
@@ -30,7 +30,8 @@ help:
 	@echo '   make serve                       serve site at http://localhost:8000'
 	@echo '   make devserver                   start/restart develop_server.sh    '
 	@echo '   ssh_upload                       upload the web site via SSH        '
-	@echo '   rsync_upload                     upload the web site via rsync+ssh  '
+	@echo '   rsync_upload_staging             upload the web site via rsync+ssh  '
+	@echo '   rsync_upload_production          upload the web site via rsync+ssh  '
 	@echo '   dropbox_upload                   upload the web site via Dropbox    '
 	@echo '   ftp_upload                       upload the web site via FTP        '
 	@echo '   github                           upload the web site via gh-pages   '
@@ -61,11 +62,11 @@ publish:
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
-rsync_upload: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvz --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+rsync_upload_staging: publish
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvz --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR_STAGING)
 
-rsync_upload_live: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvz --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR_LIVE)
+rsync_upload_production: publish
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvz --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR_PRODUCTION)
 
 dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)

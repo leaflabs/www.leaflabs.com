@@ -28,11 +28,11 @@ changes (eg, to the theme), push to the staging directory first.
 
 To push to the server's staging directory:
 
-    make rsync_upload
+    make rsync_upload_staging
 
 To push to the live website:
 
-    make rsync_upload_live
+    make rsync_upload_production
 
 Run 'make' with no arguments for a full list of commands (not all are
 configured).
