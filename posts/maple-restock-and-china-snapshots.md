@@ -9,10 +9,11 @@ Status: draft
 <a href="http://industry-lab.com">Industry Lab</a></i>
 </center>
 
-After a couple logistical hick-ups, we finally shipped out a batch of fresh
-Maple boards to distributors; a batch of Maple Minis are expected to go out
-next week. Our distributors have been out of stock for many weeks now, and the
-blame has been squarely on our shoulders.
+After a couple logistical hiccups, we finally shipped out fresh Maple boards to
+distributors, and a batch of Maple Minis are expected to go out next week. All
+distributors have been out of stock for many weeks now, and we want to make it
+clear that the blame lies with us, not our manufacturing and distribution
+partners. Sorry about that!
 
 You might wonder just where our boards are actually manufactured; I certainly
 did! During a personal trip to China this past January I was able to visit
