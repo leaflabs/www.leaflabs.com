@@ -1,7 +1,6 @@
 Title: Maple Restock And China Snapshots
 Date: 2013-04-25 12:12
 Author: bnewbold
-Status: draft
 
 <center>
 <img src="/static/images/posts/20120423_bagging.png" alt="bagging_maples" style="border: 2px solid grey;">
@@ -36,7 +35,7 @@ experiment.
 <a href="/static/images/posts/cn201301/eric_bryan.png">
 <img src="/static/images/posts/cn201301/eric_bryan.png" width="770px" alt="eric_bryan">
 </a>
-<br><i>Bryan and Eric Chan at the Seeed offices; even in January I worked up a
+<br><i>Bryan and Eric Pan at the Seeed offices; even in January I worked up a
 sweat walking around the city</i>
 </center>
 
@@ -67,7 +66,7 @@ testers</i>
 <center>
 <a href="/static/images/posts/cn201301/packing.png">
 <img src="/static/images/posts/cn201301/packing.png" width="770px" alt="packing"></a>
-<br><i>Packing and sorting</i>
+<br><i>Testing and Soldering boards</i>
 </center>
 
 <br><br>
