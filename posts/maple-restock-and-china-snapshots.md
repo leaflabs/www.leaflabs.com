@@ -16,7 +16,7 @@ partners. Sorry about that!
 
 You might wonder just where our boards are actually manufactured; I certainly
 did! During a personal trip to China this past January I was able to visit
-Shenzhen and <a href="http://seeedstudios.com">Seeedstudios</a>, the company
+Shenzhen and <a href="http://seeedstudio.com">Seeedstudio</a>, the company
 that has handled sourcing, PCB fabrication, assembly, and testing for the Maple
 product line for the past several years.
 
