@@ -15,9 +15,9 @@ The company got it's start developing and selling a user-friendly physical
 computing board built around a new-to-market ARM Cortex-M3 32-bit
 microcontroller. These controllers were more powerful and had a larger feature
 set than the most popular existing 8-bit chips, and were rapidly decreasing in
-cost, but were signifiantly less accessible due to a combined dearth of
+cost, but were significantly less accessible due to a combined dearth of
 toolchain integration, functional and human-readable peripheral libraries, and
-hardware platforms that met the common sense expecations of modern folks. After
+hardware platforms that met the common sense expectations of modern folks. After
 several production pitfalls and financial droughts, in 2010 the team finally
 released the Maple and Maple Mini boards with an open source software
 development toolchain.
