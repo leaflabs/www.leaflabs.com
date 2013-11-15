@@ -35,7 +35,7 @@ accessible to the average person."</em>
 </div>
 
 <div class="emptybox">
-<a style="float: right;" href="http://www.robotshop.com/leaflabs-maple-32-bit-arduino-compatible-microcontroller.html"> <img src="http://static.leaflabs.com/img/distributors/robotshop-logo.gif" alt="RobotShop Logo" /></a>
+<a style="float: right;" href="http://www.robotshop.com/leaflabs-maple-32-bit-arduino-compatible-microcontroller.html"> <img src="/static/images/distributors/robotshop-logo.gif" alt="RobotShop Logo" /></a>
 <h3><a href="http://www.robotshop.com/">RobotShop</a></h3>
 <b>Based in Canada and the US, ships internationally
 <br>Buy Now:
@@ -49,7 +49,7 @@ office is located in Boisbriand, Quebec."</em>
 </div>
 
 <div class="emptybox">
-<a style="float: right;" href="http://www.cutedigi.com/"><img src="http://static.leaflabs.com/img/distributors/cuteDigiLogo.gif" alt="CuteDigi Logo" /></a>
+<a style="float: right;" href="http://www.cutedigi.com/"><img src="/static/images/distributors/cuteDigiLogo.gif" alt="CuteDigi Logo" /></a>
 <h3><a href="http://www.cutedigi.com/">CuteDigi</a></h3>
 <b>Based in USA, ships internationally
 <br>Buy Now: <a href="http://www.cutedigi.com/product_info.php?products_id=4514&amp;osCsid=9643bdc067392dcd9e6e9f7ecec174bd">Maple</a>
@@ -66,7 +66,7 @@ and prototyping components."</em>
 <h2>Asia</h2>
 
 <div class="emptybox">
-<a style="float: right;" href="http://www.seeedstudio.com/"> <img src="http://static.leaflabs.com/img/distributors/seeed-logo.jpg" alt="Seeed Depot Logo" /></a>
+<a style="float: right;" href="http://www.seeedstudio.com/"> <img src="/static/images/distributors/seeed-logo.jpg" alt="Seeed Depot Logo" /></a>
 <h3><a href="http://www.seeedstudio.com/">SeeedStudios</a></h3>
 <b>Based in China, ships internationally
 <br>Buy Now:
@@ -81,7 +81,7 @@ from capacitor to dev. boards and many categories in- between."</em>
 </div>
 
 <div class="emptybox">
-<a style="float: right;" href="http://www.dfrobot.com/"><img src="http://static.leaflabs.com/img/distributors/dfrobot-logo.png" alt="DFRobot Logo" /></a>
+<a style="float: right;" href="http://www.dfrobot.com/"><img src="/static/images/distributors/dfrobot-logo.png" alt="DFRobot Logo" /></a>
 <h3><a href="http://www.dfrobot.com/">DFRobot</a></h3>
 <b>Based in China, ships internationally
 <br>Buy Now: <a href="http://www.dfrobot.com/index.php?route=product/product&amp;path=35_38&amp;product_id=341">Maple</a>
@@ -94,7 +94,7 @@ China."</em>
 </div>
 
 <div class="emptybox">
-<a style="float: right;" href="http://tenettech.com/"> <img src="http://static.leaflabs.com/img/distributors/tenettech-logo.jpg" alt="Tenet Tech Logo" /></a>
+<a style="float: right;" href="http://tenettech.com/"> <img src="/static/images/distributors/tenettech-logo.jpg" alt="Tenet Tech Logo" /></a>
 <h3><a href="http://tenettech.com/">Tenet Tech</a></h3>
 <b>Based in India
 <br>Buy Now:
@@ -112,7 +112,7 @@ and Support"</em>
 <h2>Europe</h2>
 
 <div class="emptybox">
-<a style="float: right;" href="http://www.antratek.com/"><img style="margin: 10px;" src="http://www.antratek.com/images/logo-nieuw.jpg" alt="Antratek Logo" height="100" /></a>
+<a style="float: right;" href="http://www.antratek.com/"><img style="margin: 10px;" src="/static/images/distributors/logo-nieuw.jpg" alt="Antratek Logo" height="100" /></a>
 <h3><a href="http://www.antratek.com/">Antratek Electronics</a></h3>
 <b>Based in Netherlands and Belgium, ships in the EU
 <br>Buy Now: <a href="http://www.antratek.com/Maple.html">Maple</a>
@@ -125,7 +125,7 @@ to industry, but also to educational institutes and private persons.</em>
 </div>
 
 <div class="emptybox">
-<a style="float: right;" href="http://www.egnite.de/"><img src="http://static.leaflabs.com/img/distributors/egnite-logo.png" alt="egnite Logo" /></a>
+<a style="float: right;" href="http://www.egnite.de/"><img src="/static/images/distributors/egnite-logo.png" alt="egnite Logo" /></a>
 <h3><a href="http://www.egnite.de/">egnite GmbH</a></h3>
 <b>Based in Germany, ships internationally
 <br>Buy Now:
@@ -139,7 +139,7 @@ Germany."</em>
 </div>
 
 <div class="emptybox">
-<a style="float: right;" href="http://www.lawicel-shop.se/shop/"> <img src="http://static.leaflabs.com/img/distributors/lawicel-logo.jpg" alt="Lawicel Logo" /></a>
+<a style="float: right;" href="http://www.lawicel-shop.se/shop/"> <img src="/static/images/distributors/lawicel-logo.jpg" alt="Lawicel Logo" /></a>
 <h3><a href="http://www.lawicel-shop.se/shop/">Lawicel AB</a></h3>
 <b>Based in Sweden and the EU, ships internationally
 <br>Buy Now:
