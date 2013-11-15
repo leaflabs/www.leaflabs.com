@@ -12,7 +12,7 @@ Slug: store
 <h3><a href="/devices/maple/">The Maple</a></h3>
 <hr /><!-- Maple -->
 <a style="float: right; margin-bottom: 15px;" href="/devices/#maple">
-<img class="size-medium wp-image-535" style="float: left; margin-right: 8px; border: 2px solid black;" title="maple-board" src="http://farm5.static.flickr.com/4041/4613181199_33a31ca4ab_m.jpg" alt="" width="190" height="190" />
+<img class="size-medium wp-image-535" style="float: left; margin-right: 8px; border: 2px solid black;" title="maple-board" src="/static/images/old/maple_top_photo.jpg" alt="" width="190" height="190" />
 </a>
 
 
