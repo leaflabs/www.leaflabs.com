@@ -138,7 +138,7 @@ div#header {
     height:67px;
     border-bottom: dotted #333 1px;
     margin:0;
-    padding-top: 5px;
+    padding-top: 6px;
     color: #4d8d3f; /* logo dark: 4d8d3f */
     /* background: #8fdb90;      logo background: 8fdb90 */
 }
@@ -186,6 +186,9 @@ div.linkcontainer li {
     font-weight: bold;
     color:black;
 }
+div.linkcontainer li.lastli {
+    margin-right: 8px;
+}
 div.linkcontainer a {
     text-decoration: none;
     padding: 0px; 
@@ -197,10 +200,11 @@ div.linkcontainer a:hover {
 }
 form.searchform {
     float: right;
-    margin-right: 12px;
+    margin-right: 8px;
     margin-top: 4px;
 }
 input.searchinput {
+    margin-top: 4px;
     width: 294px;
     color: #999;
     font-style: italic;
