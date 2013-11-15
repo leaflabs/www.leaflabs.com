@@ -1,5 +1,5 @@
 Title: Fancy Tracing
-Date: 2013-11-13 18:04
+Date: 2013-11-15 12:04
 Author: bnewbold
 Slug: fancy-tracing
 
