@@ -25,15 +25,8 @@ development toolchain.
 Around this time most of the team had graduated from college, and some spun off
 into high-end audiophilia, theoretical condensed matter physics, and other
 such nonsense. The remaining Leafers were joined by Marti and have embarked on
-a series of increasingly ambitious and interesting contract jobs.
-
-<!-- TODO: image of seeed assembly here -->
-
-We do business with component distributors, PCB fabrication factories, and
-surface mount assembly houses both in the United States and in China. We are
-<i>always, always, always</i> looking for affordable prototype fabrication
-services in the New England area (for some definition of "low-cost")... 
-[let us know](/contact/) if you have any tips!
+a series of increasingly ambitious and interesting
+<a href="/services/">contract jobs</a>.
 
 <center>
 <i style="font-size:1.75em; color:gray;">The Team</i>
@@ -65,6 +58,25 @@ where we cheerily find ourselves at this very moment:
 <br>
 <i>Use the [contact][] page to get in touch.</i>
 </center>
+
+<br>
+<center>
+<i style="font-size:1.75em; color:gray;">Manufacturing</i>
+</center>
+
+<center>
+<a href="/2013/04/maple-restock-and-china-snapshots/">
+<img class="alignnone" title="production0" src="/static/images/posts/cn201301/assembly.png" width="200px">
+<img class="alignnone" title="production1" src="/static/images/posts/cn201301/bench.png" width="200px">
+<img class="alignnone" title="production2" src="/static/images/posts/cn201301/packing.png" width="200px">
+</a>
+</center>
+
+We do business with component distributors, PCB fabrication factories, and
+surface mount assembly houses both in the United States and in China. We are
+<i>always, always, always</i> looking for affordable prototype fabrication
+services in the New England area (for some definition of "low-cost")... 
+[let us know](/contact/) if you have any tips!
 
 <br>
 <center>
