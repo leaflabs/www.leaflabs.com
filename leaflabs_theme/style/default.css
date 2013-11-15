@@ -426,3 +426,37 @@ div#frontheader_new a{
     color:#000000;
     font-weight:800;
 }
+
+.devicesubtitle {
+    font-size: 0.7em;
+    color: grey
+}
+
+.devicestatusproduction {
+    color: green;
+    float: right;
+    margin-top: 0.5em;
+    font-size: 0.7em;
+}
+
+.devicestatuseol{
+    color: darkred;
+    float: right;
+    margin-top: 0.5em;
+    font-size: 0.7em;
+}
+
+.devicestatuscanceled {
+    color: darkred;
+    text-decoration: strike;
+    float: right;
+    margin-top: 0.5em;
+    font-size: 0.7em;
+}
+
+.devicestatusdev {
+    color: purple;
+    float: right;
+    margin-top: 0.5em;
+    font-size: 0.7em;
+}
