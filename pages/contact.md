@@ -8,6 +8,29 @@ Slug: contact
 <table style="border: none;">
 <tr>
   <td style="font-weight: bold; text-align: right; border: none; padding: 4px;">
+    Email</td>
+  <td style="border: none; padding: 4px;">
+  <a href="mailto:info@leaflabs.com">info@leaflabs.com</a> (general)
+  <br>
+  <a href="mailto:biz-dev@leaflabs.com">biz-dev@leaflabs.com</a> (contracting)
+  <br>
+  <a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a> (distribution)
+  </td>
+</tr>
+<tr>
+  <td style="font-weight: bold; text-align: right; border: none; padding: 4px;">
+    Post</td>
+  <td style="border: none; padding: 4px;">
+<pre>
+LeafLabs, LLC
+288 Norfolk St, Floor 4
+Cambridge, MA  02139  USA
+(<a href="http://goo.gl/maps/tCrOA">Google Maps</a>, <a href="http://www.openstreetmap.org/?way=29746879#map=19/42.37129/-71.09744">OpenStreetMap</a>)
+</pre>
+</td>
+</tr>
+<tr>
+  <td style="font-weight: bold; text-align: right; border: none; padding: 4px;">
     Forums</td>
   <td style="border: none; padding: 4px;">
   <a href="http://forums.leaflabs.com">forums.leaflabs.com</a></td>
@@ -20,32 +43,9 @@ Slug: contact
 </tr>
 <tr>
   <td style="font-weight: bold; text-align: right; border: none; padding: 4px;">
-    Email</td>
-  <td style="border: none; padding: 4px;">
-  <a href="mailto:info@leaflabs.com">info@leaflabs.com</a> (general)
-  <br>
-  <a href="mailto:biz-dev@leaflabs.com">biz-dev@leaflabs.com</a> (contracting)
-  <br>
-  <a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a> (distribution)
-  </td>
-</tr>
-<tr>
-  <td style="font-weight: bold; text-align: right; border: none; padding: 4px;">
     Twitter</td>
   <td style="border: none; padding: 4px;">
   <a href="http://twitter.com/leaflabs">@leaflabs</a></td>
-</tr>
-<tr>
-  <td style="font-weight: bold; text-align: right; border: none; padding: 4px;">
-    Post</td>
-  <td style="border: none; padding: 4px;">
-<pre>
-LeafLabs, LLC
-288 Norfolk St, Floor 4
-Cambridge, MA  02139  USA
-(<a href="http://goo.gl/maps/tCrOA">Google Maps</a>)
-</pre>
-</td>
 </tr>
 </table>
 </div>
@@ -55,5 +55,7 @@ Cambridge, MA  02139  USA
 </div>
 
 <br clear="both">
+<br>
+<br>
 
   [freenode]: http://webchat.freenode.net/
