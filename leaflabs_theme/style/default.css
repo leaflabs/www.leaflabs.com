@@ -274,7 +274,7 @@ div#frontheader {
     padding-left: 2em;
     padding-right: 2em;
     padding-bottom: 1em; 
-    background-color: #BBEEBB;
+    background-color: #A9E2A9;
     font-size: 1.2em; 
     font-style:italic; 
     font-family:Georgia,'Times New Roman',Times,serif;
@@ -334,7 +334,7 @@ input.openid-identifier {
     height: 160px;
     padding: 10px;
     margin: 0px;
-    background-color: #BBEEBB;
+    background-color: #A9E2A9;
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
     -moz-opacity: 0.90;
     opacity: 0.90;
@@ -414,7 +414,7 @@ div#frontheader_new {
     padding-bottom: 1em;
     padding-top: 1em;
     padding-right: 2em;
-    background-color: #BBEEBB;
+    background-color: #A9E2A9;
     font-size: 1.2em;
 }
 
