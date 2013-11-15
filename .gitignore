@@ -7,3 +7,5 @@
 *.tmp
 *.old
 output
+uploads
+original.tar.gz
