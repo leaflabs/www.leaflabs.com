@@ -23,8 +23,7 @@ In 2011 a small number of <a href="/docs/hardware/maple-ret6.html">"RET6 Edition
 variant boards were produced,
 which featured a newer STM32 microcontroller with enough RAM and non-volatile
 flash memory to support lightweight interpreted language runtimes (eg, eLua)
-and real-time operating systems. This variant is no longer in production; KiCad
-files <a href="https://github.com/leaflabs/maplehd">are available</a>.
+and real-time operating systems. This variant is no longer in production.
 </p><p>
 A longer blurb is available <a href="/devices/maple/">here</a>. As of 2014, the
 Maple board is still available from <a href="/distributors/">distributors</a>,
@@ -108,7 +107,7 @@ planned and the IDE will not be ported to newer operating systems.
 <br><br>
 <div style="clear: both;">
 <h2><a name="maplenative" href="/docs/hardware/maple-native-beta.html">Maple Native</a>
-&nbsp;<span class="devicesubtitle">Delux STM32 Microcontroller Board</span></a>
+&nbsp;<span class="devicesubtitle">Deluxe STM32 Microcontroller Board</span></a>
 <span class="devicestatuscanceled">Canceled</span>
 </h2>
 <hr>
