@@ -448,7 +448,6 @@ div#frontheader_new a{
 
 .devicestatuscanceled {
     color: darkred;
-    text-decoration: strike;
     float: right;
     margin-top: 0.5em;
     font-size: 0.7em;
