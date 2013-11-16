@@ -1,11 +1,7 @@
 Title: An Emporium of Electronic Delights
 Slug: store
 
-<h1 style="margin-top: 0px; line-height:20px;"><span class="subtitle">Direct sales are suspended; purchase from our <a href="/distributors/">distributors</a>!</span></h1>
-
-<!--
-<div style="text-align: center; font-size: 16px;"><a href="#maplemini">Maple Mini</a> |  <a href="#maple">Maple</a></div>
--->
+<h1 style="margin-top: 0px; line-height:20px;"><span class="subtitle">Purchase from our <a href="/distributors/">distributors</a>!</span></h1>
 
 <br>
 <a name="maple"></a>
@@ -17,7 +13,7 @@ Slug: store
 
 
 <div style="float: left; margin-right: 15px; margin-bottom: 5px; text-align: center;">
-<span style="font-size: 2.5em;"><strike style="color:grey;">$45</strike></span>
+<a href="/distributors/" style="font-size: 2.5em; color:green; text-decoration: none; border-bottom: none;">$45</a>
 <br>
 <strong>Buy from our <a href="/distributors/">distributors!</a></strong>
 </div>
@@ -53,7 +49,7 @@ the <a href="http://leaflabs.com/docs/hardware/maple.html#errata">errata page</a
 </a>
 
 <div style="float: left; margin-right: 15px; margin-bottom: 5px; text-align: center;">
-<span style="font-size: 2.5em;"><strike style="color:grey;">$35</strike></span>
+<a href="/distributors/" style="font-size: 2.5em; color:green; text-decoration:none; border-bottom: none;">$35</a>
 <br>
 <strong>Buy from our <a href="/distributors/">distributors!</a></strong>
 </div>
@@ -73,6 +69,7 @@ the <a href="/docs/hardware/maple-mini.html#errata">errata page</a>.
 <br><br><br>
 <h3>Sales Policies</h3>
 
+<!--
 LeafLabs currently only supports PayPal payments. All inquiries regarding bulk
 purchases or distributors should be directed to 
 <a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a>.
@@ -81,6 +78,7 @@ purchases or distributors should be directed to
 $5.00, and internationally at cost (usually around $13). We can usually ship up
 4 boards in one package at these prices. Certificate of Origin can be provided
 upon request.
+-->
 
 <strong>Warranty:</strong> LeafLabs warrants to Customer that Products
 purchased will conform to the manufacturer’s specifications as noted in the 

@@ -11,7 +11,7 @@ cluttered workbenches in musty basements everywhere. We are dedicated to making
 the latest in computer science and electrical engineering accessible to all
 engineers, regardless of budget or specialized training. 
 
-The company got it's start developing and selling a user-friendly physical
+The company got its start developing and selling a user-friendly physical
 computing board built around a new-to-market ARM Cortex-M3 32-bit
 microcontroller. These controllers were more powerful and had a larger feature
 set than the most popular existing 8-bit chips, and were rapidly decreasing in
@@ -42,7 +42,7 @@ a series of increasingly ambitious and interesting
 
 After first bouncing through dorm rooms and apartments, we moved in to our
 first real office space 
-<a href="/2010/05/cubicals-and-leopards-and-cliches-oh-my/"> in Spring 2010</a>:
+<a href="/2010/05/cubicles-and-leopards-and-cliches-oh-my/"> in Spring 2010</a>:
 a repurposed cubicle farm in the middle Central Square in Cambridge, MA.
 Starting out as the first tenants, we quickly filled the space with like-minded
 freelancers and small technical businesses: 3D printing dreamers,
@@ -97,4 +97,3 @@ services in the New England area (for some definition of "low-cost")...
   [community]: /community/
   [LeafLabs logo]: http://static.leaflabs.com/img/leaflogo.png "LeafLabs"
   [Arduino]: http://arduino.cc
-  [the store]: /store/

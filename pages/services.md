@@ -7,17 +7,17 @@ Slug: services
 
 LeafLabs provides contract engineering and consulting services to businesses,
 startups, academic groups, and institutions. We span a "full stack" of digital
-electronics prototyping; our unique approach is to integrate proven and familar
-open source hardware components, firmware, and host software (much of our own
-design) to deliver both small batch instrumentation and production-ready
-prototypes at lower cost.
+electronics prototyping; our prefered approach is to integrate proven and
+familar open source hardware components, firmware, and host software (much of
+our own design) to deliver both small batch instrumentation and
+production-ready prototypes at lower cost.
 
 <br>
 <div style="float:right; margin-right:60px; margin-top:10px;">
 <b>
 <ul>
   <li>FPGA development and integration
-  <li>MCU Firmware development
+  <li>MCU firmware development
   <li>Linux kernel interfacing
   <li>UNIX network service development
   <li>Circuit design and PCB layout

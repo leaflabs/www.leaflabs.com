@@ -224,7 +224,7 @@ folks interested in this field.
 <br>
 <div style="clear: both;">
 <h2><a name="future">Future Devices</a>
-<span class="devicestatusdev">In Development&#8253;</span>
+<span class="devicestatusdev">In Development<span style="font-weight: normal;">&#8253;</span></span>
 </h2>
 <hr>
 
