@@ -4,12 +4,11 @@ Slug: devices
 <br>
 <div style="clear: both;">
 <h2><a name="maple" href="/devices/maple/">Maple</a>
-&nbsp;<span class="devicesubtitle">Arduino-style STM32 Microcontroller Board</span></a>
+&nbsp;<span class="devicesubtitle">Arduino-style STM32 Microcontroller Board</span>
 <span class="devicestatusproduction">Production</span>
 </h2>
 <hr>
 
-<p>
 The Maple was LeafLab's first product, released in 2009. It was one of the
 first ARM Cortex-M3 microcontroller boards that was accessible to hobbyists and
 engineers outside of the embedded industry. The design was modeled on the
@@ -18,18 +17,18 @@ programming environment based on the free software GCC toolchain and the
 Processing/Wiring/Arduino user interface. LeafLabs wrote a new open source C
 library (libmaple) for this board, having found the vendor supplied libraries
 inadequate. 
-</p><p>
+
 In 2011 a small number of <a href="/docs/hardware/maple-ret6.html">"RET6 Edition"</a>
 variant boards were produced,
 which featured a newer STM32 microcontroller with enough RAM and non-volatile
 flash memory to support lightweight interpreted language runtimes (eg, eLua)
 and real-time operating systems. This variant is no longer in production.
-</p><p>
+
 A longer blurb is available <a href="/devices/maple/">here</a>. As of 2014, the
 Maple board is still available from <a href="/distributors/">distributors</a>,
 but no future hardware revisions are planned and the IDE will not be ported to
 newer operating systems.
-</p>
+
 <br>
 <a href="/devices/maple/"><img style="border: 2px solid black; float: left; margin-left: 0px; width: 190px;" src="/static/images/old/maple_top_photo.jpg" alt="maple gerber" /></a>
 
@@ -58,12 +57,11 @@ newer operating systems.
 <br><br>
 <div style="clear: both;">
 <h2><a name="Maple-Mini"></a><a name="maplemini" href="/docs/hardware/maple-mini.html">Maple Mini</a>
-&nbsp;<span class="devicesubtitle">Breadboard-able STM32 Microcontroller Board</span></a>
+&nbsp;<span class="devicesubtitle">Breadboard-able STM32 Microcontroller Board</span>
 <span class="devicestatusproduction">Production</span>
 </h2>
 <hr>
 
-<p>
 Introduced in early 2011, the Maple Mini is a "breadboard-able" PCB for
 applications where space is limited, or simply if a breadboard is the preferred
 prototyping tool.  Smaller than a stick of gum, Maple Mini features a <a
@@ -71,13 +69,11 @@ href="http://www.st.com/internet/mcu/product/189782.jsp">smaller, 48-pin
 STM32</a> with the same speed and memory as the <a href="#Maple">Maple</a>.
 Maple Mini also has a complete silkscreen, making it uniquely detailed for a
 board its size.
-</p>
-</p><p>
+
 As of 2014, the Maple board is still available from <a
 href="/distributors/">distributors</a>, and we continue to integrate the
 off-the-shelf boards in new projects, but no future hardware revisions are
 planned and the IDE will not be ported to newer operating systems.
-</p>
 
 <a href="/docs/hardware/maple-mini.html">
 <img style="float: left; border: 2px black solid; margin-left: 0px; width: 200px;"
@@ -112,25 +108,19 @@ planned and the IDE will not be ported to newer operating systems.
 </h2>
 <hr>
 
-<p>
 The Maple Native featured hardware similar to the <a href="#maple">Maple's</a>,
 but was designed to fully exploit the powerful STM32F103 line. With twice as
 many pins, an additional megabyte of on-board RAM, and support for true analog
 output, the Maple Native design can easily handle extremely demanding tasks.
-</p>
 
-<p>
 A <a href="/2011/09/maple-native-arriveth/">beta run</a> of Maple Native boards
 was sold in Fall 2011, and support was added
 to libmaple and the Maple IDE. Many design lessons were learned, and following
 the release of even more powerful STM32 chips, work on the Maple Native stopped
 and LeafLabs began designing a new "Maple II" board from scratch.
-</p>
 
-<p>
 Design files and <a href="/docs/hardware/maple-native-beta.html">documentation</a>
 for the Maple Native Beta boards are, of course, still available.
-</p>
 
 <a href="/docs/hardware/maple-native-beta.html">
 <img style="float: left; border: 2px black solid; margin-left: 25px; width: 150px;"
@@ -169,7 +159,6 @@ for the Maple Native Beta boards are, of course, still available.
 </h2>
 <hr>
 
-<p>
 A ground-up redesign of the Maple product line began in 2011, starting with the <b>Maple
 II</b>. The Maple II was move to the Cortex-M4 series of
 STM32 microcontrollers (<a
@@ -184,18 +173,14 @@ The Maple II hardware was prototyped (<a
 href="https://github.com/leaflabs/Maple-II">design files available</a>), but we
 found it economically unfeasible to undertake another large productization and
 manufacturing effort.
-</p>
 
-<p>
 For those looking for contemporary (circa late 2013) ARM microcontroller
 development platforms, the <a href="http://armstrap.org">Armstrap</a>, <a
 href="http://www.pjrc.com/store/teensy3.html">Teensie 3.0</a> (most mature),
 and <a href="http://mchck.org">MCHCK</a> projects are compelling, and of course
 STmicro, TI, and Freescale sell very low-cost development boards for Cortex-M4F
 microcontrollers.
-</p>
 
-<p>
 The <b>Oak</b> product line planned to combine microcontrollers with low-end
 FPGAs. An STM32 Cortex-M3 would be attached to a 250k gate Xilinx Spartan 3E.
 Oak would be a full featured processing platform suitable for robotics, machine
@@ -207,9 +192,7 @@ href="https://github.com/leaflabs/oak">hardware design</a> was prototyped in
 2012 and had basic functionality, but no integrated development environment was
 implemented. Cypress Semiconductor now sells a "programmable SoC" line of chips
 which those interested in this sort of device might want to look at.
-</p>
 
-<p>
 <b>Willow</b> was intented to be a high-performance ARM microprocessor plus
 FPGA board with applications in real-time machine vision, algorithm
 acceleration, and robotic motion control. Early research with the NVidia Tegra
@@ -218,7 +201,8 @@ significantly in recent years (eg, see the Xilinx Zynq and comparable Altera
 chipsets) and it is unlikely this project will be pursued. The <a
 href="http://parallela.org">Parallela</a> project builds a compelling board for
 folks interested in this field.
-</p>
+
+</div>
 
 <br>
 <div style="clear: both;">
@@ -231,5 +215,7 @@ LeafLabs continues to work extensively in the open hardware digital electronics
 space, particularly leveraging FPGA programmable logic. We intend to release
 several projects in 2014, and may yet return to sling the occasional atom in
 addition to plain old bits and bytes.
+
+</div>
 
 <br>

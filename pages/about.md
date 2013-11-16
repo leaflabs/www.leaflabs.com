@@ -1,9 +1,9 @@
 Title: All About LeafLabs
 Slug: about
 
-<center>
+<div class="center">
 <i style="font-size:1.75em; color:gray;">We Build Digital Tools for Human Beings</i>
-</center>
+</div>
 
 LeafLabs was founded in 2009 on the premise that science should not just be
 confined to expensive labs filled with shiny equipment, but also found on
@@ -28,9 +28,11 @@ such nonsense. The remaining Leafers were joined by Marti and have embarked on
 a series of increasingly ambitious and interesting
 <a href="/services/">contract jobs</a>.
 
-<center>
+<br>
+
+<div class="center">
 <i style="font-size:1.75em; color:gray;">The Team</i>
-</center>
+</div>
 
 <div style="text-align: center; width: 100%;">
 <img class="alignnone" title="marti" src="/static/images/team/martisdljhfpdsklfjs.jpg" alt="marti" width="112" height="112" /> 
@@ -52,25 +54,25 @@ Inman Square and started <a href="http://industry-lab.com/">Industry Lab</a>,
 where we cheerily find ourselves at this very moment:
 
 <br>
-<center>
+<div class="center">
 <a href="http://industry-lab.com/">
-<img src="/static/images/industry_lab.jpg" style="border: 2px solid gray;"></a>
+<img src="/static/images/industry_lab.jpg" alt="industry_lab" style="border: 2px solid gray;"></a>
 <br>
 <i>Use the [contact][] page to get in touch.</i>
-</center>
+</div>
 
 <br>
-<center>
+<div class="center">
 <i style="font-size:1.75em; color:gray;">Manufacturing</i>
-</center>
+</div>
 
-<center>
+<div class="center">
 <a href="/2013/04/maple-restock-and-china-snapshots/">
-<img class="alignnone" title="production0" src="/static/images/posts/cn201301/assembly.png" width="200px">
-<img class="alignnone" title="production1" src="/static/images/posts/cn201301/bench.png" width="200px">
-<img class="alignnone" title="production2" src="/static/images/posts/cn201301/packing.png" width="200px">
+<img class="alignnone" alt="production0" src="/static/images/posts/cn201301/assembly.png" width="200">
+<img class="alignnone" alt="production1" src="/static/images/posts/cn201301/bench.png" width="200">
+<img class="alignnone" alt="production2" src="/static/images/posts/cn201301/packing.png" width="200">
 </a>
-</center>
+</div>
 
 We do business with component distributors, PCB fabrication factories, and
 surface mount assembly houses both in the United States and in China. We are
@@ -79,9 +81,9 @@ services in the New England area (for some definition of "low-cost")...
 [let us know](/contact/) if you have any tips!
 
 <br>
-<center>
+<div class="center">
 <i style="font-size:1.75em; color:gray;">Crufty, Hibernated Leafs</i>
-</center>
+</div>
 
 <div style="text-align: center; width: 100%;">
 <img class="alignnone" title="barry" src="/static/images/team/Barry.jpg" alt="barry" width="112" height="112" /> 
