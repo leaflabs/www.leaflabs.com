@@ -11,7 +11,7 @@
 <tr>
   <td style="font-weight: bold; text-align: right; border: none; padding: 4px;">
     {{ article.locale_date }}</td>
-  <td style="border: none; padding: 4px;"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+  <td style="border: none; padding: 4px;"><a href="{{ SITEURL }}{{ article.url }}">{{ article.title }}</a></td>
 </tr>
 {% endfor %}
 </table>
