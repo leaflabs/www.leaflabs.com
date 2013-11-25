@@ -1,8 +1,7 @@
 Title: Cool Tool: RunSnakeRun
-Date: 2014-01-01
+Date: 2013-11-24
 Slug: cool-tool-runsnakerun
 Author: bnewbold 
-Status: draft
 
 <center>
 <img src="/static/images/posts/20130628_runsnakerun_protobuf_tool.png"
