@@ -199,7 +199,7 @@ acceleration, and robotic motion control. Early research with the NVidia Tegra
 line of processors was promising, but the industry has moved forward
 significantly in recent years (eg, see the Xilinx Zynq and comparable Altera
 chipsets) and it is unlikely this project will be pursued. The <a
-href="http://parallela.org">Parallela</a> project builds a compelling board for
+href="http://parallella.org">Parallela</a> project builds a compelling board for
 folks interested in this field.
 
 </div>
