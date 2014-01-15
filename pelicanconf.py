@@ -51,7 +51,7 @@ THEME_STATIC_PATHS = ['style', ]
 
 MARKUP = ('rst', 'md', 'html')
 
-PLUGINS=['pelican.plugins.sitemap',]
+PLUGINS=['sitemap',]
 SITEMAP = {
     'format': 'xml',
     'priorities': {
