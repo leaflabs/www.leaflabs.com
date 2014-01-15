@@ -34,7 +34,7 @@ ARCHIVES_SAVE_AS = 'blog/archives/index.html'
 PATH = '.'
 ARTICLE_DIR = ('posts')
 PAGE_DIR = ('pages')
-STATIC_PATHS = ['images', 'robots.txt']
+STATIC_PATHS = ['static/images', 'robots.txt']
 EXTRA_PATH_METADATA = {
     'robots.txt': {'path': 'robots.txt'},
     }
