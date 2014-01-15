@@ -34,8 +34,10 @@ ARCHIVES_SAVE_AS = 'blog/archives/index.html'
 PATH = '.'
 ARTICLE_DIR = ('posts')
 PAGE_DIR = ('pages')
-STATIC_PATHS = ['images']
-FILES_TO_COPY = (('robots.txt', 'robots.txt'),)
+STATIC_PATHS = ['images', 'robots.txt']
+EXTRA_PATH_METADATA = {
+    'robots.txt': {'path': 'robots.txt'},
+    }
 TEMPLATE_PAGES = {'home.html': 'index.html',
                   '50x.html': '50x.html', 
                   '404.html': '404.html', 
