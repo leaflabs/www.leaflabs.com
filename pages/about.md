@@ -39,6 +39,7 @@ a series of increasingly ambitious and interesting
 <img class="alignnone" title="aj" src="/static/images/team/AJ4now.jpg" alt="aj" width="112" height="112" /> 
 <img class="alignnone" title="jess" src="/static/images/team/Jess.jpg" alt="jess" width="112" height="112" />
 <a href="http://bnewbold.net"><img class="alignnone" title="bryan" src="/static/images/team/bryan.jpg" alt="bryan" width="112" height="112" /></a>
+<img class="alignnone" title="chris" src="/static/images/team/chris_chronopoulos.jpg" alt="chris" width="112" height="112" />
 <br>
 </div>
 
