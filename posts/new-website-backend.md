@@ -22,5 +22,5 @@ changes in XML syntax may mean you get spammed by a re-listing of all our old
 posts. Sorry in advance!
 
 I did my best to re-point image references and preserve old post URLs; if
-anything breaks please [drop us a line](/contacts/).
+anything breaks please [drop us a line](/contact).
 
