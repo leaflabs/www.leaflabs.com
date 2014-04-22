@@ -37,7 +37,7 @@ production-ready prototypes at lower cost.
 
 One emerging area of expertise is in digital signal handling and fast real-time
 data processing for neurobiology experiments scaling to tens of thousands of
-channels.
+channels; more info [here](/neuroscience).
 
 LeafLabs typically bills on an engineer-week basis. Drop as an email at 
 <a href="mailto:business@leaflabs.com">business@leaflabs.com</a> and if it seems
