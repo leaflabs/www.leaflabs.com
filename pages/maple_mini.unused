@@ -1,0 +1,36 @@
+
+<div style="height: 330px;"> 
+<h3 style="font-size: 1.7em;">Our Classic Product: The Maple Mini</h3> 
+
+This microcontroller board has most of the same essentials as the original full
+sized <a href="/devices/maple/">Maple</a>, but in a smaller breadboard-friendly
+form factor. At the center of the Maple Mini is a 72MHz ARM Cortex-M3 chip,
+which can be programmed using either our simple graphical integrated
+development environment or existing industry-standard toolchains.  For those 
+who love and are familiar with Arduino, the <a
+href="/devices/maple/">Maple</a> is offered in an physically-compatible format,
+complete with pin layouts and a graphic programming environment.
+&nbsp;<a href="/docs/hardware/maple-mini.html">Read more &raquo;</a>
+
+<br><br>
+<a href="/docs/hardware/maple-mini.html">
+<img src="/static/images/maple_mini_breadboard.jpg" style="width: 200px; float: left; margin-left:5px; border: 2px black solid;" alt="maple mini with breadboard"></a>
+
+<ul style="float:right;margin-right:0px;width:250px;">
+ <li>Dual <b>I2C</b> and <b>SPI</b> ports 
+ </li><li>3 USART Serial ports
+ </li><li>7-channel <b>DMA</b> 
+ </li><li>Low power and sleep modes 
+ </li><li>Dimensions: 2.02" x 0.72"
+ </li><li>Starting price: <a href="/distributors/"><b>$35 from distributors</b></a>
+ </li><li>Extensive <a href="/docs/hardware/maple-mini.html"><b>documentation</b></a>
+</li></ul> 
+<ul style="margin-left: 240px;"> 
+ <li>STM32F103RCBT6: a <b>32-bit</b> ARM Cortex-M3 microprocessor at <b>72Mhz</b> 
+ </li><li><b>20KB</b> RAM and <b>128KB</b> Flash 
+ </li><li>Dedicated <b>USB</b> port for programming and communications 
+ </li><li>34 General Purpose pins 
+ </li><li><b>9 Analog</b> inputs at 12-bit resolution 
+ </li><li><b>12 PWM pins</b> at 16-bit resolution 
+</li></ul> 
+</div>
