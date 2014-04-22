@@ -1,4 +1,4 @@
-Title: Devices
+Title: Maple Devices
 Slug: devices
 
 <br>
