@@ -202,6 +202,24 @@ div.linkcontainer a {
 div.linkcontainer a:hover {
     color: green;
 }
+div.linkcontainer span.sublinks {
+    font-size: 0.75em;
+    padding-top: 0em
+}
+div.linkcontainer span.sublinks p {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 2px;
+    margin-top: -2px;
+    margin-bottom: -1px;
+}
+div.linkcontainer span.sublinks p a {
+    color: black;
+    text-decoration: none;
+}
+div.linkcontainer span.sublinks p a:hover {
+    color: green;
+}
 form.searchform {
     float: right;
     margin-right: 8px;
@@ -312,7 +330,7 @@ div#frontmessage {
     background-color: #A9E2A9;
     margin-bottom: 2.5em;
     font-size: 1.2em; 
-    height: 14em;
+    height: 15em;
     border: 4px rgb(97, 155, 97) solid;
     border-radius: 1em;
     /* font-style:italic; */
