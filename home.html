@@ -1,66 +1,55 @@
 {# NB: This file is a "jinja2 template", but can mostly be edited like HTML #}
 {% extends "base.html" %}
+{% block head %}{{ super() }}
+<style type="text/css">
+div#header {
+    border-bottom: none;
+}
+</style>
+{% endblock %}
 {% block content %}
-<div id="frontheader">
+<!-- this block must be one line without spaces :( -->
+<a href="http://wiki.leaflabs.com/Lorenz"><img src="/static/images/home_header_lorenz.jpg" alt="n/a" class="frontheaderimg"></a><a href="http://www.youtube.com/watch?v=Jr2ZsedYxPM"><img src="/static/images/home_header_theramin.jpg" alt="n/a" class="frontheaderimg"></a><a href="/services/"><img src="/static/images/home_header_fpga_utilization.png" alt="n/a" class="frontheaderimg"></a><a href="/neuroscience/"><img src="/static/images/home_header_signal_trace.png" alt="n/a" class="frontheaderimg"></a><a href="http://leaflabs.com/2010/07/audio-and-guitar-effects-on-maple/"><img src="/static/images/home_header_shield.jpg" alt="n/a" class="frontheaderimg"></a>
+<!-- end block -->
 
+<div class="frontbuttons">
+<a href="/devices/">Maple</a>
+<a href="/neuroscience/">Neuroscience</a>
+<a href="/services/">Services</a>
+</div>
+
+<div id="frontmessage">
+<h3>Hello World!</h3>
+
+<div id="frontmessageleft">
 <p>
-<b>Hello World!</b> We are a small company that designs powerful
+We are a small company that designs powerful
 <a href="/devices/">physical computing devices</a>
 for control and communication among smart machines (including humans!).
 We work with scientists, entrepreneurs, artists, and enthusiasts to
-implement beautiful ideas as quickly and elegantly as possible. Many of our 
+implement beautiful ideas as quickly and elegantly as possible.
+</p>
+
+</div><div id="frontmessageright">
+<p>
+Many of our 
 <a href="http://github.com/leaflabs/maple">hardware designs</a> and supporting 
 <a href="http://github.com/leaflabs/">software tools</a> are freely available under
 common Open Source <a href="/licensing/">licenses</a>.
-</p>
-
-<p>
 You can read more <a href="/about/">about us</a>,
 check the <a href="/blog/">blog</a>,
 purchase products from our <a href="/distributors/">distributors</a>,
 inquire about engineering <a href="/services/">services</a>,
 or see what others are <a href="http://forums.leaflabs.com">saying</a>
 and <a href="/projects/">building</a>.
-Thanks for visiting!
+</p>
 
-</p></div> 
-<!-- this block must be one line without spaces :( -->
-<a href="http://wiki.leaflabs.com/Lorenz"><img src="/static/images/home_header_lorenz.jpg" alt="n/a" class="frontheaderimg"></a><a href="http://www.youtube.com/watch?v=Jr2ZsedYxPM"><img src="/static/images/home_header_theramin.jpg" alt="n/a" class="frontheaderimg"></a><a href="/services/"><img src="/static/images/home_header_fpga_utilization.png" alt="n/a" class="frontheaderimg"></a><a href="/neuroscience/"><img src="/static/images/home_header_signal_trace.png" alt="n/a" class="frontheaderimg"></a><a href="http://leaflabs.com/2010/07/audio-and-guitar-effects-on-maple/"><img src="/static/images/home_header_shield.jpg" alt="n/a" class="frontheaderimg"></a>
-<!-- end block -->
-<div style="height: 330px;"> 
-<h3 style="font-size: 1.7em;">Our Classic Product: The Maple Mini</h3> 
+<p>
+<br>
+<div style="text-align: center; width: 100%;"><i>Thanks for visiting!</i></div>
+</p>
+</div> 
 
-This microcontroller board has most of the same essentials as the original full
-sized <a href="/devices/maple/">Maple</a>, but in a smaller breadboard-friendly
-form factor. At the center of the Maple Mini is a 72MHz ARM Cortex-M3 chip,
-which can be programmed using either our simple graphical integrated
-development environment or existing industry-standard toolchains.  For those 
-who love and are familiar with Arduino, the <a
-href="/devices/maple/">Maple</a> is offered in an physically-compatible format,
-complete with pin layouts and a graphic programming environment.
-&nbsp;<a href="/docs/hardware/maple-mini.html">Read more &raquo;</a>
-
-<br><br>
-<a href="/docs/hardware/maple-mini.html">
-<img src="/static/images/maple_mini_breadboard.jpg" style="width: 200px; float: left; margin-left:5px; border: 2px black solid;" alt="maple mini with breadboard"></a>
-
-<ul style="float:right;margin-right:0px;width:250px;">
- <li>Dual <b>I2C</b> and <b>SPI</b> ports 
- </li><li>3 USART Serial ports
- </li><li>7-channel <b>DMA</b> 
- </li><li>Low power and sleep modes 
- </li><li>Dimensions: 2.02" x 0.72"
- </li><li>Starting price: <a href="/distributors/"><b>$35 from distributors</b></a>
- </li><li>Extensive <a href="/docs/hardware/maple-mini.html"><b>documentation</b></a>
-</li></ul> 
-<ul style="margin-left: 240px;"> 
- <li>STM32F103RCBT6: a <b>32-bit</b> ARM Cortex-M3 microprocessor at <b>72Mhz</b> 
- </li><li><b>20KB</b> RAM and <b>128KB</b> Flash 
- </li><li>Dedicated <b>USB</b> port for programming and communications 
- </li><li>34 General Purpose pins 
- </li><li><b>9 Analog</b> inputs at 12-bit resolution 
- </li><li><b>12 PWM pins</b> at 16-bit resolution 
-</li></ul> 
 </div>
 
 {% endblock content %}

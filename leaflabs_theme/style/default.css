@@ -269,7 +269,7 @@ div#bottomright a {
 img.frontheaderimg {
     margin: 0px;
     border-top: 1px solid black;
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     border-right: 1px solid black;
     margin-bottom: 8px;
 }
@@ -278,6 +278,7 @@ div#frontheader {
     padding-left: 2em;
     padding-right: 2em;
     padding-bottom: 1em; 
+    margin-bottom: 2.5em;
     background-color: #A9E2A9;
     font-size: 1.2em; 
     font-style:italic; 
@@ -286,6 +287,54 @@ div#frontheader {
 div#frontheader a{
     color: black;
     font-weight: bold;
+}
+div.frontbuttons {
+    width: 100%;
+    text-align: center;
+    height: 7em;
+    padding-top: 4em;
+}
+div.frontbuttons a {
+    margin: 2em 2em 2em 2em;
+    padding: 0.6em;
+    font-size: 1.8em;
+    background-color: #A9E2A9;
+    border: 3px rgb(97, 155, 97) solid;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 1em;
+}
+div#frontmessage {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em; 
+    background-color: #A9E2A9;
+    margin-bottom: 2.5em;
+    font-size: 1.2em; 
+    height: 14em;
+    border: 4px rgb(97, 155, 97) solid;
+    border-radius: 1em;
+    /* font-style:italic; */
+    /* font-family:Georgia,'Times New Roman',Times,serif; */
+}
+div#frontmessage a {
+    color: black;
+    font-weight: bold;
+}
+div#frontmessage p {
+    margin-top: 0.25em;
+}
+div#frontmessageleft {
+    padding-top: 0.25em;
+    padding-right: 0.5em;
+    float:left;
+    width:360px;
+}
+div#frontmessageright {
+    padding-top: 0em;
+    float:right;
+    width:360px;
 }
 div.blogtitle {
     width: 100%;
