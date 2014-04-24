@@ -12,7 +12,7 @@ Slug: contact
   <td style="border: none; padding: 4px;">
   <a href="mailto:info@leaflabs.com">info@leaflabs.com</a> (general)
   <br>
-  <a href="mailto:business@leaflabs.com">business@leaflabs.com</a> (contracting)
+  <a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a> (contracting)
   <br>
   <a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a> (distribution)
   </td>
