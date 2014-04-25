@@ -12,12 +12,14 @@ to integrate proven and familiar open source hardware components,
 firmware, and host software (much of our own design) to deliver both
 small volume and production-ready designs.
 
+Our services include the following:
+
 <br>
 <div style="float:right; margin-right:60px; margin-top:10px;">
 <ul style="font-weight: bold;">
   <li>FPGA development and integration
   <li>MCU firmware development
-  <li>Linux kernel interfacing
+  <li>Linux kernel development and integration
   <li>UNIX network service development
   <li>Circuit design and PCB layout
   <li>Prototype and small-run manufacturing logistics
