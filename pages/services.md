@@ -38,8 +38,8 @@ Our services include the following:
 <br style="clear: both;">
 
 One emerging area of expertise is in digital signal handling and fast real-time
-data processing for neurobiology experiments scaling to tens of thousands of
-channels; more info [here](/neuroscience).
+data processing for neurobiology experiments scaling to [tens of thousands of
+channels](/neuroscience).
 
 LeafLabs typically bills on an engineer-week basis. Drop as an email at 
 <a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a> and if it seems
