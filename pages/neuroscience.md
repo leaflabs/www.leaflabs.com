@@ -1,9 +1,11 @@
 Title: Neuroscience Data Systems
 Slug: neuroscience
 
-<div class="center">
-<i style="font-size:1.75em; color:purple;">BRAINS!</i>
-</div>
+<!--
+    <div class="center">
+    <i style="font-size:1.75em; color:purple;">BRAINS!</i>
+    </div>
+-->
 
 LeafLabs is working with the Synthetic Neurobiology Group at MIT to
 develop a new kind of minimalist data acquisition system, to store and
