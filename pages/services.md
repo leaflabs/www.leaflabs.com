@@ -5,12 +5,12 @@ Slug: services
 <i style="font-size:1.75em; color:gray;">Bring your ideas to life</i>
 </div>
 
-LeafLabs provides contract engineering and consulting services to businesses,
-startups, academic groups, and institutions. We span a "full stack" of digital
-electronics prototyping; our preferred approach is to integrate proven and
-familar open source hardware components, firmware, and host software (much of
-our own design) to deliver both small batch instrumentation and
-production-ready prototypes at lower cost.
+LeafLabs provides contract engineering and consulting services to
+businesses, startups, academic groups, and institutions. Our skill set
+spans a "full stack" of digital electronics. Our preferred approach is
+to integrate proven and familiar open source hardware components,
+firmware, and host software (much of our own design) to deliver both
+small volume and production-ready designs.
 
 <br>
 <div style="float:right; margin-right:60px; margin-top:10px;">
