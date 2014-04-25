@@ -42,8 +42,8 @@ data processing for neurobiology experiments scaling to [tens of thousands of
 channels](/neuroscience).
 
 LeafLabs typically bills on an engineer-week basis. Drop as an email at 
-<a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a> and if it seems
-like we'd be a good match for your project we'll get back to you with our
+<a href="mailto:sales@leaflabs.com">sales@leaflabs.com</a>, and if it seems
+like we'd be a good match for your project, we'll get back to you with our
 availability.
 
 <br>
