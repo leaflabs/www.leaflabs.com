@@ -12,10 +12,9 @@ to integrate proven and familiar open source hardware components,
 firmware, and host software (much of our own design) to deliver both
 small volume and production-ready designs.
 
-Our services include the following:
-
-<br>
 <div style="float:right; margin-right:60px; margin-top:10px;">
+<br>
+Our services include the following:
 <ul style="font-weight: bold;">
   <li>FPGA development and integration
   <li>MCU firmware development
@@ -31,11 +30,14 @@ Our services include the following:
 </ul>
 </div>
 
+<br>
+
 <div style="float:left; margin-left:30px;">
 <img src="/static/images/devices/2013_network_daq.jpg" alt="custom_board" title="custom_board" style="border:2px solid black; width: 300px;">
 </div>
 
 <br style="clear: both;">
+<br>
 
 One emerging area of expertise is in digital signal handling and fast real-time
 data processing for neurobiology experiments scaling to [tens of thousands of
