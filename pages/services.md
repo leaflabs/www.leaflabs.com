@@ -2,7 +2,7 @@ Title: LeafLabs Engineering Services
 Slug: services
 
 <div class="center">
-<i style="font-size:1.75em; color:gray;">Bring your ideas to life faster</i>
+<i style="font-size:1.75em; color:gray;">Bring your ideas to life</i>
 </div>
 
 LeafLabs provides contract engineering and consulting services to businesses,
