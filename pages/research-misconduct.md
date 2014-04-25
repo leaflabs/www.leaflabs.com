@@ -18,7 +18,7 @@ Slug: policy/research-misconduct
 <span style="color: #000000;">If you believe you have reasonable cause to allege research misconduct on the part of any LeafLabs researcher or other employee, you may do so by:</span>
 <ul>
 	<li>Contacting the <a href="http://www.ori.dhhs.gov/">Office of Research Integrity</a> (ORI) directly at 240-453-8400.</li>
-	<li>Sending written notice to the designated misconduct policy and procedures officer at LeafLabs. The designated officer will forward your allegation to the ORI or other appropriate offices of the <a href="http://www.hhs.gov/">Department of Health and Human Services</a> (DHHS), taking all reasonable and practical steps to protect your identity and the confidentiality of your allegations.The current designated officer is Marti Bolivar. He may be reached via email at <a href="mailto:mbolivar@leaflabs.com">mbolivar@leaflabs.com</a>, or via US Mail at 288 Norfolk St. Ste. 4, Cambridge MA 02139.</li>
+	<li>Sending written notice to the designated misconduct policy and procedures officer at LeafLabs. The designated officer will forward your allegation to the ORI or other appropriate offices of the <a href="http://www.hhs.gov/">Department of Health and Human Services</a> (DHHS), taking all reasonable and practical steps to protect your identity and the confidentiality of your allegations.The current designated officer is Marti Bolivar. He may be reached via email at <a href="mailto:ajmeyer@leaflabs.com">ajmeyer@leaflabs.com</a>, or via US Mail at 288 Norfolk St. Ste. 4, Cambridge MA 02139.</li>
 </ul>
 LeafLabs will then cooperate with the ORI or other appropriate offices to respond to the allegation.
 
