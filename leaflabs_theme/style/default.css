@@ -309,7 +309,7 @@ div#frontheader a{
 div.frontbuttons {
     width: 100%;
     text-align: center;
-    height: 7em;
+    height: 10em;
     padding-top: 4em;
 }
 div.frontbuttons a {
@@ -324,15 +324,17 @@ div.frontbuttons a {
     border-radius: 1em;
 }
 div#frontmessage {
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
     padding-bottom: 1em; 
+    padding-top: 1em;
     background-color: #A9E2A9;
     margin-bottom: 2.5em;
     font-size: 1.2em; 
     height: 15em;
     border: 4px rgb(97, 155, 97) solid;
     border-radius: 1em;
+    text-align: justify;
     /* font-style:italic; */
     /* font-family:Georgia,'Times New Roman',Times,serif; */
 }
@@ -347,12 +349,12 @@ div#frontmessageleft {
     padding-top: 0.25em;
     padding-right: 0.5em;
     float:left;
-    width:360px;
+    width: 20em;
 }
 div#frontmessageright {
     padding-top: 0em;
     float:right;
-    width:360px;
+    width: 20em;
 }
 div.blogtitle {
     width: 100%;
